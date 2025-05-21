@@ -13,7 +13,7 @@
   <radialGradient id="radialGradient4255" cx="982.909" cy="906.453" r="8.5" fx="982.909" fy="906.453" gradientTransform="matrix(1.4117577,5.5406049e-6,-5.5406032e-6,1.4117573,-1320.6245,-1262.6973)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4215-49"/>
   <radialGradient id="radialGradient4263" cx="984" cy="905.362" r="8.5" fx="984" fy="905.362" gradientTransform="matrix(-1.411767,-9.899721e-6,9.8996845e-6,-1.4117618,1406.1698,1345.1655)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4215-49"/>
  </defs>
- <rect style="fill:#000000" id="decoration-center" width="50" height="50" x="17" y="17"/>
+ <rect style="fill:#000000" id="decoration-center" width="46" height="46" x="17" y="17"/>
  <g id="decoration-bottomleft">
   <path d="m 17,84 0,-10 -2,0 c -2.77,0 -5,-2.23 -5,-5 l 0,-2 -10,0 0,17 z" style="fill:url(#radialGradient4263)" />
   <path style="fill:#000000"  d="m 10.9,67 v 2 c 0,2.233297 1.869489,4.211526 4.1,4.1 h 2 V 67 Z"/>
@@ -21,21 +21,21 @@
  </g>
  <g id="decoration-left">
   <g  transform="matrix(-1,0,0,1,298,-240)">
-   <rect width="50" height="10" x="-307" y="288" transform="matrix(0,-1,1,0,0,0)" style="fill:url(#linearGradient4271)" />
+   <rect width="46" height="10" x="-307" y="288" transform="matrix(0,-1,1,0,0,0)" style="fill:url(#linearGradient4271)" />
   </g>
   <path style="fill:#000000"  d="M 10.9,17 V 67 H 17 V 17 Z"/>
   <path style="fill:#000000"  d="M 10 17 L 10 67 L 11 67 L 11 17 L 10 17 z"/>
  </g>
  <g id="decoration-right">
   <g  transform="translate(-214,-240)">
-   <rect width="50" height="10" x="-307" y="288" transform="matrix(0,-1,1,0,0,0)" style="fill:url(#linearGradient4452)" />
+   <rect width="46" height="10" x="-307" y="288" transform="matrix(0,-1,1,0,0,0)" style="fill:url(#linearGradient4452)" />
   </g>
   <path style="fill:#000000"  d="m 67,17 v 50 h 6.1 V 17 Z"/>
   <path style="fill:#000000"  d="M 73 17 L 73 67 L 74 67 L 74 17 L 73 17 z"/>
  </g>
  <g id="decoration-bottom">
   <g  transform="matrix(0,1,-1,0,324,-214)">
-   <rect width="50" height="10" x="-307" y="288" transform="matrix(0,-1,1,0,0,0)" style="fill:url(#linearGradient4259)" />
+   <rect width="46" height="10" x="-307" y="288" transform="matrix(0,-1,1,0,0,0)" style="fill:url(#linearGradient4259)" />
   </g>
   <path style="fill:#000000"  d="m 17,67 v 6.1 H 67 V 67 Z"/>
   <path style="fill:#000000"  d="M 17 73 L 17 74 L 67 74 L 67 73 L 17 73 z"/>
@@ -47,7 +47,7 @@
  </g>
  <g id="decoration-top">
   <g  transform="matrix(0,-1,-1,0,324,298)">
-   <rect width="50" height="10" x="-307" y="288" transform="matrix(0,-1,1,0,0,0)" style="fill:url(#linearGradient4283)" />
+   <rect width="46" height="10" x="-307" y="288" transform="matrix(0,-1,1,0,0,0)" style="fill:url(#linearGradient4283)" />
   </g>
   <path style="fill:#000000"  d="M 17,10.9 V 17 h 50 v -6.1 z"/>
   <path style="fill:#000000"  d="M 17 10 L 17 11 L 67 11 L 67 10 L 17 10 z"/>
