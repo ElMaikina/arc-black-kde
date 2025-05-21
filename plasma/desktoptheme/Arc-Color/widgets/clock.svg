@@ -8,7 +8,7 @@
   </linearGradient>
   <radialGradient id="radialGradient4671" cx="1255.872" cy="382.729" r="96.606" fx="1255.872" fy="382.729" gradientTransform="matrix(1.0765432,0,0,1.0765432,-1248,-308.02447)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4011"/>
   <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Background {color:#2f343f; } .ColorScheme-ButtonBackground { color:#444a58; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-Text { color:#d3dae3; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }
+   .ColorScheme-Background {color:#000000; } .ColorScheme-ButtonBackground { color:#444a58; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-Text { color:#d3dae3; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }
   </style>
  </defs>
  <g id="ClockFace" transform="translate(4,4)">

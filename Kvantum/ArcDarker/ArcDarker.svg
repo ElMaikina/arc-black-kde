@@ -660,32 +660,32 @@
  <rect id="menubaritem-toggled" style="opacity:0.05;fill:#ffffff" width="30" height="10" x="755.4" y="306"/>
  <rect id="menubaritem-pressed" style="fill:#5294e2" width="30" height="10" x="793" y="306"/>
  <g id="toolbar-normal-top" transform="matrix(0.83636363,0,0,0.5,616.02291,-139.78999)">
-  <path style="fill:#2f343f" transform="matrix(1.25,0,0,2,-738.56,609.52204)" d="m 15,84.029297 0,0.5 0,0.5 44,0 0,-0.5 0,-0.5 -44,0 z"/>
+  <path style="fill:#000000" transform="matrix(1.25,0,0,2,-738.56,609.52204)" d="m 15,84.029297 0,0.5 0,0.5 44,0 0,-0.5 0,-0.5 -44,0 z"/>
  </g>
- <rect id="toolbar-normal" style="fill:#2f343f" width="46" height="46" x="14" y="250"/>
+ <rect id="toolbar-normal" style="fill:#000000" width="46" height="46" x="14" y="250"/>
  <g id="toolbar-normal-bottomleft" transform="matrix(4.999997,0,0,1,-55.999936,164.97102)">
-  <path style="fill:#2f343f" d="m 12.999997,131.02899 4e-6,4.99996 0.999996,2e-5 0,-2.49999 0,-2.49999 -0.501109,0 z"/>
+  <path style="fill:#000000" d="m 12.999997,131.02899 4e-6,4.99996 0.999996,2e-5 0,-2.49999 0,-2.49999 -0.501109,0 z"/>
   <path style="opacity:0.3" d="m 12.999997,135.02899 4e-6,0.99998 0.999996,1e-5 0,-0.5 0,-0.49999 -0.501109,0 z"/>
  </g>
  <g id="toolbar-normal-bottom" transform="translate(1.0199985e-5,164.97102)">
-  <path style="fill:#2f343f" d="m 13.999999,131.02895 0,2.49998 0,2.49998 45.999999,0 0,-2.49998 0,-2.49998 -45.999999,0 z"/>
+  <path style="fill:#000000" d="m 13.999999,131.02895 0,2.49998 0,2.49998 45.999999,0 0,-2.49998 0,-2.49998 -45.999999,0 z"/>
   <path style="opacity:0.3" d="m 13.999999,135.02898 0,0.49999 0,0.5 45.999999,0 0,-0.5 0,-0.49999 -45.999999,0 z"/>
  </g>
  <g id="toolbar-normal-bottomright" transform="matrix(5.000004,0,0,1,-240.00021,164.97102)">
-  <path style="fill:#2f343f" d="m 59.999996,131.02901 0,2.49999 0,2.49998 c 0.26796,0 1.000004,0 1.000004,0 0,0 -4e-6,-3.57838 -4e-6,-4.99997 l -0.5,0 z"/>
+  <path style="fill:#000000" d="m 59.999996,131.02901 0,2.49999 0,2.49998 c 0.26796,0 1.000004,0 1.000004,0 0,0 -4e-6,-3.57838 -4e-6,-4.99997 l -0.5,0 z"/>
   <path style="opacity:0.3" d="m 59.999996,135.02899 0,0.5 0,0.49999 c 0.26796,0 1.000004,0 1.000004,0 0,0 -4e-6,-0.71567 -4e-6,-0.99999 l -0.5,0 z"/>
  </g>
  <g id="toolbar-normal-topleft" transform="matrix(0,1,-1,0,145.02899,236.00001)">
-  <path style="fill:#2f343f" d="m 12.999997,131.02899 4e-6,4.99996 0.999996,2e-5 0,-2.49999 0,-2.49999 -0.501109,0 z"/>
+  <path style="fill:#000000" d="m 12.999997,131.02899 4e-6,4.99996 0.999996,2e-5 0,-2.49999 0,-2.49999 -0.501109,0 z"/>
  </g>
  <g id="toolbar-normal-left" transform="matrix(0,1,-1,0,145.02899,236.00001)">
-  <path style="fill:#2f343f" d="m 13.999999,131.02895 0,2.49998 0,2.49998 45.999999,0 0,-2.49998 0,-2.49998 -45.999999,0 z"/>
+  <path style="fill:#000000" d="m 13.999999,131.02895 0,2.49998 0,2.49998 45.999999,0 0,-2.49998 0,-2.49998 -45.999999,0 z"/>
  </g>
  <g id="toolbar-normal-topright" transform="matrix(0,1,1,0,-71.02898,236.00002)">
-  <path style="fill:#2f343f" d="m 12.999997,131.02899 4e-6,4.99996 0.999996,2e-5 0,-2.49999 0,-2.49999 -0.501109,0 z"/>
+  <path style="fill:#000000" d="m 12.999997,131.02899 4e-6,4.99996 0.999996,2e-5 0,-2.49999 0,-2.49999 -0.501109,0 z"/>
  </g>
  <g id="toolbar-normal-right" transform="matrix(0,1,1,0,-71.02898,236.00002)">
-  <path style="fill:#2f343f" d="m 13.999999,131.02895 0,2.49998 0,2.49998 45.999999,0 0,-2.49998 0,-2.49998 -45.999999,0 z"/>
+  <path style="fill:#000000" d="m 13.999999,131.02895 0,2.49998 0,2.49998 45.999999,0 0,-2.49998 0,-2.49998 -45.999999,0 z"/>
  </g>
  <g id="tbutton-normal-topleft" style="opacity:0.00100002" transform="matrix(0.44036669,0,0,1.2307681,328.40991,-159.5256)">
   <path style="fill:#272a33" transform="scale(-1,-1)" d="m 723.0562,-779.58405 a 11.354174,4.0625038 0 0 1 -11.35417,4.06251 l 0,-4.06251 z"/>
@@ -2022,26 +2022,26 @@
   <path style="fill:#f5f6f7" transform="matrix(0,1,1,0,-405.00001,-681.97102)" d="m 813,419 v 46 h 2.5 1.5 v -46 h -1.5 z"/>
   <path style="opacity:0.2" d="m 13.999999,135.02898 v 0.49999 0.5 h 45.999999 v -0.5 -0.49999 z"/>
  </g>
- <rect id="menubar-normal" style="fill:#2f343f" width="20" height="20" x="794" y="370"/>
- <rect id="menubar-normal-left" style="fill:#2f343f" width="20" height="5" x="370" y="-794" transform="rotate(90)"/>
- <rect id="menubar-normal-topleft" style="fill:#2f343f" width="2" height="2" x="365" y="-794" transform="rotate(90)"/>
- <rect id="menubar-normal-top" style="fill:#2f343f" width="20" height="5" x="794" y="365"/>
- <rect id="menubar-normal-right" style="fill:#2f343f" width="20" height="5" x="370" y="-819" transform="rotate(90)"/>
- <rect id="menubar-normal-topright" style="fill:#2f343f" width="2" height="2" x="365" y="-819" transform="rotate(90)"/>
+ <rect id="menubar-normal" style="fill:#000000" width="20" height="20" x="794" y="370"/>
+ <rect id="menubar-normal-left" style="fill:#000000" width="20" height="5" x="370" y="-794" transform="rotate(90)"/>
+ <rect id="menubar-normal-topleft" style="fill:#000000" width="2" height="2" x="365" y="-794" transform="rotate(90)"/>
+ <rect id="menubar-normal-top" style="fill:#000000" width="20" height="5" x="794" y="365"/>
+ <rect id="menubar-normal-right" style="fill:#000000" width="20" height="5" x="370" y="-819" transform="rotate(90)"/>
+ <rect id="menubar-normal-topright" style="fill:#000000" width="2" height="2" x="365" y="-819" transform="rotate(90)"/>
  <g id="menubar-normal-bottomleft" transform="translate(489.00002,-227)">
-  <path style="fill:#2f343f" d="m 300,617 h 5 v 2.99999 h -5 z"/>
+  <path style="fill:#000000" d="m 300,617 h 5 v 2.99999 h -5 z"/>
   <g id="menubar-normal-bottomleft2" transform="matrix(0.25,0,0,1,223.75,0)">
    <path style="fill:#272a33" d="m 305,621 h 20 v -1.00001 h -20 z"/>
   </g>
  </g>
  <g id="menubar-normal-bottomright" transform="translate(489.00002,-227)">
-  <path style="fill:#2f343f" d="m 325,617 h 5 v 2.99999 h -5 z"/>
+  <path style="fill:#000000" d="m 325,617 h 5 v 2.99999 h -5 z"/>
   <g id="menubar-normal-bottomright2" style="fill:#b6b6b6" transform="matrix(0.25,0,0,1,248.75,0)">
    <path style="fill:#272a33" d="m 305,621 h 20 v -1.00001 h -20 z"/>
   </g>
  </g>
  <g id="menubar-normal-bottom" transform="translate(489.00002,-227)">
-  <path style="fill:#2f343f" d="m 305,617 h 20 v 2.99999 h -20 z"/>
+  <path style="fill:#000000" d="m 305,617 h 20 v 2.99999 h -20 z"/>
   <path style="fill:#272a33" d="m 305,619.99999 h 20 V 621 h -20 z"/>
  </g>
  <path id="menuitem-normal-top" style="fill:#5294e2;fill-rule:evenodd" d="m 711.07937,255.96825 h 8 v 4 h -8 z"/>
