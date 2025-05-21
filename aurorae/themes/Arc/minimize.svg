@@ -11,7 +11,7 @@
  </g>
  <g id="pressed-center">
   <rect style="opacity:0.001" width="16" height="16" x="36" y="0"/>
-  <circle style="fill:#5294e2" cx="44" cy="8" r="7"/>
+  <circle style="fill:#333333" cx="44" cy="8" r="7"/>
   <path style="fill:#ffffff" d="m 41,7 v 2 h 6 V 7 Z"/>
  </g>
  <g id="inactive-center">

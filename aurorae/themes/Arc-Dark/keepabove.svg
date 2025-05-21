@@ -10,7 +10,7 @@
   <path style="fill:#c4c7cc" d="m 23,10 h 6 L 26,5 Z"/>
  </g>
  <g id="pressed-center">
-  <circle style="fill:#5294e2" cx="44" cy="8" r="7"/>
+  <circle style="fill:#333333" cx="44" cy="8" r="7"/>
   <rect style="opacity:0.001" width="16" height="16" x="36" y="0"/>
   <path  style="fill:#ffffff" d="m 41,10 h 6 L 44,5 Z"/>
  </g>
