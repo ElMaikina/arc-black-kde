@@ -16,7 +16,7 @@ slider_handle_width=8
 slider_handle_length=18
 textless_progressbar=false
 menubar_mouse_tracking=true
-slim_toolbars=false
+slim_toolbars=true
 toolbutton_style=1
 x11drag=menubar_and_primary_toolbar
 double_click=false
@@ -47,7 +47,7 @@ animate_states=false
 transient_scrollbar=true
 alt_mnemonic=true
 combo_menu=true
-layout_margin=4
+layout_margin=2
 no_window_pattern=false
 respect_DE=true
 scroll_min_extent=12
@@ -79,8 +79,8 @@ light.color=#000000
 mid.light.color=#000000
 dark.color=#000000
 mid.color=#000000
-highlight.color=#111810
-inactive.highlight.color=#111810
+highlight.color=#000000
+inactive.highlight.color=#000000
 text.color=#ffffff
 window.text.color=#ffffff
 button.text.color=#ffffff
@@ -114,11 +114,11 @@ indicator.element=tree
 indicator.size=8
 
 [ToolTip]
-frame.top=4
-frame.right=4
-frame.bottom=4
-frame.left=4
-frame=true
+frame.top=2
+frame.right=2
+frame.bottom=2
+frame.left=2
+frame=false
 
 [PanelButtonCommand]
 inherits=PanelButtonCommand
@@ -136,10 +136,10 @@ inherits=PanelButtonCommand
 inherits=PanelButtonCommand
 interior=false
 frame=false
-text.margin.top=5
-text.margin.bottom=5
-text.margin.left=5
-text.margin.right=5
+text.margin.top=2
+text.margin.bottom=2
+text.margin.left=4
+text.margin.right=4
 indicator.size=0
 
 [Dock] 
@@ -233,7 +233,7 @@ text.normal.color=#ffffff
 text.focus.color=#ffffff
 text.press.color=#ffffff
 text.toggle.color=#ffffff
-focusFrame=true
+focusFrame=false
 
 [TabBarFrame]
 inherits=GenericFrame
@@ -330,10 +330,10 @@ frame=false
 inherits=PanelButtonCommand
 frame.element=scrollbarslider
 interior=false
-frame.left=6
-frame.right=6
-frame.top=6
-frame.bottom=6
+frame.left=4
+frame.right=4
+frame.top=2
+frame.bottom=2
 
 [ProgressbarContents]
 inherits=PanelButtonCommand
