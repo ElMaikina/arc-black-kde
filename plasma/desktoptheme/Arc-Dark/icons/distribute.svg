@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
  <g id="distribute-horizontal-x">
-  <rect style="opacity:0.001" width="32" height="32" x="0" y="0"/>
+  <rect style="opacity:0.001" width="16" height="16" x="0" y="0"/>
   <path style="fill:#d3dae3" d="m 3,9 v 14 h 7 V 9 Z m 19,0 v 14 h 7 V 9 Z m -10,3 v 8 h 2 v -2 h 4 v 2 h 2 v -8 h -2 v 2 h -4 v -2 z"/>
  </g>
  <g id="16-16-distribute-horizontal-x" transform="translate(46,8)">

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
  <defs>
   <style id="current-color-scheme" type="text/css">
    .ColorScheme-Background {color:#000000; } .ColorScheme-ButtonBackground { color:#444a58; } .ColorScheme-Highlight { color:#111810; } .ColorScheme-Text { color:#d3dae3; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }
@@ -10,7 +10,7 @@
   <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="m 14,15 v 2 h 1.825598 c 0.114652,-0.321 0.173766,-0.6592 0.174803,-1 -10e-4,-0.3408 -0.06015,-0.679 -0.174803,-1 z"/>
  </g>
  <g id="elisa">
-  <rect style="opacity:0.001" width="32" height="32" x="0" y="0"/>
+  <rect style="opacity:0.001" width="16" height="16" x="0" y="0"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="M 3.3417969 4 C 2.0449605 4 1 5.1148469 1 6.4980469 L 1 25.501953 C 1 26.885253 2.0449605 28 3.3417969 28 L 4 28 L 6.8242188 23 L 25.175781 23 L 28 28 L 28.658203 28 C 29.955039 28 31 26.885253 31 25.501953 L 31 6.4980469 C 31 5.1148469 29.955039 4 28.658203 4 L 3.3417969 4 z M 5.203125 7 L 26.796875 7 C 27.464057 7 28 7.6468719 28 8.4511719 L 28 13 L 28 20.634766 C 28 21.391766 27.464057 22 26.796875 22 L 5.203125 22 C 4.5359414 22 4 21.391766 4 20.634766 L 4 13 L 4 8.4511719 C 4 7.6468719 4.5359414 7 5.203125 7 z M 10 13 A 3 3 0 0 0 7 16 A 3 3 0 0 0 10 19 L 22 19 A 3 3 0 0 0 25 16 A 3 3 0 0 0 22 13 L 10 13 z M 10 14 A 2 2 0 0 1 12 16 A 2 2 0 0 1 10 18 A 2 2 0 0 1 8 16 A 2 2 0 0 1 10 14 z M 13 14 L 19 14 L 19 18 L 13 18 L 13 14 z M 22 14 A 2 2 0 0 1 24 16 A 2 2 0 0 1 22 18 A 2 2 0 0 1 20 16 A 2 2 0 0 1 22 14 z M 6.8242188 24 L 4.5644531 28 L 27.435547 28 L 25.175781 24 L 6.8242188 24 z M 9 25 A 1 1 0 0 1 10 26 A 1 1 0 0 1 9 27 A 1 1 0 0 1 8 26 A 1 1 0 0 1 9 25 z M 23 25 A 1 1 0 0 1 24 26 A 1 1 0 0 1 23 27 A 1 1 0 0 1 22 26 A 1 1 0 0 1 23 25 z"/>
   <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="m 13,14 v 4 h 2.648438 A 6,6 0 0 0 16,16 6,6 0 0 0 15.650391,14 Z"/>
  </g>

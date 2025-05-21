@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
  <defs>
   <style id="current-color-scheme" type="text/css">
    .ColorScheme-Background {color:#000000; } .ColorScheme-ButtonBackground { color:#444a58; } .ColorScheme-Highlight { color:#111810; } .ColorScheme-Text { color:#d3dae3; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }
@@ -68,64 +68,64 @@
   <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m -55,-15 v 3 h 2 l -2,5 v -3 h -2 z"/>
  </g>
  <g id="Fill100" transform="translate(31.999998)">
-  <rect style="opacity:0.001" width="32" height="32" x="-32" y="0" transform="rotate(-90)"/>
+  <rect style="opacity:0.001" width="16" height="16" x="-32" y="0" transform="rotate(-90)"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="M 9.9999999,25 V 9 h 3.7500151 4.5 H 22 v 16 z"/>
  </g>
  <g id="Battery" transform="translate(-1.8043747e-6)">
-  <rect style="opacity:0.001" width="32" height="32" x="-32" y="0" transform="rotate(-90)"/>
+  <rect style="opacity:0.001" width="16" height="16" x="-32" y="0" transform="rotate(-90)"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="M 7.0000001,28 H 11.5 20.5 25 V 23.5 7 6 H 20.5 19.000015 V 4.75 c 0,-0.4154999 -0.3345,-0.75 -0.75,-0.75 h -4.5 c -0.750015,0 -0.75,0.75 -0.75,0.75 V 6 H 11.5 7.0000001 V 7 25 Z M 9.9999999,25 V 9 h 3.7500151 4.5 H 22 v 16 z"/>
  </g>
  <g id="Fill90" transform="translate(63.999996)">
-  <rect style="opacity:0.001" width="32" height="32" x="-32" y="0" transform="rotate(-90)"/>
+  <rect style="opacity:0.001" width="16" height="16" x="-32" y="0" transform="rotate(-90)"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="M 9.9999999,25 V 11 h 3.7500151 4.5 H 22 v 14 z"/>
  </g>
  <g id="Fill80" transform="translate(95.999994)">
-  <rect style="opacity:0.001" width="32" height="32" x="-32" y="0" transform="rotate(-90)"/>
+  <rect style="opacity:0.001" width="16" height="16" x="-32" y="0" transform="rotate(-90)"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="M 9.9999999,25 V 13 h 3.7500151 4.5 H 22 v 12 z"/>
  </g>
  <g id="Fill70" transform="translate(127.99999)">
-  <rect style="opacity:0.001" width="32" height="32" x="-32" y="0" transform="rotate(-90)"/>
+  <rect style="opacity:0.001" width="16" height="16" x="-32" y="0" transform="rotate(-90)"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="M 9.9999999,25 V 14 h 3.7500151 4.5 H 22 v 11 z"/>
  </g>
  <g id="Fill60" transform="translate(159.99999)">
-  <rect style="opacity:0.001" width="32" height="32" x="-32" y="0" transform="rotate(-90)"/>
+  <rect style="opacity:0.001" width="16" height="16" x="-32" y="0" transform="rotate(-90)"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="M 9.9999999,25 V 15 h 3.7500151 4.5 H 22 v 10 z"/>
  </g>
  <g id="Fill50" transform="translate(191.99999)">
-  <rect style="opacity:0.001" width="32" height="32" x="-32" y="0" transform="rotate(-90)"/>
+  <rect style="opacity:0.001" width="16" height="16" x="-32" y="0" transform="rotate(-90)"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 9.9999999,25 v -8 h 3.7500151 4.5 H 22 v 8 z"/>
  </g>
  <g id="Fill40" transform="translate(223.99999)">
-  <rect style="opacity:0.001" width="32" height="32" x="-32" y="0" transform="rotate(-90)"/>
+  <rect style="opacity:0.001" width="16" height="16" x="-32" y="0" transform="rotate(-90)"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 9.9999999,25 v -7 h 3.7500151 4.5 H 22 v 7 z"/>
  </g>
  <g id="Fill30" transform="translate(255.99999)">
-  <rect style="opacity:0.001" width="32" height="32" x="-32" y="0" transform="rotate(-90)"/>
+  <rect style="opacity:0.001" width="16" height="16" x="-32" y="0" transform="rotate(-90)"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 9.9999999,25 v -5 h 3.7500151 4.5 H 22 v 5 z"/>
  </g>
  <g id="Fill20" transform="translate(287.99999)">
-  <rect style="opacity:0.001" width="32" height="32" x="-32" y="0" transform="rotate(-90)"/>
+  <rect style="opacity:0.001" width="16" height="16" x="-32" y="0" transform="rotate(-90)"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 9.9999999,25 v -3 h 3.7500151 4.5 H 22 v 3 z"/>
  </g>
  <g id="Fill10" transform="translate(31.999998)">
-  <rect style="opacity:0.001" width="32" height="32" x="-32" y="288" transform="rotate(-90)"/>
+  <rect style="opacity:0.001" width="16" height="16" x="-32" y="288" transform="rotate(-90)"/>
   <path style="fill:currentColor" class="ColorScheme-NegativeText" d="M 301.75,4 C 300.99998,4 301,4.75 301,4.75 V 6 h -1.5 -4.5 v 1 18 3 h 4.5 9 4.5 V 23.5 7 6 H 308.5 307 V 4.75 C 307,4.3345001 306.6655,4 306.25,4 Z M 298,9 h 3.75 4.5 3.75 v 15 h -3.75 -4.5 -3.75 z"/>
  </g>
  <g id="Fill0" transform="translate(351.99999)">
-  <rect style="opacity:0.001" width="32" height="32" x="-32" y="0" transform="rotate(-90)"/>
+  <rect style="opacity:0.001" width="16" height="16" x="-32" y="0" transform="rotate(-90)"/>
   <path style="fill:currentColor" class="ColorScheme-NegativeText" d="M 7.0000001,28 H 11.5 20.5 25 V 23.5 7 6 H 20.5 19.000015 V 4.75 c 0,-0.4154999 -0.3345,-0.75 -0.75,-0.75 h -4.5 c -0.750015,0 -0.75,0.75 -0.75,0.75 V 6 H 11.5 7.0000001 V 7 25 Z M 9.9999999,25 V 9 h 3.7500151 4.5 H 22 v 16 z"/>
  </g>
  <g id="Unavailable" transform="translate(31.999998)">
-  <rect style="opacity:0.001" width="32" height="32" x="-32" y="352" transform="rotate(-90)"/>
+  <rect style="opacity:0.001" width="16" height="16" x="-32" y="352" transform="rotate(-90)"/>
   <rect style="fill:currentColor" class="ColorScheme-NeutralText" width="14" height="14" x="368" y="16" ry="1.4"/>
   <path style="fill:#ffffff" d="M 378.00001,17.999996 375,21 371.99999,17.999996 370,19.999994 l 3,3.000004 -3,3.000004 L 371.99999,28 375,24.999996 378.00001,28 380,26.000002 376.99999,22.999998 380,19.999994 Z"/>
  </g>
  <g id="AcAdapter" transform="translate(31.999998)">
-  <rect style="opacity:0.001" width="32" height="32" x="-32" y="384" transform="rotate(-90)"/>
+  <rect style="opacity:0.001" width="16" height="16" x="-32" y="384" transform="rotate(-90)"/>
   <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m 400,10 v 5 h 3 l -3,7 v -5 h -3 z"/>
  </g>
  <g id="battery-ups" transform="translate(31.999998)">
-  <rect style="opacity:0.001" width="32" height="32" x="416" y="0"/>
+  <rect style="opacity:0.001" width="16" height="16" x="416" y="0"/>
   <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m 424.5,4.0019531 c 0,0 -1.5,-0.00591 -1.5,1.5 V 28 h 17.99414 V 5.5019531 c 0.11516,-1.6039484 -1.5,-1.5 -1.5,-1.5 z M 432,7 v 5 h 3 l -3,7 v -5 h -3 z m -6,15 h 1 v 3 h -1 z m 3,0 h 1 v 3 h -1 z m 3,0 h 1 v 3 h -1 z m 4.5,0 c 0.82844,0 1.5,0.671626 1.5,1.5 0,0.828372 -0.67156,1.5 -1.5,1.5 -0.82843,0 -1.5,-0.671628 -1.5,-1.5 0,-0.828374 0.67157,-1.5 1.5,-1.5 z"/>
  </g>
 </svg>
