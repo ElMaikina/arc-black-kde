@@ -258,8 +258,8 @@
  </g>
  <g id="slidercursor-focused" transform="matrix(1.2,0,0,1.2,638.8,-15.800242)">
   <rect style="opacity:0.00100002;fill-opacity:0.00392157" width="24" height="24" x="14" y="42" transform="matrix(0.83333333,0,0,0.83333333,-5.6666667,-6)"/>
-  <circle style="fill:#262934" cx="14" cy="40" r="4" transform="matrix(2.0833333,0,0,2.0833333,-13.166666,-44.333332)"/>
-  <circle style="fill:#505766" cx="14" cy="40" r="4" transform="matrix(1.875,0,0,1.875,-10.25,-36)"/>
+  <circle style="fill:#222222" cx="14" cy="40" r="4" transform="matrix(2.0833333,0,0,2.0833333,-13.166666,-44.333332)"/>
+  <circle style="fill:#333333" cx="14" cy="40" r="4" transform="matrix(1.875,0,0,1.875,-10.25,-36)"/>
  </g>
  <g id="slidercursor-pressed" transform="matrix(1.2,0,0,1.2,668.8,-15.800242)">
   <rect style="opacity:0.00100002;fill-opacity:0.00392157" width="24" height="24" x="14" y="42" transform="matrix(0.83333333,0,0,0.83333333,-5.6666667,-6)"/>
@@ -268,7 +268,7 @@
  </g>
  <g id="slidercursor-disabled" style="opacity:0.00100002" transform="matrix(1.2,0,0,1.2,699.8,-15.800242)">
   <rect style="opacity:0.00100002;fill-opacity:0.00392157" width="24" height="24" x="14" y="42" transform="matrix(0.83333333,0,0,0.83333333,-5.6666667,-6)"/>
-  <circle style="fill:#262934" cx="14" cy="40" r="4" transform="matrix(2.0833333,0,0,2.0833333,-13.166666,-44.333332)"/>
+  <circle style="fill:#222222" cx="14" cy="40" r="4" transform="matrix(2.0833333,0,0,2.0833333,-13.166666,-44.333332)"/>
   <circle style="fill:#000000" cx="14" cy="40" r="4" transform="matrix(1.875,0,0,1.875,-10.25,-36)"/>
  </g>
  <path id="slider-toggled-topleft" style="fill:#111810;fill-rule:evenodd" d="m 530,7.9997563 c -6.648,0 -12,5.3519997 -12,11.9999997 h 12 z"/>
@@ -366,12 +366,12 @@
  <path id="itemview-focused-topright" style="opacity:0.2;fill:#111810" d="m 178.11927,556.99973 c 0.48641,0 0.88073,1.0745 0.88073,2.4 v 1.2 h -0.88073 v -1.2 z"/>
  <g id="slidercursor-normal" transform="matrix(1.2,0,0,1.2,606.8,-14.800244)">
   <rect style="opacity:0.00100002;fill-opacity:0.00392157" width="24" height="24" x="14" y="42" transform="matrix(0.83333333,0,0,0.83333333,-5.6666667,-6)"/>
-  <circle style="fill:#262934" cx="14" cy="40" r="4" transform="matrix(2.0833333,0,0,2.0833333,-13.166666,-44.333332)"/>
+  <circle style="fill:#222222" cx="14" cy="40" r="4" transform="matrix(2.0833333,0,0,2.0833333,-13.166666,-44.333332)"/>
   <circle style="fill:#000000" cx="14" cy="40" r="4" transform="matrix(1.875,0,0,1.875,-10.25,-36)"/>
  </g>
  <g id="dial-handle" transform="matrix(1.2,0,0,1.2,527.8,412.19976)">
   <rect style="opacity:0.00100002;fill-opacity:0.00392157" width="24" height="24" x="14" y="42" transform="matrix(0.83333333,0,0,0.83333333,-5.6666667,-6)"/>
-  <circle style="fill:#262934" cx="14" cy="40" r="4" transform="matrix(2.0833333,0,0,2.0833333,-13.166666,-44.333332)"/>
+  <circle style="fill:#222222" cx="14" cy="40" r="4" transform="matrix(2.0833333,0,0,2.0833333,-13.166666,-44.333332)"/>
   <circle style="fill:#000000" cx="14" cy="40" r="4" transform="matrix(1.875,0,0,1.875,-10.25,-36)"/>
  </g>
  <g id="tbutton-normal-topleft" style="opacity:0.00100002" transform="matrix(0.44036669,0,0,1.2307681,328.40992,-324.52585)">
@@ -1102,9 +1102,9 @@
   <g id="checkbox-checked-dark-7-37" transform="translate(36,-1036)">
    <g transform="rotate(45,7.4999938,1026.3622)">
     <g transform="translate(12.374375,11.531233)">
-     <g style="fill:#3b3c3e" transform="translate(-3,-4.9999826)">
-      <rect style="fill:#2b303b" width="2" height="2" x="8" y="1033.36" rx=".667" ry=".667"/>
-      <rect style="fill:#2b303b" width="2" height="2" x="11" y="1027.36" ry="0"/>
+     <g style="fill:#333333" transform="translate(-3,-4.9999826)">
+      <rect style="fill:#222222" width="2" height="2" x="8" y="1033.36" rx=".667" ry=".667"/>
+      <rect style="fill:#222222" width="2" height="2" x="11" y="1027.36" ry="0"/>
      </g>
      <rect style="fill:#eeeeee;fill-opacity:0" width="2" height="2" x="5" y="-8" transform="translate(0,1036.3622)"/>
     </g>
@@ -1125,8 +1125,8 @@
   <g id="checkbox-checked-dark-7-9-3" transform="translate(36,-1036)">
    <g transform="rotate(45,7.4999938,1026.3622)">
     <g transform="translate(12.374375,11.531233)">
-     <g style="fill:#3b3c3e" transform="translate(-3,-4.9999826)">
-      <rect style="fill:#2b303b" width="2" height="2" x="-738.8" y="-725.96" ry="0" transform="rotate(-135)"/>
+     <g style="fill:#333333" transform="translate(-3,-4.9999826)">
+      <rect style="fill:#222222" width="2" height="2" x="-738.8" y="-725.96" ry="0" transform="rotate(-135)"/>
      </g>
      <rect style="fill:#eeeeee;fill-opacity:0" width="2" height="2" x="5" y="-8" transform="translate(0,1036.3622)"/>
     </g>
@@ -1148,14 +1148,14 @@
     </g>
    </g>
   </g>
-  <rect style="fill:#2b303b" width="2" height="2" x="122" y="6.36" rx="1.999" ry="2"/>
+  <rect style="fill:#222222" width="2" height="2" x="122" y="6.36" rx="1.999" ry="2"/>
  </g>
  <g id="checkbox-normal" transform="translate(155,157.63782)">
   <g id="sdsd-0-1">
    <g id="scdsdcd-0-4" transform="translate(0,-30)">
     <rect style="fill:none" width="16" height="16" x="17" y="30.36"/>
     <g>
-     <rect style="fill:#2d323d;stroke:#262934;stroke-linejoin:round" width="13" height="13" x="18.5" y="31.86" rx="2" ry="2"/>
+     <rect style="fill:#222222;stroke:#222222;stroke-linejoin:round" width="13" height="13" x="18.5" y="31.86" rx="2" ry="2"/>
     </g>
    </g>
   </g>
@@ -1167,7 +1167,7 @@
     <g>
      <g transform="matrix(0.5089163,0,0,0.51739823,181.7932,197.56426)">
       <g>
-       <rect style="fill:#2d323d;stroke:#262934;stroke-width:2.08222;stroke-linejoin:round" width="27.304" height="26.836" x="52.66" y="127.6" rx="13.224" ry="13.246"/>
+       <rect style="fill:#222222;stroke:#222222;stroke-width:2.08222;stroke-linejoin:round" width="27.304" height="26.836" x="52.66" y="127.6" rx="13.224" ry="13.246"/>
       </g>
      </g>
     </g>
@@ -1179,7 +1179,7 @@
    <g transform="translate(0,-30)">
     <rect style="fill:none" width="16" height="16" x="17" y="30.36"/>
     <g>
-     <rect style="fill:#2d323d;stroke:#262934;stroke-linejoin:round" width="13" height="13" x="18.5" y="31.86" rx="2" ry="2"/>
+     <rect style="fill:#222222;stroke:#222222;stroke-linejoin:round" width="13" height="13" x="18.5" y="31.86" rx="2" ry="2"/>
     </g>
    </g>
   </g>
@@ -1198,9 +1198,9 @@
   <g transform="translate(36,-1036)">
    <g transform="rotate(45,7.4999938,1026.3622)">
     <g transform="translate(12.374375,11.531233)">
-     <g style="fill:#3b3c3e" transform="translate(-3,-4.9999826)">
-      <rect style="fill:#2b303b" width="2" height="2" x="8" y="1033.36" rx=".667" ry=".667"/>
-      <rect style="fill:#2b303b" width="2" height="2" x="11" y="1027.36" ry="0"/>
+     <g style="fill:#333333" transform="translate(-3,-4.9999826)">
+      <rect style="fill:#222222" width="2" height="2" x="8" y="1033.36" rx=".667" ry=".667"/>
+      <rect style="fill:#222222" width="2" height="2" x="11" y="1027.36" ry="0"/>
      </g>
      <rect style="fill:#eeeeee;fill-opacity:0" width="2" height="2" x="5" y="-8" transform="translate(0,1036.3622)"/>
     </g>
@@ -1221,8 +1221,8 @@
   <g transform="translate(36,-1036)">
    <g transform="rotate(45,7.4999938,1026.3622)">
     <g transform="translate(12.374375,11.531233)">
-     <g style="fill:#3b3c3e" transform="translate(-3,-4.9999826)">
-      <rect style="fill:#2b303b" width="2" height="2" x="-738.8" y="-725.96" ry="0" transform="rotate(-135)"/>
+     <g style="fill:#333333" transform="translate(-3,-4.9999826)">
+      <rect style="fill:#222222" width="2" height="2" x="-738.8" y="-725.96" ry="0" transform="rotate(-135)"/>
      </g>
      <rect style="fill:#eeeeee;fill-opacity:0" width="2" height="2" x="5" y="-8" transform="translate(0,1036.3622)"/>
     </g>
@@ -1236,7 +1236,7 @@
     <g>
      <g transform="matrix(0.5089163,0,0,0.51739823,181.7932,197.56426)">
       <g>
-       <rect style="fill:#2d323d;stroke:#262934;stroke-width:2.08222;stroke-linejoin:round" width="27.304" height="26.836" x="52.66" y="127.6" rx="13.224" ry="13.246"/>
+       <rect style="fill:#222222;stroke:#222222;stroke-width:2.08222;stroke-linejoin:round" width="27.304" height="26.836" x="52.66" y="127.6" rx="13.224" ry="13.246"/>
       </g>
      </g>
     </g>
@@ -1258,7 +1258,7 @@
     </g>
    </g>
   </g>
-  <rect style="fill:#2b303b" width="2" height="2" x="122" y="6.36" rx="1.999" ry="2"/>
+  <rect style="fill:#222222" width="2" height="2" x="122" y="6.36" rx="1.999" ry="2"/>
  </g>
  <g id="menu-checkbox-checked-focused" transform="translate(219.00002,173.63771)">
   <g transform="translate(19)">
@@ -1274,7 +1274,7 @@
   <g transform="translate(36,-1036)">
    <g transform="rotate(45,7.4999938,1026.3622)">
     <g transform="translate(12.374375,11.531233)">
-     <g style="fill:#3b3c3e" transform="translate(-3,-4.9999826)">
+     <g style="fill:#333333" transform="translate(-3,-4.9999826)">
       <rect style="fill:#111810" width="2" height="2" x="8" y="1033.36" rx=".667" ry=".667"/>
       <rect style="fill:#111810" width="2" height="2" x="11" y="1027.36" ry="0"/>
      </g>
@@ -1297,7 +1297,7 @@
   <g transform="translate(36,-1036)">
    <g transform="rotate(45,7.4999938,1026.3622)">
     <g transform="translate(12.374375,11.531233)">
-     <g style="fill:#3b3c3e" transform="translate(-3,-4.9999826)">
+     <g style="fill:#333333" transform="translate(-3,-4.9999826)">
       <rect style="fill:#111810" width="2" height="2" x="-738.8" y="-725.96" ry="0" transform="rotate(-135)"/>
      </g>
      <rect style="fill:#eeeeee;fill-opacity:0" width="2" height="2" x="5" y="-8" transform="translate(0,1036.3622)"/>
@@ -1327,7 +1327,7 @@
    <g transform="translate(0,-30)">
     <rect style="fill:none" width="16" height="16" x="17" y="30.36"/>
     <g>
-     <rect style="fill:#2d323d;stroke:#262934;stroke-linejoin:round" width="13" height="13" x="18.5" y="31.86" rx="2" ry="2"/>
+     <rect style="fill:#222222;stroke:#222222;stroke-linejoin:round" width="13" height="13" x="18.5" y="31.86" rx="2" ry="2"/>
     </g>
    </g>
   </g>
@@ -1339,7 +1339,7 @@
     <g>
      <g transform="matrix(0.5089163,0,0,0.51739823,181.7932,197.56426)">
       <g>
-       <rect style="fill:#2d323d;stroke:#262934;stroke-width:2.08222;stroke-linejoin:round" width="27.304" height="26.836" x="52.66" y="127.6" rx="13.224" ry="13.246"/>
+       <rect style="fill:#222222;stroke:#222222;stroke-width:2.08222;stroke-linejoin:round" width="27.304" height="26.836" x="52.66" y="127.6" rx="13.224" ry="13.246"/>
       </g>
      </g>
     </g>
