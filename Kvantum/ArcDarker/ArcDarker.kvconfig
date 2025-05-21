@@ -95,7 +95,7 @@ progress.indicator.text.color=#ffffff
 inherits=PanelButtonCommand
 frame.element=itemview
 interior.element=itemview
-frame=true
+frame=false
 interior=true
 text.iconspacing=3
 text.press.color=#ffffff
@@ -116,11 +116,11 @@ indicator.element=tree
 indicator.size=8
 
 [ToolTip]
-frame.top=4
-frame.right=4
-frame.bottom=4
-frame.left=4
-frame=true
+frame.top=0
+frame.right=0
+frame.bottom=0
+frame.left=0
+frame=false
 
 [PanelButtonCommand]
 inherits=PanelButtonCommand
@@ -147,7 +147,7 @@ indicator.size=0
 [Dock] 
 interior.element=toolbar
 frame.element=toolbar
-frame=true
+frame=false
 interior=true
 
 [GroupBox]
@@ -158,31 +158,31 @@ frame=false
 
 [Focus]
 inherits=PanelButtonCommand
-frame=true
+frame=false
 frame.element=focus
-frame.top=1
-frame.bottom=1
-frame.left=1
-frame.right=1
+frame.top=0
+frame.bottom=0
+frame.left=0
+frame.right=0
 frame.patternsize=20
 
 [GenericFrame]
 inherits=PanelButtonCommand
 frame.element=common
-frame.top=1
-frame.bottom=1
-frame.left=1
-frame.right=1
+frame.top=0
+frame.bottom=0
+frame.left=0
+frame.right=0
 
 [Slider]
 inherits=PanelButtonCommand
 interior=true
 frame.element=slider
 interior.element=slider
-frame.top=3
-frame.bottom=3
-frame.left=3
-frame.right=3
+frame.top=0
+frame.bottom=0
+frame.left=0
+frame.right=0
 focusFrame=true
 
 [SliderCursor]
@@ -210,35 +210,35 @@ frame.element=lineedit
 interior.element=lineedit
 indicator.element=spin
 frame.top=0
-frame.bottom=2
-frame.left=2
-frame.right=2
+frame.bottom=0
+frame.left=0
+frame.right=0
 indicator.size=8
 
 [DropDownButton]
 inherits=PanelButtonCommand
-frame.top=2
-frame.bottom=2
+frame.top=0
+frame.bottom=0
 frame.left=0
-frame.right=1
+frame.right=0
 indicator.size=8
 
 [ToolboxTab]
 inherits=PanelButtonCommand
 frame.element=tabframe
-frame.top=1
-frame.bottom=1
-frame.left=1
-frame.right=1
+frame.top=0
+frame.bottom=0
+frame.left=0
+frame.right=0
 
 [Tab]
 inherits=PanelButtonCommand
 interior.element=tab
 frame.element=tab
-frame.top=2
-frame.bottom=3
-frame.left=3
-frame.right=3
+frame.top=0
+frame.bottom=0
+frame.left=0
+frame.right=0
 indicator.size=10
 text.normal.color=#11181095
 text.focus.color=#111810
@@ -248,13 +248,13 @@ focusFrame=true
 
 [TabBarFrame]
 inherits=GenericFrame
-frame=true
+frame=false
 frame.element=tabBarFrame
 interior=false
-frame.top=4
-frame.bottom=4
-frame.left=4
-frame.right=4
+frame.top=0
+frame.bottom=0
+frame.left=0
+frame.right=0
 
 [TabFrame]
 inherits=PanelButtonCommand
@@ -266,19 +266,19 @@ inherits=TabBarFrame
 frame.element=tabframe
 interior=false
 frame=false
-frame.top=1
-frame.bottom=1
-frame.left=1
-frame.right=1
+frame.top=0
+frame.bottom=0
+frame.left=0
+frame.right=0
 
 [HeaderSection]
 inherits=PanelButtonCommand
 interior.element=header
 frame.element=header
 frame.top=0
-frame.bottom=1
-frame.left=1
-frame.right=1
+frame.bottom=0
+frame.left=0
+frame.right=0
 frame.expansion=0
 text.normal.color=#111810
 text.focus.color=#111810
@@ -297,10 +297,10 @@ indicator.size=0
 inherits=PanelButtonCommand
 interior.element=menubar
 frame.element=menubar
-frame=true
-frame.bottom=4
-frame.left=4
-frame.right=4
+frame=false
+frame.bottom=0
+frame.left=0
+frame.right=0
 text.normal.color=#d3dae3
 text.focus.color=#d3dae3
 text.press.color=#d3dae3
@@ -341,29 +341,29 @@ frame=false
 inherits=PanelButtonCommand
 frame.element=scrollbarslider
 interior=false
-frame.left=6
-frame.right=6
-frame.top=6
-frame.bottom=6
+frame.left=0
+frame.right=0
+frame.top=0
+frame.bottom=0
 
 [ProgressbarContents]
 inherits=PanelButtonCommand
-frame=true
+frame=false
 frame.element=progress-pattern
 interior.element=progress-pattern
-frame.top=2
-frame.bottom=2
-frame.left=2
-frame.right=2
+frame.top=0
+frame.bottom=0
+frame.left=0
+frame.right=0
 
 [Progressbar]
 inherits=PanelButtonCommand
 frame.element=progress
 interior.element=progress
-frame.top=2
-frame.bottom=2
-frame.left=2
-frame.right=2
+frame.top=0
+frame.bottom=0
+frame.left=0
+frame.right=0
 text.margin=0
 text.normal.color=#ffffff
 text.focus.color=#ffffff
@@ -382,10 +382,10 @@ inherits=PanelButtonCommand
 text.press.color=#ffffff
 text.toggle.color=#ffffff
 text.bold=false
-frame.top=3
-frame.bottom=3
-frame.left=3
-frame.right=3
+frame.top=0
+frame.bottom=0
+frame.left=0
+frame.right=0
 
 [MenuItem]
 inherits=PanelButtonCommand
@@ -417,9 +417,9 @@ inherits=Toolbar
 frame.element=toolbar
 font.bold=true
 text.normal.color=#111810
-frame=true
-frame.top=1
-frame.bottom=1
+frame=false
+frame.top=0
+frame.bottom=0
 
 [TitleBar]
 inherits=PanelButtonCommand
@@ -433,10 +433,10 @@ text.margin.right=3
 [ComboBox]
 inherits=PanelButtonCommand
 indicator.size=8
-frame.top=3
-frame.bottom=3
-frame.left=3
-frame.right=3
+frame.top=0
+frame.bottom=0
+frame.left=0
+frame.right=0
 text.margin.top=1
 text.margin.bottom=1
 text.margin.left=3
@@ -447,10 +447,10 @@ text.toggle.color=#111810
 frame.element=tcombo
 interior.element=tcombo
 indicator.size=8
-frame.top=3
-frame.bottom=3
-frame.left=3
-frame.right=3
+frame.top=0
+frame.bottom=0
+frame.left=0
+frame.right=0
 text.margin.top=1
 text.margin.bottom=1
 text.margin.left=3
