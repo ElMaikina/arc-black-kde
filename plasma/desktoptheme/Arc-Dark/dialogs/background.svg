@@ -65,11 +65,11 @@
  <g id="shadow-center" style="opacity:1.0" transform="matrix(0.80645161,0,0,0.80645161,151.83871,49.449733)">
   <path d="m -6.0000004,-7.998957 v 62 H 56 v -62 z"/>
  </g>
- <rect id="hint-top-margin" style="fill:#ff0000" width="4" height="7" x="29" y="52"/>
- <rect id="hint-bottom-margin" style="fill:#ff0000" width="4" height="7" x="29" y="95"/>
- <rect id="hint-left-margin" style="fill:#ff0000" width="7" height="4" x="7" y="74"/>
- <rect id="hint-right-margin" style="fill:#ff0000" width="7" height="4" x="50" y="74"/>
- <rect id="hint-tile-center" style="fill:#ff0000" width="5" height="5" x="0" y="0"/>
+ <rect id="hint-top-margin" style="fill:#ff0000" width="2" height="2" x="29" y="52"/>
+ <rect id="hint-bottom-margin" style="fill:#ff0000" width="2" height="2" x="29" y="95"/>
+ <rect id="hint-left-margin" style="fill:#ff0000" width="2" height="2" x="7" y="74"/>
+ <rect id="hint-right-margin" style="fill:#ff0000" width="2" height="2" x="50" y="74"/>
+ <rect id="hint-tile-center" style="fill:#ff0000" width="2" height="2" x="0" y="0"/>
  <path id="shadow-topleft" style="fill:url(#radialGradient4275)" d="m 130,42.998966 h 10 v -2 c 0,-2.77 2.23,-5 5,-5 h 2 v -10 h -17 z"/>
  <path id="shadow-bottomright" style="fill:url(#radialGradient3382)" d="m 214,92.998965 h -10 v 2 c 0,2.77 -2.23,5 -5,5 h -2 v 9.999995 h 17 z"/>
  <path id="shadow-topright" style="fill:url(#radialGradient4255)" d="m 197,25.998966 v 10 h 2 c 2.77,0 5,2.23 5,5 v 2 h 10 v -17 z"/>
