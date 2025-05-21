@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
  <g id="22-22-kdeconnect" transform="translate(32.000001,10.000001)">
-  <rect style="opacity:0.001" width="22" height="22" x="0" y="0" rx="0" ry="0"/>
+  <rect style="opacity:0.001" width="16" height="16" x="0" y="0" rx="0" ry="0"/>
   <path style="fill:#d3dae3" transform="translate(-32,-10)" d="m 39,13 c -1,0 -1,1 -1,1 v 14 c 0,0 0,1 1,1 h 8 c 1,0 1,-1 1,-1 V 14 c 0,0 0,-1 -1,-1 z m 7,3 v 9 h -6 v -8.998047 z m -3.5,10 h 0.5 0.5 c 0.277,0 0.5,0.223 0.5,0.5 V 27 27.5 C 44,27.777 43.777,28 43.5,28 H 43 42.5 C 42.223,28 42,27.777 42,27.5 V 27 26.5 C 42,26.223 42.223,26 42.5,26 Z"/>
  </g>
  <g id="kdeconnect">

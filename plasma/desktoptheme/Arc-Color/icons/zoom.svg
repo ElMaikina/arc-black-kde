@@ -5,11 +5,11 @@
   </style>
  </defs>
  <g id="22-22-zoom-fit-width" transform="translate(-433,42.999998)">
-  <rect style="opacity:0.001" width="22" height="22" x="465" y="-65"/>
+  <rect style="opacity:0.001" width="16" height="16" x="465" y="-65"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 472.0002,-58.00334 -5,4 5,4 v -3 h 8 v 3 l 5,-4 -5,-4 v 3 h -8 z"/>
  </g>
  <g id="22-22-zoom-fit-height" transform="rotate(90,222,-265)">
-  <rect style="opacity:0.001" width="22" height="22" x="465" y="-65"/>
+  <rect style="opacity:0.001" width="16" height="16" x="465" y="-65"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 472.0002,-58.00334 -5,4 5,4 v -3 h 8 v 3 l 5,-4 -5,-4 v 3 h -8 z"/>
  </g>
  <g id="zoom-fit-height">

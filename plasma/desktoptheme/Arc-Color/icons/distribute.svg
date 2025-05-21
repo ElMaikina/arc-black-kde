@@ -13,7 +13,7 @@
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 9,12 v 8 h 4 v -8 z m 10,0 v 8 h 4 v -8 z m -5,2 v 4 h 1 v -1 h 2 v 1 h 1 v -4 h -1 v 1 h -2 v -1 z"/>
  </g>
  <g id="22-22-distribute-horizontal-x" transform="translate(27,5)">
-  <rect style="opacity:0.001" width="22" height="22" x="5" y="5"/>
+  <rect style="opacity:0.001" width="16" height="16" x="5" y="5"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 8,12 v 8 h 5 v -8 z m 11,0 v 8 h 5 v -8 z m -5,2 v 4 h 1 v -1 h 2 v 1 h 1 v -4 h -1 v 1 h -2 v -1 z"/>
  </g>
 </svg>

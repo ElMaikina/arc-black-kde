@@ -5,7 +5,7 @@
   </style>
  </defs>
  <g id="22-22-org.rnd2.cpupower_gui" transform="translate(32,10)">
-  <rect style="opacity:0.001" width="22" height="22" x="0" y="0"/>
+  <rect style="opacity:0.001" width="16" height="16" x="0" y="0"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="M 7,3 V 5 H 5.8007812 C 5.3575812,5 5,5.3575812 5,5.8007812 V 7 H 3 v 2 h 2 v 1 H 3 v 2 h 2 v 1 H 3 v 2 h 2 v 1.199219 C 5,16.642419 5.3575812,17 5.8007812,17 H 7 v 2 h 2 v -2 h 1 v 2 h 2 v -2 h 1 v 2 h 2 v -2 h 1.199219 C 16.642419,17 17,16.642419 17,16.199219 V 15 h 2 v -2 h -2 v -1 h 2 V 10 H 17 V 9 h 2 V 7 H 17 V 5.8007812 C 17,5.3575812 16.642419,5 16.199219,5 H 15 V 3 H 13 V 5 H 12 V 3 H 10 V 5 H 9 V 3 Z m 5.726562,3 -1.037109,4 H 13.5 L 9.2734375,16 10.310547,12 H 8.5 Z"/>
  </g>
  <g id="org.rnd2.cpupower_gui">

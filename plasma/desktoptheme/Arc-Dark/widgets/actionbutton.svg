@@ -33,6 +33,6 @@
  </g>
  <g id="22-22-pressed" transform="translate(-11)">
   <path style="fill:#111810" transform="translate(11)" d="M 57 42 C 51.488779 42 47 46.488779 47 52 C 47 57.51122 51.488779 62 57 62 C 62.51122 62 67 57.51122 67 52 C 67 46.488779 62.51122 42 57 42 z"/>
-  <rect width="22" height="22" x="57" y="41" style="opacity:0.001"/>
+  <rect width="16" height="16" x="57" y="41" style="opacity:0.001"/>
  </g>
 </svg>

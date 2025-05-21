@@ -5,11 +5,11 @@
   </style>
  </defs>
  <g id="22-22-phone" transform="translate(0,-22)">
-  <rect style="opacity:0.001" width="22" height="22" x="0" y="0" rx="0" ry="0"/>
+  <rect style="opacity:0.001" width="16" height="16" x="0" y="0" rx="0" ry="0"/>
   <path style="fill:currentColor" class="ColorScheme-Text" transform="translate(-32,-9.9999997)" d="m 39,13 c -1,0 -1,1 -1,1 v 14 c 0,0 0,1 1,1 h 8 c 1,0 1,-1 1,-1 V 14 c 0,0 0,-1 -1,-1 z m 7,3 v 9 h -6 v -8.998047 z m -3.5,10 h 0.5 0.5 c 0.277,0 0.5,0.223 0.5,0.5 V 27 27.5 C 44,27.777 43.777,28 43.5,28 H 43 42.5 C 42.223,28 42,27.777 42,27.5 V 27 26.5 C 42,26.223 42.223,26 42.5,26 Z"/>
  </g>
  <g id="22-22-phone-battery" transform="translate(2,-22)">
-  <rect style="opacity:0.001" width="22" height="22" x="30" y="0" rx="0" ry="0"/>
+  <rect style="opacity:0.001" width="16" height="16" x="30" y="0" rx="0" ry="0"/>
   <path style="fill:currentColor" class="ColorScheme-NegativeText" transform="translate(-2,22)" d="m 39,-19 c -1,0 -1,1 -1,1 v 14 c 0,0 0,1 1,1 h 8 c 1,0 1,-1 1,-1 v -14 c 0,0 0,-1 -1,-1 z m 4,3 h 3 v 9 h -6 v -8.998047 h 3 z m 0,0.002 -2,4.998 h 2 v 3 l 2,-4 H 43 Z M 42.5,-6 h 1 c 0.277,0 0.5,0.223 0.5,0.5 v 1 c 0,0.277 -0.223,0.5 -0.5,0.5 h -1 C 42.223,-4 42,-4.223 42,-4.5 v -1 C 42,-5.777 42.223,-6 42.5,-6 Z"/>
  </g>
  <g id="phone">

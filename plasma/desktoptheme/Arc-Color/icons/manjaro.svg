@@ -5,7 +5,7 @@
   </style>
  </defs>
  <g id="22-22-manjaro-settings-manager" transform="translate(27,5.0000005)">
-  <rect style="opacity:0.001" width="22" height="22" x="5" y="5"/>
+  <rect style="opacity:0.001" width="16" height="16" x="5" y="5"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="M 9.75,9 C 9.3345,9 9,9.3345 9,9.75 v 12.5 C 9,22.6655 9.352874,22.877807 9.75,23 H 13 V 13 h 5 V 9 Z M 19,9 v 14 h 3.25 C 22.6655,23 23,22.6655 23,22.25 V 9.75 C 23,9.3345 22.6655,9 22.25,9 Z m -5,5 v 9 h 4 v -9 z"/>
  </g>
  <g id="manjaro-settings-manager">

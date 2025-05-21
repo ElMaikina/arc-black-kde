@@ -5,44 +5,44 @@
   </style>
  </defs>
  <g id="22-22-network-mobile-0" transform="translate(424,379)">
-  <rect style="opacity:0.001" width="22" height="22" x="442" y="-1"/>
+  <rect style="opacity:0.001" width="16" height="16" x="442" y="-1"/>
   <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="m 460.00006,2 v 16 h 1 1 V 2 h -1 z m -4,3 v 13 h 1 1 V 5 h -1 z m -4,3 v 10 h 1 1 V 8 h -1 z m -4,3 v 7 h 1 1 v -7 h -1 z m -4,3 v 4 h 1 1 v -4 h -1 z"/>
  </g>
  <g id="22-22-flightmode-on" transform="translate(-0.9999995,-49.000005)">
-  <rect style="opacity:0.001" width="22" height="22" x="1" y="119"/>
+  <rect style="opacity:0.001" width="16" height="16" x="1" y="119"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="M 16.269616,122.39631 14.676923,124 H 5.8153846 C 4.7076923,124 3.6,125.10769 3.6,125.10769 l 7.753846,2.21539 L 6.9235384,133 H 5.8158461 c -0.9206794,0 -2.2153846,1.06884 -2.2153846,1.06884 2.2153846,0 4.3306924,2.11578 4.3306924,4.33116 0,0 1.0365781,-1.29527 1.0688461,-2.21538 v -1.10769 l 5.676923,-4.43077 2.215385,7.75384 c 0,0 1.107692,-1.10769 1.107692,-2.21538 v -8.86154 l 1.592692,-1.6037 c 2.215384,-2.21538 1.107692,-4.43076 1.107692,-4.43076 0,0 -2.215385,-1.1077 -4.430768,1.10769 z"/>
  </g>
  <g id="22-22-showinfo" transform="translate(191,-105.00001)">
-  <rect style="opacity:0.001" width="22" height="22" x="1" y="175"/>
+  <rect style="opacity:0.001" width="16" height="16" x="1" y="175"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="M 11.958334,178 C 7.5494666,178 4,181.54946 4,185.95834 v 0.0833 C 4,190.45054 7.5494666,194 11.958334,194 h 0.08333 C 16.450534,194 20,190.45054 20,186.04166 v -0.0833 C 20,181.54946 16.450534,178 12.041666,178 Z M 11,182 h 2 v 2 h -2 z m 0,3 h 2 v 5 h -2 z"/>
  </g>
  <g id="22-22-showinfo-hover" transform="translate(195,-105.00001)">
-  <rect style="opacity:0.001" width="22" height="22" x="29" y="175"/>
+  <rect style="opacity:0.001" width="16" height="16" x="29" y="175"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 39.958333,178 c -4.408891,0 -7.958377,3.54948 -7.958377,7.95838 v 0.0833 c 0,4.4089 3.549486,7.95838 7.958377,7.95838 h 0.08333 c 4.408891,0 7.958377,-3.54948 7.958377,-7.95838 v -0.0833 C 48.00004,181.54948 44.450554,178 40.041663,178 Z M 39,182 h 2 v 2.00003 h -2 z m 0,3 h 2 v 5 h -2 z"/>
  </g>
  <g id="22-22-edit" transform="translate(127,-77.000005)">
-  <rect style="opacity:0.001" width="22" height="22" x="1" y="147"/>
+  <rect style="opacity:0.001" width="16" height="16" x="1" y="147"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 10.234232,150.99988 -0.15569,1.84375 a 5.5495495,5.5 0 0 0 -1.6219011,0.92969 l -1.6908771,-0.78906 -1.7657657,3.03124 1.535187,1.05665 a 5.5495495,5.5 0 0 0 -0.084757,0.92773 5.5495495,5.5 0 0 0 0.080822,0.93164 l -1.5312518,1.05274 1.7657657,3.03124 1.686942,-0.7871 a 5.5495495,5.5 0 0 0 1.625836,0.92382 l 0.15569,1.84766 h 3.531532 l 0.15569,-1.84375 a 5.5495495,5.5 0 0 0 1.621901,-0.92969 l 1.690877,0.78906 1.765766,-3.03124 -1.535187,-1.05665 a 5.5495495,5.5 0 0 0 0.08476,-0.92773 5.5495495,5.5 0 0 0 -0.08082,-0.93164 l 1.531252,-1.05274 -1.765766,-3.03124 -1.686942,0.7871 a 5.5495495,5.5 0 0 0 -1.625836,-0.92382 l -0.15569,-1.84766 h -3.531532 z m 1.765766,5 a 2.018018,2 0 0 1 2.018018,2 2.018018,2 0 0 1 -2.018018,2 2.018018,2 0 0 1 -2.018018,-2 2.018018,2 0 0 1 2.018018,-2 z"/>
  </g>
  <g id="22-22-edit-hover" transform="translate(131,-77.000005)">
-  <rect style="opacity:0.001" width="22" height="22" x="29" y="147"/>
+  <rect style="opacity:0.001" width="16" height="16" x="29" y="147"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 38.234239,150.99988 -0.15569,1.84375 a 5.5495495,5.5 0 0 0 -1.621901,0.92969 l -1.690877,-0.78906 -1.765766,3.03124 1.535187,1.05665 a 5.5495495,5.5 0 0 0 -0.08476,0.92773 5.5495495,5.5 0 0 0 0.08082,0.93164 L 33,159.98426 l 1.765766,3.03124 1.686942,-0.7871 a 5.5495495,5.5 0 0 0 1.625836,0.92382 l 0.15569,1.84766 h 3.531532 l 0.15569,-1.84375 a 5.5495495,5.5 0 0 0 1.621901,-0.92969 L 45.234234,163.0155 47,159.98426 45.464813,158.92761 a 5.5495495,5.5 0 0 0 0.08476,-0.92773 5.5495495,5.5 0 0 0 -0.08082,-0.93164 l 1.531252,-1.05274 -1.765766,-3.03124 -1.686942,0.7871 a 5.5495495,5.5 0 0 0 -1.625836,-0.92382 l -0.15569,-1.84766 z m 1.765766,5 a 2.018018,2 0 0 1 2.018018,2 2.018018,2 0 0 1 -2.018018,2 2.018018,2 0 0 1 -2.018018,-2 2.018018,2 0 0 1 2.018018,-2 z"/>
  </g>
  <g id="22-22-network-wireless-connected-00" transform="translate(115.99997,-173.99997)">
-  <rect style="opacity:0.001" width="22" height="22" x="172" y="-29"/>
+  <rect style="opacity:0.001" width="16" height="16" x="172" y="-29"/>
   <g style="opacity:0.35" transform="matrix(1.3913043,0,0,1.3913043,-307.95709,604.26552)">
    <path style="fill:currentColor" class="ColorScheme-Text" d="m 352.87543,-453.00336 c -3.03435,0 -5.64089,1.20314 -7.90626,2.87499 l 7.90626,8.62501 7.90626,-8.62501 c -2.25661,-1.65329 -4.89521,-2.87499 -7.90626,-2.87499 z"/>
   </g>
  </g>
  <g id="22-22-network-wireless-connected-20" transform="translate(54.999963,-173.99997)">
-  <rect style="opacity:0.001" width="22" height="22" x="201" y="-29"/>
+  <rect style="opacity:0.001" width="16" height="16" x="201" y="-29"/>
   <g style="opacity:0.35" transform="matrix(1.3913043,0,0,1.3913043,-278.95709,604.26552)">
    <path style="fill:currentColor" class="ColorScheme-Text" d="m 352.87543,-453.00336 c -3.03435,0 -5.64089,1.20314 -7.90626,2.87499 l 7.90626,8.62501 7.90626,-8.62501 c -2.25661,-1.65329 -4.89521,-2.87499 -7.90626,-2.87499 z"/>
   </g>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 212.00001,-13.200003 c -0.84434,0 -1.56964,0.334787 -2.2,0.799997 l 2.2,2.400003 2.20001,-2.400003 c -0.62793,-0.460046 -1.36215,-0.799997 -2.20001,-0.799997 z"/>
  </g>
  <g id="22-22-network-wireless-connected-40" transform="translate(-5.0000073,-173.99996)">
-  <rect style="opacity:0.001" width="22" height="22" x="229" y="-29"/>
+  <rect style="opacity:0.001" width="16" height="16" x="229" y="-29"/>
   <g style="opacity:0.35" transform="matrix(1.3913043,0,0,1.3913043,-250.95709,604.26552)">
    <path style="fill:currentColor" class="ColorScheme-Text" d="m 352.87543,-453.00336 c -3.03435,0 -5.64089,1.20314 -7.90626,2.87499 l 7.90626,8.62501 7.90626,-8.62501 c -2.25661,-1.65329 -4.89521,-2.87499 -7.90626,-2.87499 z"/>
   </g>
@@ -50,44 +50,44 @@
  </g>
  <g id="22-22-network-wireless-connected-60" transform="translate(-65.000037,-173.99998)">
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 268,-19.600003 c -2.53302,0 -4.70892,1.00436 -6.60001,2.399992 l 6.60001,7.200008 6.60001,-7.200008 c -1.88378,-1.380138 -4.08644,-2.399992 -6.60001,-2.399992 z"/>
-  <rect style="opacity:0.001" width="22" height="22" x="257" y="-29"/>
+  <rect style="opacity:0.001" width="16" height="16" x="257" y="-29"/>
   <g style="opacity:0.35" transform="matrix(1.3913043,0,0,1.3913043,-222.9571,604.26552)">
    <path style="fill:currentColor" class="ColorScheme-Text" d="m 352.87543,-453.00336 c -3.03435,0 -5.64089,1.20314 -7.90626,2.87499 l 7.90626,8.62501 7.90626,-8.62501 c -2.25661,-1.65329 -4.89521,-2.87499 -7.90626,-2.87499 z"/>
   </g>
  </g>
  <g id="22-22-network-wireless-connected-80" transform="translate(-125,-173.9999)">
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 296.00001,-22.800003 c -3.37736,0 -6.27855,1.339147 -8.80001,3.199989 l 8.80001,9.600011 8.80001,-9.600011 c -2.5117,-1.840183 -5.44858,-3.199989 -8.80001,-3.199989 z"/>
-  <rect style="opacity:0.001" width="22" height="22" x="285" y="-29"/>
+  <rect style="opacity:0.001" width="16" height="16" x="285" y="-29"/>
   <g style="opacity:0.35" transform="matrix(1.3913043,0,0,1.3913043,-194.95709,604.26552)">
    <path style="fill:currentColor" class="ColorScheme-Text" d="m 352.87543,-453.00336 c -3.03435,0 -5.64089,1.20314 -7.90626,2.87499 l 7.90626,8.62501 7.90626,-8.62501 c -2.25661,-1.65329 -4.89521,-2.87499 -7.90626,-2.87499 z"/>
   </g>
  </g>
  <g id="22-22-network-wireless-connected-100" transform="translate(-217,-173.99987)">
-  <rect style="opacity:0.001" width="22" height="22" x="313" y="-29"/>
+  <rect style="opacity:0.001" width="16" height="16" x="313" y="-29"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 324.00001,-26.000003 c -4.2217,0 -7.84819,1.673934 -11.00001,3.999986 l 11.00001,12.000014 11.00002,-12.000014 c -3.13963,-2.300229 -6.81073,-3.999986 -11.00002,-3.999986 z"/>
  </g>
  <g id="22-22-network-wireless-0" transform="translate(307.99991,-174.00006)">
-  <rect style="opacity:0.001" width="22" height="22" x="172" y="-29"/>
+  <rect style="opacity:0.001" width="16" height="16" x="172" y="-29"/>
   <g style="opacity:0.35" transform="matrix(1.3913043,0,0,1.3913043,-307.95709,604.26552)">
    <path style="fill:currentColor" class="ColorScheme-Text" d="m 352.87543,-453.00336 c -3.03435,0 -5.64089,1.20314 -7.90626,2.87499 l 7.90626,8.62501 7.90626,-8.62501 c -2.25661,-1.65329 -4.89521,-2.87499 -7.90626,-2.87499 z"/>
   </g>
  </g>
  <g id="22-22-network-wireless-20" transform="translate(246.99991,-174.00006)">
-  <rect style="opacity:0.001" width="22" height="22" x="201" y="-29"/>
+  <rect style="opacity:0.001" width="16" height="16" x="201" y="-29"/>
   <g style="opacity:0.35" transform="matrix(1.3913043,0,0,1.3913043,-278.95709,604.26552)">
    <path style="fill:currentColor" class="ColorScheme-Text" d="m 352.87543,-453.00336 c -3.03435,0 -5.64089,1.20314 -7.90626,2.87499 l 7.90626,8.62501 7.90626,-8.62501 c -2.25661,-1.65329 -4.89521,-2.87499 -7.90626,-2.87499 z"/>
   </g>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 212.00001,-13.200003 c -0.84434,0 -1.56964,0.334787 -2.2,0.799997 l 2.2,2.400003 2.20001,-2.400003 c -0.62793,-0.460046 -1.36215,-0.799997 -2.20001,-0.799997 z"/>
  </g>
  <g id="22-22-network-wireless-40" transform="translate(186.9999,-174.00006)">
-  <rect style="opacity:0.001" width="22" height="22" x="229" y="-29"/>
+  <rect style="opacity:0.001" width="16" height="16" x="229" y="-29"/>
   <g style="opacity:0.35" transform="matrix(1.3913043,0,0,1.3913043,-250.95709,604.26552)">
    <path style="fill:currentColor" class="ColorScheme-Text" d="m 352.87543,-453.00336 c -3.03435,0 -5.64089,1.20314 -7.90626,2.87499 l 7.90626,8.62501 7.90626,-8.62501 c -2.25661,-1.65329 -4.89521,-2.87499 -7.90626,-2.87499 z"/>
   </g>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 240.00001,-16.400003 c -1.68868,0 -3.13927,0.669574 -4.4,1.599994 l 4.4,4.800006 4.40001,-4.800006 c -1.25585,-0.920091 -2.72429,-1.599994 -4.40001,-1.599994 z"/>
  </g>
  <g id="22-22-network-wireless-60" transform="translate(126.99987,-174.00007)">
-  <rect style="opacity:0.001" width="22" height="22" x="257" y="-29"/>
+  <rect style="opacity:0.001" width="16" height="16" x="257" y="-29"/>
   <g style="opacity:0.35" transform="matrix(1.3913043,0,0,1.3913043,-222.9571,604.26552)">
    <path style="fill:currentColor" class="ColorScheme-Text" d="m 352.87543,-453.00336 c -3.03435,0 -5.64089,1.20314 -7.90626,2.87499 l 7.90626,8.62501 7.90626,-8.62501 c -2.25661,-1.65329 -4.89521,-2.87499 -7.90626,-2.87499 z"/>
   </g>
@@ -95,7 +95,7 @@
  </g>
  <g id="22-22-network-wireless-80" transform="translate(66.999913,-174.00007)">
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 296.00001,-22.800003 c -3.37736,0 -6.27855,1.339147 -8.80001,3.199989 l 8.80001,9.600011 8.80001,-9.600011 c -2.5117,-1.840183 -5.44858,-3.199989 -8.80001,-3.199989 z"/>
-  <rect style="opacity:0.001" width="22" height="22" x="285" y="-29"/>
+  <rect style="opacity:0.001" width="16" height="16" x="285" y="-29"/>
   <g style="opacity:0.35" transform="matrix(1.3913043,0,0,1.3913043,-194.95709,604.26552)">
    <path style="fill:currentColor" class="ColorScheme-Text" d="m 352.87543,-453.00336 c -3.03435,0 -5.64089,1.20314 -7.90626,2.87499 l 7.90626,8.62501 7.90626,-8.62501 c -2.25661,-1.65329 -4.89521,-2.87499 -7.90626,-2.87499 z"/>
   </g>
@@ -114,7 +114,7 @@
  </g>
  <g id="22-22-network-wireless-0-locked" transform="translate(-5.0000273,-155.99996)">
   <g transform="translate(0,55.999998)">
-   <rect style="opacity:0.001" width="22" height="22" x="172" y="-29"/>
+   <rect style="opacity:0.001" width="16" height="16" x="172" y="-29"/>
    <g style="opacity:0.35" transform="matrix(1.3913043,0,0,1.3913043,-307.95709,604.26552)">
     <path style="fill:currentColor" class="ColorScheme-Text" d="m 352.87543,-453.00336 c -3.03435,0 -5.64089,1.20314 -7.90626,2.87499 l 7.90626,8.62501 7.90626,-8.62501 c -2.25661,-1.65329 -4.89521,-2.87499 -7.90626,-2.87499 z"/>
    </g>
@@ -123,7 +123,7 @@
  </g>
  <g id="22-22-network-wireless-20-locked" transform="translate(-66.000027,-155.99996)">
   <g transform="translate(0,55.999998)">
-   <rect style="opacity:0.001" width="22" height="22" x="201" y="-29"/>
+   <rect style="opacity:0.001" width="16" height="16" x="201" y="-29"/>
    <g style="opacity:0.35" transform="matrix(1.3913043,0,0,1.3913043,-278.95709,604.26552)">
     <path style="fill:currentColor" class="ColorScheme-Text" d="m 352.87543,-453.00336 c -3.03435,0 -5.64089,1.20314 -7.90626,2.87499 l 7.90626,8.62501 7.90626,-8.62501 c -2.25661,-1.65329 -4.89521,-2.87499 -7.90626,-2.87499 z"/>
    </g>
@@ -133,7 +133,7 @@
  </g>
  <g id="22-22-network-wireless-40-locked" transform="translate(-126,-155.99996)">
   <g transform="translate(0,55.999998)">
-   <rect style="opacity:0.001" width="22" height="22" x="229" y="-29"/>
+   <rect style="opacity:0.001" width="16" height="16" x="229" y="-29"/>
    <g style="opacity:0.35" transform="matrix(1.3913043,0,0,1.3913043,-250.95709,604.26552)">
     <path style="fill:currentColor" class="ColorScheme-Text" d="m 352.87543,-453.00336 c -3.03435,0 -5.64089,1.20314 -7.90626,2.87499 l 7.90626,8.62501 7.90626,-8.62501 c -2.25661,-1.65329 -4.89521,-2.87499 -7.90626,-2.87499 z"/>
    </g>
@@ -143,7 +143,7 @@
  </g>
  <g id="22-22-network-wireless-60-locked" transform="translate(-186.00004,-155.99998)">
   <g transform="translate(0,55.999998)">
-   <rect style="opacity:0.001" width="22" height="22" x="257" y="-29"/>
+   <rect style="opacity:0.001" width="16" height="16" x="257" y="-29"/>
    <g style="opacity:0.35" transform="matrix(1.3913043,0,0,1.3913043,-222.9571,604.26552)">
     <path style="fill:currentColor" class="ColorScheme-Text" d="m 352.87543,-453.00336 c -3.03435,0 -5.64089,1.20314 -7.90626,2.87499 l 7.90626,8.62501 7.90626,-8.62501 c -2.25661,-1.65329 -4.89521,-2.87499 -7.90626,-2.87499 z"/>
    </g>
@@ -153,7 +153,7 @@
  </g>
  <g id="22-22-network-wireless-80-locked" transform="translate(-246.00444,-155.99984)">
   <g transform="translate(0,55.999998)">
-   <rect style="opacity:0.001" width="22" height="22" x="285" y="-29"/>
+   <rect style="opacity:0.001" width="16" height="16" x="285" y="-29"/>
    <g style="opacity:0.35" transform="matrix(1.3913043,0,0,1.3913043,-194.95709,604.26552)">
     <path style="fill:currentColor" class="ColorScheme-Text" d="m 352.87543,-453.00336 c -3.03435,0 -5.64089,1.20314 -7.90626,2.87499 l 7.90626,8.62501 7.90626,-8.62501 c -2.25661,-1.65329 -4.89521,-2.87499 -7.90626,-2.87499 z"/>
    </g>
@@ -171,48 +171,48 @@
   <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m 331.5,40.0005 c -1.5,0 -2.5,1 -2.5,2 V 43 h -1 V 43.75 47 h 0.75 5.49999 0.75 V 43 H 334 v -0.9995 c 0,-1 -1,-2 -2.5,-2 z m 0,1 c 0.5,0 1.5,0 1.5,1.375 V 43 h -3 v -0.6245 c 0,-1.375 1.01912,-1.375 1.5,-1.375 z"/>
  </g>
  <g id="22-22-network-mobile-20" transform="translate(362,379)">
-  <rect style="opacity:0.001" width="22" height="22" x="472" y="-1"/>
+  <rect style="opacity:0.001" width="16" height="16" x="472" y="-1"/>
   <g transform="translate(1.000061)">
    <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="m 489,2 v 16 h 1 1 V 2 h -1 z m -4,3 v 13 h 1 1 V 5 h -1 z m -4,3 v 10 h 1 1 V 8 h -1 z m -4,3 v 7 h 1 1 v -7 h -1 z"/>
    <path style="fill:currentColor" class="ColorScheme-Text" d="m 473,14 v 4 h 1 1 v -4 h -1 z"/>
   </g>
  </g>
  <g id="22-22-network-mobile-40" transform="translate(300,379)">
-  <rect style="opacity:0.001" width="22" height="22" x="502" y="-1"/>
+  <rect style="opacity:0.001" width="16" height="16" x="502" y="-1"/>
   <g transform="translate(1.000061)">
    <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="m 519,2 v 16 h 1 1 V 2 h -1 z m -4,3 v 13 h 1 1 V 5 h -1 z m -4,3 v 10 h 1 1 V 8 h -1 z"/>
    <path style="fill:currentColor" class="ColorScheme-Text" d="m 507,11 v 7 h 1 1 v -7 h -1 z m -4,3 v 4 h 1 1 v -4 h -1 z"/>
   </g>
  </g>
  <g id="22-22-network-mobile-60" transform="translate(238,379)">
-  <rect style="opacity:0.001" width="22" height="22" x="532" y="-1"/>
+  <rect style="opacity:0.001" width="16" height="16" x="532" y="-1"/>
   <g transform="translate(1.000061)">
    <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="m 549,2 v 16 h 1 1 V 2 h -1 z m -4,3 v 13 h 1 1 V 5 h -1 z"/>
    <path style="fill:currentColor" class="ColorScheme-Text" d="m 541,8 v 10 h 1 1 V 8 h -1 z m -4,3 v 7 h 1 1 v -7 h -1 z m -4,3 v 4 h 1 1 v -4 h -1 z"/>
   </g>
  </g>
  <g id="22-22-network-mobile-80" transform="translate(176,379)">
-  <rect style="opacity:0.001" width="22" height="22" x="562" y="-1"/>
+  <rect style="opacity:0.001" width="16" height="16" x="562" y="-1"/>
   <g transform="translate(1.000061)">
    <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="m 579,2 v 16 h 1 1 V 2 h -1 z"/>
    <path style="fill:currentColor" class="ColorScheme-Text" d="m 575,5 v 13 h 1 1 V 5 h -1 z m -4,3 v 10 h 1 1 V 8 h -1 z m -4,3 v 7 h 1 1 v -7 h -1 z m -4,3 v 4 h 1 1 v -4 h -1 z"/>
   </g>
  </g>
  <g id="22-22-network-mobile-100" transform="translate(114,379)">
-  <rect style="opacity:0.001" width="22" height="22" x="592" y="-1"/>
+  <rect style="opacity:0.001" width="16" height="16" x="592" y="-1"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 610.00006,2 v 16 h 1 1 V 2 h -1 z m -4,3 v 13 h 1 1 V 5 h -1 z m -4,3 v 10 h 1 1 V 8 h -1 z m -4,3 v 7 h 1 1 v -7 h -1 z m -4,3 v 4 h 1 1 v -4 h -1 z"/>
  </g>
  <g id="22-22-network-mobile-on" transform="translate(-7.999999,379)">
-  <rect style="opacity:0.001" width="22" height="22" x="618" y="-1"/>
+  <rect style="opacity:0.001" width="16" height="16" x="618" y="-1"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 636.00006,2 v 16 h 1 1 V 2 h -1 z m -4,3 v 13 h 1 1 V 5 h -1 z m -4,3 v 10 h 1 1 V 8 h -1 z m -4,3 v 7 h 1 1 v -7 h -1 z m -4,3 v 4 h 1 1 v -4 h -1 z"/>
  </g>
  <g id="22-22-network-mobile-0-gprs" transform="translate(328,9)">
-  <rect style="opacity:0.001" width="22" height="22" x="442" y="59"/>
+  <rect style="opacity:0.001" width="16" height="16" x="442" y="59"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 446,61.99999 h 4.125 v 1 H 447 v 3 h 2.125 v -1.00001 h -1 v -1 h 1 1 v 2.00001 1 H 447 446 v -4 z"/>
   <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="m 460,62 v 16 h 1 1 V 62 h -1 z m -4,3 v 13 h 1 1 V 65 h -1 z m -4,3 v 10 h 1 1 V 68 h -1 z m -4,3 v 7 h 1 1 v -7 h -1 z m -4,3 v 4 h 1 1 v -4 h -1 z"/>
  </g>
  <g id="22-22-network-mobile-20-gprs" transform="translate(266,9)">
-  <rect style="opacity:0.001" width="22" height="22" x="472" y="59"/>
+  <rect style="opacity:0.001" width="16" height="16" x="472" y="59"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 476,61.99999 h 4.125 v 1 H 477 v 3 h 2.125 v -1.00001 h -1 v -1 h 1 1 v 2.00001 1 H 477 476 v -4 z"/>
   <g transform="translate(1,60)">
    <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="m 489,2 v 16 h 1 1 V 2 h -1 z m -4,3 v 13 h 1 1 V 5 h -1 z m -4,3 v 10 h 1 1 V 8 h -1 z m -4,3 v 7 h 1 1 v -7 h -1 z"/>
@@ -220,7 +220,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-40-gprs" transform="translate(204,8.999989)">
-  <rect style="opacity:0.001" width="22" height="22" x="502" y="59"/>
+  <rect style="opacity:0.001" width="16" height="16" x="502" y="59"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 506,61.99999 h 4.125 v 1 H 507 v 3 h 2.125 v -1.00001 h -1 v -1 h 1 1 v 2.00001 1 H 507 506 v -4 z"/>
   <g transform="translate(1,60)">
    <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="m 519,2 v 16 h 1 1 V 2 h -1 z m -4,3 v 13 h 1 1 V 5 h -1 z m -4,3 v 10 h 1 1 V 8 h -1 z"/>
@@ -228,7 +228,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-60-gprs" transform="translate(142,8.999989)">
-  <rect style="opacity:0.001" width="22" height="22" x="532" y="59"/>
+  <rect style="opacity:0.001" width="16" height="16" x="532" y="59"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 536,61.99999 h 4.125 v 1 H 537 v 3 h 2.125 v -1.00001 h -1 v -1 h 1 1 v 2.00001 1 H 537 536 v -4 z"/>
   <g transform="translate(1,60)">
    <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="m 549,2 v 16 h 1 1 V 2 h -1 z m -4,3 v 13 h 1 1 V 5 h -1 z"/>
@@ -236,7 +236,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-80-gprs" transform="translate(80.000001,9)">
-  <rect style="opacity:0.001" width="22" height="22" x="562" y="59"/>
+  <rect style="opacity:0.001" width="16" height="16" x="562" y="59"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 566,61.99999 h 4.125 v 1 H 567 v 3 h 2.125 v -1.00001 h -1 v -1 h 1 1 v 2.00001 1 H 567 566 v -4 z"/>
   <g transform="translate(1,60)">
    <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="m 579,2 v 16 h 1 1 V 2 h -1 z"/>
@@ -244,17 +244,17 @@
   </g>
  </g>
  <g id="22-22-network-mobile-100-gprs" transform="translate(18.000001,9)">
-  <rect style="opacity:0.001" width="22" height="22" x="592" y="59"/>
+  <rect style="opacity:0.001" width="16" height="16" x="592" y="59"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 596,61.99999 h 4.125 v 1 H 597 v 3 h 2.125 v -1.00001 h -1 v -1 h 1 1 v 2.00001 1 H 597 596 v -4 z"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 610,62 v 16 h 1 1 V 62 h -1 z m -4,3 v 13 h 1 1 V 65 h -1 z m -4,3 v 10 h 1 1 V 68 h -1 z m -4,3 v 7 h 1 1 v -7 h -1 z m -4,3 v 4 h 1 1 v -4 h -1 z"/>
  </g>
  <g id="22-22-network-mobile-0-edge" transform="translate(327.99996,160.99999)">
-  <rect style="opacity:0.001" width="22" height="22" x="442" y="119"/>
+  <rect style="opacity:0.001" width="16" height="16" x="442" y="119"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 446,121.99999 h 1 3 v 1 h -3 v 0.99999 h 2 v 1 h -2 v 1.00001 h 3 v 1 h -3 -1 z"/>
   <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="m 460,122 v 16 h 1 1 v -16 h -1 z m -4,3 v 13 h 1 1 v -13 h -1 z m -4,3 v 10 h 1 1 v -10 h -1 z m -4,3 v 7 h 1 1 v -7 h -1 z m -4,3 v 4 h 1 1 v -4 h -1 z"/>
  </g>
  <g id="22-22-network-mobile-20-edge" transform="translate(266,160.99999)">
-  <rect style="opacity:0.001" width="22" height="22" x="472" y="119"/>
+  <rect style="opacity:0.001" width="16" height="16" x="472" y="119"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 476,121.99999 h 1 3 v 1 h -3 v 0.99999 h 2 v 1 h -2 v 1.00001 h 3 v 1 h -3 -1 z"/>
   <g transform="translate(1,120)">
    <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="m 489,2 v 16 h 1 1 V 2 h -1 z m -4,3 v 13 h 1 1 V 5 h -1 z m -4,3 v 10 h 1 1 V 8 h -1 z m -4,3 v 7 h 1 1 v -7 h -1 z"/>
@@ -262,7 +262,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-40-edge" transform="translate(204,160.99999)">
-  <rect style="opacity:0.001" width="22" height="22" x="502" y="119"/>
+  <rect style="opacity:0.001" width="16" height="16" x="502" y="119"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 506,121.99999 h 1 3 v 1 h -3 v 0.99999 h 2 v 1 h -2 v 1.00001 h 3 v 1 h -3 -1 z"/>
   <g transform="translate(1,120)">
    <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="m 519,2 v 16 h 1 1 V 2 h -1 z m -4,3 v 13 h 1 1 V 5 h -1 z m -4,3 v 10 h 1 1 V 8 h -1 z"/>
@@ -270,7 +270,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-60-edge" transform="translate(141.9999,160.99999)">
-  <rect style="opacity:0.001" width="22" height="22" x="532" y="119"/>
+  <rect style="opacity:0.001" width="16" height="16" x="532" y="119"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 536,121.99999 h 1 3 v 1 h -3 v 0.99999 h 2 v 1 h -2 v 1.00001 h 3 v 1 h -3 -1 z"/>
   <g transform="translate(1,120)">
    <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="m 549,2 v 16 h 1 1 V 2 h -1 z m -4,3 v 13 h 1 1 V 5 h -1 z"/>
@@ -278,7 +278,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-80-edge" transform="translate(80.000001,161)">
-  <rect style="opacity:0.001" width="22" height="22" x="562" y="119"/>
+  <rect style="opacity:0.001" width="16" height="16" x="562" y="119"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 566,121.99999 h 1 3 v 1 h -3 v 0.99999 h 2 v 1 h -2 v 1.00001 h 3 v 1 h -3 -1 z"/>
   <g transform="translate(1,120)">
    <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="m 579,2 v 16 h 1 1 V 2 h -1 z"/>
@@ -286,12 +286,12 @@
   </g>
  </g>
  <g id="22-22-network-mobile-100-edge" transform="translate(18.000003,161)">
-  <rect style="opacity:0.001" width="22" height="22" x="592" y="119"/>
+  <rect style="opacity:0.001" width="16" height="16" x="592" y="119"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 596,121.99999 h 1 3 v 1 h -3 v 0.99999 h 2 v 1 h -2 v 1.00001 h 3 v 1 h -3 -1 z"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 610,122 v 16 h 1 1 v -16 h -1 z m -4,3 v 13 h 1 1 v -13 h -1 z m -4,3 v 10 h 1 1 v -10 h -1 z m -4,3 v 7 h 1 1 v -7 h -1 z m -4,3 v 4 h 1 1 v -4 h -1 z"/>
  </g>
  <g id="22-22-network-mobile-20-gprs-locked" transform="translate(458,-21)">
-  <rect style="opacity:0.001" width="22" height="22" x="472" y="89"/>
+  <rect style="opacity:0.001" width="16" height="16" x="472" y="89"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 476,92.00001 h 4.125 v 1 H 477 v 3 h 2.125 V 95 h -1 v -1 h 1 1 v 2.00001 1 H 477 476 v -4 z"/>
   <g transform="translate(1,61)">
    <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m 489.5,41.0005 c -1.5,0 -2.5,1 -2.5,2 V 44 h -1 V 44.75 48 h 0.75 5.5 0.75 v -4 h -1 v -0.9995 c 0,-1 -1,-2 -2.5,-2 z m 0,1 c 0.5,0 1.5,0 1.5,1.375 V 44 h -3 v -0.6245 c 0,-1.375 1.01913,-1.375 1.5,-1.375 z"/>
@@ -302,7 +302,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-40-gprs-locked" transform="translate(396,-21)">
-  <rect style="opacity:0.001" width="22" height="22" x="502" y="89"/>
+  <rect style="opacity:0.001" width="16" height="16" x="502" y="89"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 506,92.00001 h 4.125 v 1 H 507 v 3 h 2.125 V 95 h -1 v -1 h 1 1 v 2.00001 1 H 507 506 v -4 z"/>
   <g transform="translate(1,61)">
    <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m 519.5,41.0005 c -1.5,0 -2.5,1 -2.5,2 V 44 h -1 V 44.75 48 h 0.75 5.5 0.75 v -4 h -1 v -0.9995 c 0,-1 -1,-2 -2.5,-2 z m 0,1 c 0.5,0 1.5,0 1.5,1.375 V 44 h -3 v -0.6245 c 0,-1.375 1.01913,-1.375 1.5,-1.375 z"/>
@@ -313,7 +313,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-60-gprs-locked" transform="translate(334,-21)">
-  <rect style="opacity:0.001" width="22" height="22" x="532" y="89"/>
+  <rect style="opacity:0.001" width="16" height="16" x="532" y="89"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 536,92.00001 h 4.125 v 1 H 537 v 3 h 2.125 V 95 h -1 v -1 h 1 1 v 2.00001 1 H 537 536 v -4 z"/>
   <g transform="translate(1,61)">
    <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m 549.5,41.0005 c -1.5,0 -2.5,1 -2.5,2 V 44 h -1 V 44.75 48 h 0.75 5.5 0.75 v -4 h -1 v -0.9995 c 0,-1 -1,-2 -2.5,-2 z m 0,1 c 0.5,0 1.5,0 1.5,1.375 V 44 h -3 v -0.6245 c 0,-1.375 1.01913,-1.375 1.5,-1.375 z"/>
@@ -324,7 +324,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-80-gprs-locked" transform="translate(272,-21)">
-  <rect style="opacity:0.001" width="22" height="22" x="562" y="89"/>
+  <rect style="opacity:0.001" width="16" height="16" x="562" y="89"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 566,92.00001 h 4.125 v 1 H 567 v 3 h 2.125 V 95 h -1 v -1 h 1 1 v 2.00001 1 H 567 566 v -4 z"/>
   <g transform="translate(1,61)">
    <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m 579.5,41.0005 c -1.5,0 -2.5,1 -2.5,2 V 44 h -1 V 44.75 48 h 0.75 5.5 0.75 v -4 h -1 v -0.9995 c 0,-1 -1,-2 -2.5,-2 z m 0,1 c 0.5,0 1.5,0 1.5,1.375 V 44 h -3 v -0.6245 c 0,-1.375 1.01913,-1.375 1.5,-1.375 z"/>
@@ -335,7 +335,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-100-gprs-locked" transform="translate(210,-21)">
-  <rect style="opacity:0.001" width="22" height="22" x="592" y="89"/>
+  <rect style="opacity:0.001" width="16" height="16" x="592" y="89"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 596,92.00001 h 4.125 v 1 H 597 v 3 h 2.125 V 95 h -1 v -1 h 1 1 v 2.00001 1 H 597 596 v -4 z"/>
   <g transform="translate(1,61)">
    <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m 609.5,41.0005 c -1.5,0 -2.5,1 -2.5,2 V 44 h -1 V 44.75 48 h 0.75 5.5 0.75 v -4 h -1 v -0.9995 c 0,-1 -1,-2 -2.5,-2 z m 0,1 c 0.5,0 1.5,0 1.5,1.375 V 44 h -3 v -0.6245 c 0,-1.375 1.01913,-1.375 1.5,-1.375 z"/>
@@ -343,7 +343,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-0-gprs-locked" transform="translate(520,-21)">
-  <rect style="opacity:0.001" width="22" height="22" x="442" y="89"/>
+  <rect style="opacity:0.001" width="16" height="16" x="442" y="89"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 446,92.00001 h 4.125 v 1 H 447 v 3 h 2.125 V 95 h -1 v -1 h 1 1 v 2.00001 1 H 447 446 v -4 z"/>
   <g transform="translate(-29,61)">
    <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m 489.5,41.0005 c -1.5,0 -2.5,1 -2.5,2 V 44 h -1 V 44.75 48 h 0.75 5.5 0.75 v -4 h -1 v -0.9995 c 0,-1 -1,-2 -2.5,-2 z m 0,1 c 0.5,0 1.5,0 1.5,1.375 V 44 h -3 v -0.6245 c 0,-1.375 1.01913,-1.375 1.5,-1.375 z"/>
@@ -353,7 +353,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-20-locked" transform="translate(554,349)">
-  <rect style="opacity:0.001" width="22" height="22" x="472" y="29"/>
+  <rect style="opacity:0.001" width="16" height="16" x="472" y="29"/>
   <g transform="translate(1,1)">
    <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m 489.5,41.0005 c -1.5,0 -2.5,1 -2.5,2 V 44 h -1 V 44.75 48 h 0.75 5.5 0.75 v -4 h -1 v -0.9995 c 0,-1 -1,-2 -2.5,-2 z m 0,1 c 0.5,0 1.5,0 1.5,1.375 V 44 h -3 v -0.6245 c 0,-1.375 1.01913,-1.375 1.5,-1.375 z"/>
    <g transform="translate(0,29)">
@@ -363,7 +363,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-40-locked" transform="translate(492,349)">
-  <rect style="opacity:0.001" width="22" height="22" x="502" y="29"/>
+  <rect style="opacity:0.001" width="16" height="16" x="502" y="29"/>
   <g transform="translate(1,1)">
    <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m 519.5,41.0005 c -1.5,0 -2.5,1 -2.5,2 V 44 h -1 V 44.75 48 h 0.75 5.5 0.75 v -4 h -1 v -0.9995 c 0,-1 -1,-2 -2.5,-2 z m 0,1 c 0.5,0 1.5,0 1.5,1.375 V 44 h -3 v -0.6245 c 0,-1.375 1.01913,-1.375 1.5,-1.375 z"/>
    <g transform="translate(0,29)">
@@ -373,7 +373,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-60-locked" transform="translate(430,349)">
-  <rect style="opacity:0.001" width="22" height="22" x="532" y="29"/>
+  <rect style="opacity:0.001" width="16" height="16" x="532" y="29"/>
   <g transform="translate(1,1)">
    <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m 549.5,41.0005 c -1.5,0 -2.5,1 -2.5,2 V 44 h -1 V 44.75 48 h 0.75 5.5 0.75 v -4 h -1 v -0.9995 c 0,-1 -1,-2 -2.5,-2 z m 0,1 c 0.5,0 1.5,0 1.5,1.375 V 44 h -3 v -0.6245 c 0,-1.375 1.01913,-1.375 1.5,-1.375 z"/>
    <g transform="translate(0,29)">
@@ -383,7 +383,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-80-locked" transform="translate(368,349)">
-  <rect style="opacity:0.001" width="22" height="22" x="562" y="29"/>
+  <rect style="opacity:0.001" width="16" height="16" x="562" y="29"/>
   <g transform="translate(1,1)">
    <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m 579.5,41.0005 c -1.5,0 -2.5,1 -2.5,2 V 44 h -1 V 44.75 48 h 0.75 5.5 0.75 v -4 h -1 v -0.9995 c 0,-1 -1,-2 -2.5,-2 z m 0,1 c 0.5,0 1.5,0 1.5,1.375 V 44 h -3 v -0.6245 c 0,-1.375 1.01913,-1.375 1.5,-1.375 z"/>
    <g transform="translate(0,29)">
@@ -393,14 +393,14 @@
   </g>
  </g>
  <g id="22-22-network-mobile-100-locked" transform="translate(306,349)">
-  <rect style="opacity:0.001" width="22" height="22" x="592" y="29"/>
+  <rect style="opacity:0.001" width="16" height="16" x="592" y="29"/>
   <g transform="translate(1,1)">
    <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m 609.5,41.0005 c -1.5,0 -2.5,1 -2.5,2 V 44 h -1 V 44.75 48 h 0.75 5.5 0.75 v -4 h -1 v -0.9995 c 0,-1 -1,-2 -2.5,-2 z m 0,1 c 0.5,0 1.5,0 1.5,1.375 V 44 h -3 v -0.6245 c 0,-1.375 1.01913,-1.375 1.5,-1.375 z"/>
    <path style="fill:currentColor" class="ColorScheme-Text" transform="translate(-1,-1)" d="m 610,32 v 9.042969 C 610.16451,41.02294 610.32865,41 610.5,41 c 0.54041,0 1.04469,0.112323 1.5,0.296875 V 32 h -1 z m -4,3 v 9.998047 a 1.0001,1.0003167 0 0 1 1,-1 c 6.1e-4,-0.822763 0.38187,-1.561777 1,-2.101563 V 35 h -1 z m -4,3 v 10 h 1 1 V 38 h -1 z m -4,3 v 7 h 1 1 v -7 h -1 z m -4,3 v 4 h 1 1 v -4 h -1 z"/>
   </g>
  </g>
  <g id="22-22-network-mobile-0-locked" transform="translate(616,349)">
-  <rect style="opacity:0.001" width="22" height="22" x="442" y="29"/>
+  <rect style="opacity:0.001" width="16" height="16" x="442" y="29"/>
   <g transform="translate(-29,1)">
    <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m 489.5,41.0005 c -1.5,0 -2.5,1 -2.5,2 V 44 h -1 V 44.75 48 h 0.75 5.5 0.75 v -4 h -1 v -0.9995 c 0,-1 -1,-2 -2.5,-2 z m 0,1 c 0.5,0 1.5,0 1.5,1.375 V 44 h -3 v -0.6245 c 0,-1.375 1.01913,-1.375 1.5,-1.375 z"/>
    <g transform="translate(0,29)">
@@ -409,7 +409,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-20-edge-locked" transform="translate(457.99996,131)">
-  <rect style="opacity:0.001" width="22" height="22" x="472" y="149"/>
+  <rect style="opacity:0.001" width="16" height="16" x="472" y="149"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 476,152.00001 h 1 3 v 1 h -3 V 154 h 2 v 1 h -2 v 1.00001 h 3 v 1 h -3 -1 z"/>
   <g transform="translate(1,121)">
    <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m 489.5,41.0005 c -1.5,0 -2.5,1 -2.5,2 V 44 h -1 V 44.75 48 h 0.75 5.5 0.75 v -4 h -1 v -0.9995 c 0,-1 -1,-2 -2.5,-2 z m 0,1 c 0.5,0 1.5,0 1.5,1.375 V 44 h -3 v -0.6245 c 0,-1.375 1.01913,-1.375 1.5,-1.375 z"/>
@@ -420,7 +420,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-40-edge-locked" transform="translate(395.99996,131)">
-  <rect style="opacity:0.001" width="22" height="22" x="502" y="149"/>
+  <rect style="opacity:0.001" width="16" height="16" x="502" y="149"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 506,152.00001 h 1 3 v 1 h -3 V 154 h 2 v 1 h -2 v 1.00001 h 3 v 1 h -3 -1 z"/>
   <g transform="translate(1,121)">
    <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m 519.5,41.0005 c -1.5,0 -2.5,1 -2.5,2 V 44 h -1 V 44.75 48 h 0.75 5.5 0.75 v -4 h -1 v -0.9995 c 0,-1 -1,-2 -2.5,-2 z m 0,1 c 0.5,0 1.5,0 1.5,1.375 V 44 h -3 v -0.6245 c 0,-1.375 1.01913,-1.375 1.5,-1.375 z"/>
@@ -431,7 +431,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-60-edge-locked" transform="translate(333.99996,131)">
-  <rect style="opacity:0.001" width="22" height="22" x="532" y="149"/>
+  <rect style="opacity:0.001" width="16" height="16" x="532" y="149"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 536,152.00001 h 1 3 v 1 h -3 V 154 h 2 v 1 h -2 v 1.00001 h 3 v 1 h -3 -1 z"/>
   <g transform="translate(1,121)">
    <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m 549.5,41.0005 c -1.5,0 -2.5,1 -2.5,2 V 44 h -1 V 44.75 48 h 0.75 5.5 0.75 v -4 h -1 v -0.9995 c 0,-1 -1,-2 -2.5,-2 z m 0,1 c 0.5,0 1.5,0 1.5,1.375 V 44 h -3 v -0.6245 c 0,-1.375 1.01913,-1.375 1.5,-1.375 z"/>
@@ -442,7 +442,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-80-edge-locked" transform="translate(272,131)">
-  <rect style="opacity:0.001" width="22" height="22" x="562" y="149"/>
+  <rect style="opacity:0.001" width="16" height="16" x="562" y="149"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 566,152.00001 h 1 3 v 1 h -3 V 154 h 2 v 1 h -2 v 1.00001 h 3 v 1 h -3 -1 z"/>
   <g transform="translate(1,121)">
    <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m 579.5,41.0005 c -1.5,0 -2.5,1 -2.5,2 V 44 h -1 V 44.75 48 h 0.75 5.5 0.75 v -4 h -1 v -0.9995 c 0,-1 -1,-2 -2.5,-2 z m 0,1 c 0.5,0 1.5,0 1.5,1.375 V 44 h -3 v -0.6245 c 0,-1.375 1.01913,-1.375 1.5,-1.375 z"/>
@@ -453,7 +453,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-100-edge-locked" transform="translate(210,131)">
-  <rect style="opacity:0.001" width="22" height="22" x="592" y="149"/>
+  <rect style="opacity:0.001" width="16" height="16" x="592" y="149"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 596,152.00001 h 1 3 v 1 h -3 V 154 h 2 v 1 h -2 v 1.00001 h 3 v 1 h -3 -1 z"/>
   <g transform="translate(1,121)">
    <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m 609.5,41.0005 c -1.5,0 -2.5,1 -2.5,2 V 44 h -1 V 44.75 48 h 0.75 5.5 0.75 v -4 h -1 v -0.9995 c 0,-1 -1,-2 -2.5,-2 z m 0,1 c 0.5,0 1.5,0 1.5,1.375 V 44 h -3 v -0.6245 c 0,-1.375 1.01913,-1.375 1.5,-1.375 z"/>
@@ -461,7 +461,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-0-edge-locked" transform="translate(519.99996,131)">
-  <rect style="opacity:0.001" width="22" height="22" x="442" y="149"/>
+  <rect style="opacity:0.001" width="16" height="16" x="442" y="149"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 446,152.00001 h 1 3 v 1 h -3 V 154 h 2 v 1 h -2 v 1.00001 h 3 v 1 h -3 -1 z"/>
   <g transform="translate(-29,121)">
    <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m 489.5,41.0005 c -1.5,0 -2.5,1 -2.5,2 V 44 h -1 V 44.75 48 h 0.75 5.5 0.75 v -4 h -1 v -0.9995 c 0,-1 -1,-2 -2.5,-2 z m 0,1 c 0.5,0 1.5,0 1.5,1.375 V 44 h -3 v -0.6245 c 0,-1.375 1.01913,-1.375 1.5,-1.375 z"/>
@@ -471,12 +471,12 @@
   </g>
  </g>
  <g id="22-22-network-mobile-0-umts" transform="translate(328.00001,-3.33e-6)">
-  <rect style="opacity:0.001" width="22" height="22" x="442" y="179"/>
+  <rect style="opacity:0.001" width="16" height="16" x="442" y="179"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 446,182 h 1 v 3 c 0,0.55228 0.44772,1 1,1 0.55228,0 1,-0.44772 1,-1 v -3 h 1 v 3 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 z"/>
   <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="m 460,182 v 16 h 1 1 v -16 h -1 z m -4,3 v 13 h 1 1 v -13 h -1 z m -4,3 v 10 h 1 1 v -10 h -1 z m -4,3 v 7 h 1 1 v -7 h -1 z m -4,3 v 4 h 1 1 v -4 h -1 z"/>
  </g>
  <g id="22-22-network-mobile-20-umts" transform="translate(266,1.667e-5)">
-  <rect style="opacity:0.001" width="22" height="22" x="472" y="179"/>
+  <rect style="opacity:0.001" width="16" height="16" x="472" y="179"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 476,182 h 1 v 3 c 0,0.55228 0.44772,1 1,1 0.55228,0 1,-0.44772 1,-1 v -3 h 1 v 3 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 z"/>
   <g transform="translate(1,180)">
    <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="m 489,2 v 16 h 1 1 V 2 h -1 z m -4,3 v 13 h 1 1 V 5 h -1 z m -4,3 v 10 h 1 1 V 8 h -1 z m -4,3 v 7 h 1 1 v -7 h -1 z"/>
@@ -484,7 +484,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-40-umts" transform="translate(204,-1.333e-5)">
-  <rect style="opacity:0.001" width="22" height="22" x="502" y="179"/>
+  <rect style="opacity:0.001" width="16" height="16" x="502" y="179"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 506,182 h 1 v 3 c 0,0.55228 0.44772,1 1,1 0.55228,0 1,-0.44772 1,-1 v -3 h 1 v 3 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 z"/>
   <g transform="translate(1,180)">
    <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="m 519,2 v 16 h 1 1 V 2 h -1 z m -4,3 v 13 h 1 1 V 5 h -1 z m -4,3 v 10 h 1 1 V 8 h -1 z"/>
@@ -492,7 +492,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-60-umts" transform="translate(142,-1.333e-5)">
-  <rect style="opacity:0.001" width="22" height="22" x="532" y="179"/>
+  <rect style="opacity:0.001" width="16" height="16" x="532" y="179"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 536,182 h 1 v 3 c 0,0.55228 0.44772,1 1,1 0.55228,0 1,-0.44772 1,-1 v -3 h 1 v 3 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 z"/>
   <g transform="translate(1,180)">
    <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="m 549,2 v 16 h 1 1 V 2 h -1 z m -4,3 v 13 h 1 1 V 5 h -1 z"/>
@@ -500,7 +500,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-80-umts" transform="translate(80.000001,-3.33e-6)">
-  <rect style="opacity:0.001" width="22" height="22" x="562" y="179"/>
+  <rect style="opacity:0.001" width="16" height="16" x="562" y="179"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 566,182 h 1 v 3 c 0,0.55228 0.44772,1 1,1 0.55228,0 1,-0.44772 1,-1 v -3 h 1 v 3 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 z"/>
   <g transform="translate(1,180)">
    <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="m 579,2 v 16 h 1 1 V 2 h -1 z"/>
@@ -508,12 +508,12 @@
   </g>
  </g>
  <g id="22-22-network-mobile-100-umts" transform="translate(18.000001,-3.33e-6)">
-  <rect style="opacity:0.001" width="22" height="22" x="592" y="179"/>
+  <rect style="opacity:0.001" width="16" height="16" x="592" y="179"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 596,182 h 1 v 3 c 0,0.55228 0.44772,1 1,1 0.55228,0 1,-0.44772 1,-1 v -3 h 1 v 3 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 z"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 610,182 v 16 h 1 1 v -16 h -1 z m -4,3 v 13 h 1 1 v -13 h -1 z m -4,3 v 10 h 1 1 v -10 h -1 z m -4,3 v 7 h 1 1 v -7 h -1 z m -4,3 v 4 h 1 1 v -4 h -1 z"/>
  </g>
  <g id="22-22-network-mobile-20-umts-locked" transform="translate(458.00001,-30.000004)">
-  <rect style="opacity:0.001" width="22" height="22" x="472" y="209"/>
+  <rect style="opacity:0.001" width="16" height="16" x="472" y="209"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 476,212 h 1 v 3 c 0,0.55228 0.44772,1 1,1 0.55228,0 1,-0.44772 1,-1 v -3 h 1 v 3 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 z"/>
   <g transform="translate(1,181)">
    <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m 489.5,41.0005 c -1.5,0 -2.5,1 -2.5,2 V 44 h -1 V 44.75 48 h 0.75 5.5 0.75 v -4 h -1 v -0.9995 c 0,-1 -1,-2 -2.5,-2 z m 0,1 c 0.5,0 1.5,0 1.5,1.375 V 44 h -3 v -0.6245 c 0,-1.375 1.01913,-1.375 1.5,-1.375 z"/>
@@ -524,7 +524,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-40-umts-locked" transform="translate(396.00001,-30.000004)">
-  <rect style="opacity:0.001" width="22" height="22" x="502" y="209"/>
+  <rect style="opacity:0.001" width="16" height="16" x="502" y="209"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 506,212 h 1 v 3 c 0,0.55228 0.44772,1 1,1 0.55228,0 1,-0.44772 1,-1 v -3 h 1 v 3 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 z"/>
   <g transform="translate(1,181)">
    <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m 519.5,41.0005 c -1.5,0 -2.5,1 -2.5,2 V 44 h -1 V 44.75 48 h 0.75 5.5 0.75 v -4 h -1 v -0.9995 c 0,-1 -1,-2 -2.5,-2 z m 0,1 c 0.5,0 1.5,0 1.5,1.375 V 44 h -3 v -0.6245 c 0,-1.375 1.01913,-1.375 1.5,-1.375 z"/>
@@ -535,7 +535,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-60-umts-locked" transform="translate(334.00001,-30.000004)">
-  <rect style="opacity:0.001" width="22" height="22" x="532" y="209"/>
+  <rect style="opacity:0.001" width="16" height="16" x="532" y="209"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 536,212 h 1 v 3 c 0,0.55228 0.44772,1 1,1 0.55228,0 1,-0.44772 1,-1 v -3 h 1 v 3 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 z"/>
   <g transform="translate(1,181)">
    <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m 549.5,41.0005 c -1.5,0 -2.5,1 -2.5,2 V 44 h -1 V 44.75 48 h 0.75 5.5 0.75 v -4 h -1 v -0.9995 c 0,-1 -1,-2 -2.5,-2 z m 0,1 c 0.5,0 1.5,0 1.5,1.375 V 44 h -3 v -0.6245 c 0,-1.375 1.01913,-1.375 1.5,-1.375 z"/>
@@ -546,7 +546,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-80-umts-locked" transform="translate(273,-30.000004)">
-  <rect style="opacity:0.001" width="22" height="22" x="561" y="209"/>
+  <rect style="opacity:0.001" width="16" height="16" x="561" y="209"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 565,212 h 1 v 3 c 0,0.55228 0.44772,1 1,1 0.55228,0 1,-0.44772 1,-1 v -3 h 1 v 3 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 z"/>
   <g transform="translate(1,181)">
    <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m 578.5,41.0005 c -1.5,0 -2.5,1 -2.5,2 V 44 h -1 V 44.75 48 h 0.75 5.5 0.75 v -4 h -1 v -0.9995 c 0,-1 -1,-2 -2.5,-2 z m 0,1 c 0.5,0 1.5,0 1.5,1.375 V 44 h -3 v -0.6245 c 0,-1.375 1.01913,-1.375 1.5,-1.375 z"/>
@@ -557,7 +557,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-100-umts-locked" transform="translate(210,-30.000004)">
-  <rect style="opacity:0.001" width="22" height="22" x="592" y="209"/>
+  <rect style="opacity:0.001" width="16" height="16" x="592" y="209"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 596,212 h 1 v 3 c 0,0.55228 0.44772,1 1,1 0.55228,0 1,-0.44772 1,-1 v -3 h 1 v 3 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 z"/>
   <g transform="translate(1,181)">
    <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m 609.5,41.0005 c -1.5,0 -2.5,1 -2.5,2 V 44 h -1 V 44.75 48 h 0.75 5.5 0.75 v -4 h -1 v -0.9995 c 0,-1 -1,-2 -2.5,-2 z m 0,1 c 0.5,0 1.5,0 1.5,1.375 V 44 h -3 v -0.6245 c 0,-1.375 1.01913,-1.375 1.5,-1.375 z"/>
@@ -565,7 +565,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-0-umts-locked" transform="translate(520,-30.000004)">
-  <rect style="opacity:0.001" width="22" height="22" x="442" y="209"/>
+  <rect style="opacity:0.001" width="16" height="16" x="442" y="209"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 446,212 h 1 v 3 c 0,0.55228 0.44772,1 1,1 0.55228,0 1,-0.44772 1,-1 v -3 h 1 v 3 c 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 z"/>
   <g transform="translate(-29,181)">
    <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m 489.5,41.0005 c -1.5,0 -2.5,1 -2.5,2 V 44 h -1 V 44.75 48 h 0.75 5.5 0.75 v -4 h -1 v -0.9995 c 0,-1 -1,-2 -2.5,-2 z m 0,1 c 0.5,0 1.5,0 1.5,1.375 V 44 h -3 v -0.6245 c 0,-1.375 1.01913,-1.375 1.5,-1.375 z"/>
@@ -575,13 +575,13 @@
   </g>
  </g>
  <g id="22-22-network-mobile-0-hsdpa" transform="translate(328,-272.00003)">
-  <rect style="opacity:0.001" width="22" height="22" x="442" y="239"/>
+  <rect style="opacity:0.001" width="16" height="16" x="442" y="239"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 445,241.99999 h 1 v 1.99999 h 2 v -1.99999 h 1 v 5 h -1 v -2.00001 h -2 v 2.00001 h -1 z"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 451,244.99998 c 0.55228,0 1,0.4477 1,1 0,0.5523 -0.44772,1 -1,1 -0.55228,0 -1,-0.4477 -1,-1 0,-0.5523 0.44772,-1 1,-1 z"/>
   <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="m 460,242 v 16 h 1 1 v -16 h -1 z m -4,3 v 13 h 1 1 v -13 h -1 z m -4,3 v 10 h 1 1 v -10 h -1 z m -4,3 v 7 h 1 1 v -7 h -1 z m -4,3 v 4 h 1 1 v -4 h -1 z"/>
  </g>
  <g id="22-22-network-mobile-20-hsdpa" transform="translate(266,-272.00003)">
-  <rect style="opacity:0.001" width="22" height="22" x="472" y="239"/>
+  <rect style="opacity:0.001" width="16" height="16" x="472" y="239"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 475,241.99999 h 1 v 1.99999 h 2 v -1.99999 h 1 v 5 h -1 v -2.00001 h -2 v 2.00001 h -1 z"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 481,244.99998 c 0.55228,0 1,0.4477 1,1 0,0.5523 -0.44772,1 -1,1 -0.55228,0 -1,-0.4477 -1,-1 0,-0.5523 0.44772,-1 1,-1 z"/>
   <g transform="translate(1,240)">
@@ -590,14 +590,14 @@
   </g>
  </g>
  <g id="22-22-network-mobile-40-hsdpa" transform="translate(204,-272.00003)">
-  <rect style="opacity:0.001" width="22" height="22" x="502" y="239"/>
+  <rect style="opacity:0.001" width="16" height="16" x="502" y="239"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 505,241.99999 h 1 v 1.99999 h 2 v -1.99999 h 1 v 5 h -1 v -2.00001 h -2 v 2.00001 h -1 z"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 511,244.99998 c 0.55228,0 1,0.4477 1,1 0,0.5523 -0.44772,1 -1,1 -0.55228,0 -1,-0.4477 -1,-1 0,-0.5523 0.44772,-1 1,-1 z"/>
   <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="m 520,242 v 16 h 1 1 v -16 h -1 z m -4,3 v 13 h 1 1 v -13 h -1 z m -4,3 v 10 h 1 1 v -10 h -1 z"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 508,251 v 7 h 1 1 v -7 h -1 z m -4,3 v 4 h 1 1 v -4 h -1 z"/>
  </g>
  <g id="22-22-network-mobile-60-hsdpa" transform="translate(142.0001,-272.00001)">
-  <rect style="opacity:0.001" width="22" height="22" x="532" y="239"/>
+  <rect style="opacity:0.001" width="16" height="16" x="532" y="239"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 535,241.99999 h 1 v 1.99999 h 2 v -1.99999 h 1 v 5 h -1 v -2.00001 h -2 v 2.00001 h -1 z"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 541,244.99998 c 0.55228,0 1,0.4477 1,1 0,0.5523 -0.44772,1 -1,1 -0.55228,0 -1,-0.4477 -1,-1 0,-0.5523 0.44772,-1 1,-1 z"/>
   <g transform="translate(1,240)">
@@ -606,7 +606,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-80-hsdpa" transform="translate(80,-272)">
-  <rect style="opacity:0.001" width="22" height="22" x="562" y="239"/>
+  <rect style="opacity:0.001" width="16" height="16" x="562" y="239"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 565,241.99999 h 1 v 1.99999 h 2 v -1.99999 h 1 v 5 h -1 v -2.00001 h -2 v 2.00001 h -1 z"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 571,244.99998 c 0.55228,0 1,0.4477 1,1 0,0.5523 -0.44772,1 -1,1 -0.55228,0 -1,-0.4477 -1,-1 0,-0.5523 0.44772,-1 1,-1 z"/>
   <g transform="translate(1,240)">
@@ -615,13 +615,13 @@
   </g>
  </g>
  <g id="22-22-network-mobile-100-hsdpa" transform="translate(18,-271.99998)">
-  <rect style="opacity:0.001" width="22" height="22" x="592" y="239"/>
+  <rect style="opacity:0.001" width="16" height="16" x="592" y="239"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 595,241.99999 h 1 v 1.99999 h 2 v -1.99999 h 1 v 5 h -1 v -2.00001 h -2 v 2.00001 h -1 z"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 601,244.99998 c 0.55228,0 1,0.4477 1,1 0,0.5523 -0.44772,1 -1,1 -0.55228,0 -1,-0.4477 -1,-1 0,-0.5523 0.44772,-1 1,-1 z"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 610,242 v 16 h 1 1 v -16 h -1 z m -4,3 v 13 h 1 1 v -13 h -1 z m -4,3 v 10 h 1 1 v -10 h -1 z m -4,3 v 7 h 1 1 v -7 h -1 z m -4,3 v 4 h 1 1 v -4 h -1 z"/>
  </g>
  <g id="22-22-network-mobile-20-hsdpa-locked" transform="translate(458.00003,-302)">
-  <rect style="opacity:0.001" width="22" height="22" x="472" y="269"/>
+  <rect style="opacity:0.001" width="16" height="16" x="472" y="269"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 475,272.00001 h 1 V 274 h 2 v -1.99999 h 1 v 5 h -1 V 275 h -2 v 2.00001 h -1 z"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 481,275 c 0.55228,0 1,0.4477 1,1 0,0.5523 -0.44772,1 -1,1 -0.55228,0 -1,-0.4477 -1,-1 0,-0.5523 0.44772,-1 1,-1 z"/>
   <g transform="translate(1,241)">
@@ -633,7 +633,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-40-hsdpa-locked" transform="translate(396.00003,-302)">
-  <rect style="opacity:0.001" width="22" height="22" x="502" y="269"/>
+  <rect style="opacity:0.001" width="16" height="16" x="502" y="269"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 505,272.00001 h 1 V 274 h 2 v -1.99999 h 1 v 5 h -1 V 275 h -2 v 2.00001 h -1 z"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 511,275 c 0.55228,0 1,0.4477 1,1 0,0.5523 -0.44772,1 -1,1 -0.55228,0 -1,-0.4477 -1,-1 0,-0.5523 0.44772,-1 1,-1 z"/>
   <g transform="translate(1,241)">
@@ -645,7 +645,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-60-hsdpa-locked" transform="translate(334.00003,-302)">
-  <rect style="opacity:0.001" width="22" height="22" x="532" y="269"/>
+  <rect style="opacity:0.001" width="16" height="16" x="532" y="269"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 535,272.00001 h 1 V 274 h 2 v -1.99999 h 1 v 5 h -1 V 275 h -2 v 2.00001 h -1 z"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 541,275 c 0.55228,0 1,0.4477 1,1 0,0.5523 -0.44772,1 -1,1 -0.55228,0 -1,-0.4477 -1,-1 0,-0.5523 0.44772,-1 1,-1 z"/>
   <g transform="translate(1,241)">
@@ -657,7 +657,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-80-hsdpa-locked" transform="translate(272.0001,-302)">
-  <rect style="opacity:0.001" width="22" height="22" x="562" y="269"/>
+  <rect style="opacity:0.001" width="16" height="16" x="562" y="269"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 565,272.00001 h 1 V 274 h 2 v -1.99999 h 1 v 5 h -1 V 275 h -2 v 2.00001 h -1 z"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 571,275 c 0.55228,0 1,0.4477 1,1 0,0.5523 -0.44772,1 -1,1 -0.55228,0 -1,-0.4477 -1,-1 0,-0.5523 0.44772,-1 1,-1 z"/>
   <g transform="translate(1,241)">
@@ -669,7 +669,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-100-hsdpa-locked" transform="translate(210.0001,-302)">
-  <rect style="opacity:0.001" width="22" height="22" x="592" y="269"/>
+  <rect style="opacity:0.001" width="16" height="16" x="592" y="269"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 595,272.00001 h 1 V 274 h 2 v -1.99999 h 1 v 5 h -1 V 275 h -2 v 2.00001 h -1 z"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 601,275 c 0.55228,0 1,0.4477 1,1 0,0.5523 -0.44772,1 -1,1 -0.55228,0 -1,-0.4477 -1,-1 0,-0.5523 0.44772,-1 1,-1 z"/>
   <g transform="translate(1,241)">
@@ -678,7 +678,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-0-hsdpa-locked" transform="translate(520.00004,-302)">
-  <rect style="opacity:0.001" width="22" height="22" x="442" y="269"/>
+  <rect style="opacity:0.001" width="16" height="16" x="442" y="269"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 445,272.00001 h 1 V 274 h 2 v -1.99999 h 1 v 5 h -1 V 275 h -2 v 2.00001 h -1 z"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 451,275 c 0.55228,0 1,0.4477 1,1 0,0.5523 -0.44772,1 -1,1 -0.55228,0 -1,-0.4477 -1,-1 0,-0.5523 0.44772,-1 1,-1 z"/>
   <g transform="translate(-29,241)">
@@ -689,13 +689,13 @@
   </g>
  </g>
  <g id="22-22-network-mobile-0-hsupa" transform="translate(327.99996,-431.00005)">
-  <rect style="opacity:0.001" width="22" height="22" x="442" y="299"/>
+  <rect style="opacity:0.001" width="16" height="16" x="442" y="299"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 445,302.00001 h 1 V 304 h 2 v -1.99999 h 1 v 5 h -1 V 305 h -2 v 2.00001 h -1 z"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 451,302 c 0.55228,0 1,0.4477 1,1 0,0.5523 -0.44772,1 -1,1 -0.55228,0 -1,-0.4477 -1,-1 0,-0.5523 0.44772,-1 1,-1 z"/>
   <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="m 460,302 v 16 h 1 1 v -16 h -1 z m -4,3 v 13 h 1 1 v -13 h -1 z m -4,3 v 10 h 1 1 v -10 h -1 z m -4,3 v 7 h 1 1 v -7 h -1 z m -4,3 v 4 h 1 1 v -4 h -1 z"/>
  </g>
  <g id="22-22-network-mobile-20-hsupa" transform="translate(266,-431.00005)">
-  <rect style="opacity:0.001" width="22" height="22" x="472" y="299"/>
+  <rect style="opacity:0.001" width="16" height="16" x="472" y="299"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 475.00002,302.00001 h 1 V 304 h 2 v -1.99999 h 1 v 5 h -1 V 305 h -2 v 2.00001 h -1 z"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 481.00002,302 c 0.55228,0 1,0.4477 1,1 0,0.5523 -0.44772,1 -1,1 -0.55228,0 -1,-0.4477 -1,-1 0,-0.5523 0.44772,-1 1,-1 z"/>
   <g transform="translate(1,300)">
@@ -704,7 +704,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-40-hsupa" transform="translate(204,-431.00004)">
-  <rect style="opacity:0.001" width="22" height="22" x="502" y="299"/>
+  <rect style="opacity:0.001" width="16" height="16" x="502" y="299"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 505.00002,302.00001 h 1 V 304 h 2 v -1.99999 h 1 v 5 h -1 V 305 h -2 v 2.00001 h -1 z"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 511.00002,302 c 0.55228,0 1,0.4477 1,1 0,0.5523 -0.44772,1 -1,1 -0.55228,0 -1,-0.4477 -1,-1 0,-0.5523 0.44772,-1 1,-1 z"/>
   <g transform="translate(1,300)">
@@ -713,7 +713,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-60-hsupa" transform="translate(142,-431.00003)">
-  <rect style="opacity:0.001" width="22" height="22" x="532" y="299"/>
+  <rect style="opacity:0.001" width="16" height="16" x="532" y="299"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 535.00002,302.00001 h 1 V 304 h 2 v -1.99999 h 1 v 5 h -1 V 305 h -2 v 2.00001 h -1 z"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 541.00002,302 c 0.55228,0 1,0.4477 1,1 0,0.5523 -0.44772,1 -1,1 -0.55228,0 -1,-0.4477 -1,-1 0,-0.5523 0.44772,-1 1,-1 z"/>
   <g transform="translate(1,300)">
@@ -722,7 +722,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-80-hsupa" transform="translate(80.000004,-431)">
-  <rect style="opacity:0.001" width="22" height="22" x="562" y="299"/>
+  <rect style="opacity:0.001" width="16" height="16" x="562" y="299"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 565.00002,302.00001 h 1 V 304 h 2 v -1.99999 h 1 v 5 h -1 V 305 h -2 v 2.00001 h -1 z"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 571.00002,302 c 0.55228,0 1,0.4477 1,1 0,0.5523 -0.44772,1 -1,1 -0.55228,0 -1,-0.4477 -1,-1 0,-0.5523 0.44772,-1 1,-1 z"/>
   <g transform="translate(1,300)">
@@ -731,13 +731,13 @@
   </g>
  </g>
  <g id="22-22-network-mobile-100-hsupa" transform="translate(18.000004,-430.99998)">
-  <rect style="opacity:0.001" width="22" height="22" x="592" y="299"/>
+  <rect style="opacity:0.001" width="16" height="16" x="592" y="299"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 595.00002,302.00001 h 1 V 304 h 2 v -1.99999 h 1 v 5 h -1 V 305 h -2 v 2.00001 h -1 z"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 601.00002,302 c 0.55228,0 1,0.4477 1,1 0,0.5523 -0.44772,1 -1,1 -0.55228,0 -1,-0.4477 -1,-1 0,-0.5523 0.44772,-1 1,-1 z"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 610,302 v 16 h 1 1 v -16 h -1 z m -4,3 v 13 h 1 1 v -13 h -1 z m -4,3 v 10 h 1 1 v -10 h -1 z m -4,3 v 7 h 1 1 v -7 h -1 z m -4,3 v 4 h 1 1 v -4 h -1 z"/>
  </g>
  <g id="22-22-network-mobile-20-hsupa-locked" transform="translate(457.99999,-461)">
-  <rect style="opacity:0.001" width="22" height="22" x="472" y="329"/>
+  <rect style="opacity:0.001" width="16" height="16" x="472" y="329"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 475,332.00001 h 1 V 334 h 2 v -1.99999 h 1 v 5 h -1 V 335 h -2 v 2.00001 h -1 z"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 481,332 c 0.55228,0 1,0.4477 1,1 0,0.5523 -0.44772,1 -1,1 -0.55228,0 -1,-0.4477 -1,-1 0,-0.5523 0.44772,-1 1,-1 z"/>
   <g transform="translate(1,301)">
@@ -749,7 +749,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-40-hsupa-locked" transform="translate(395.99999,-461)">
-  <rect style="opacity:0.001" width="22" height="22" x="502" y="329"/>
+  <rect style="opacity:0.001" width="16" height="16" x="502" y="329"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 505,332.00001 h 1 V 334 h 2 v -1.99999 h 1 v 5 h -1 V 335 h -2 v 2.00001 h -1 z"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 511,332 c 0.55228,0 1,0.4477 1,1 0,0.5523 -0.44772,1 -1,1 -0.55228,0 -1,-0.4477 -1,-1 0,-0.5523 0.44772,-1 1,-1 z"/>
   <g transform="translate(1,301)">
@@ -761,7 +761,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-60-hsupa-locked" transform="translate(333.99999,-461)">
-  <rect style="opacity:0.001" width="22" height="22" x="532" y="329"/>
+  <rect style="opacity:0.001" width="16" height="16" x="532" y="329"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 535,332.00001 h 1 V 334 h 2 v -1.99999 h 1 v 5 h -1 V 335 h -2 v 2.00001 h -1 z"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 541,332 c 0.55228,0 1,0.4477 1,1 0,0.5523 -0.44772,1 -1,1 -0.55228,0 -1,-0.4477 -1,-1 0,-0.5523 0.44772,-1 1,-1 z"/>
   <g transform="translate(1,301)">
@@ -773,7 +773,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-80-hsupa-locked" transform="translate(272,-461)">
-  <rect style="opacity:0.001" width="22" height="22" x="562" y="329"/>
+  <rect style="opacity:0.001" width="16" height="16" x="562" y="329"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 565,332.00001 h 1 V 334 h 2 v -1.99999 h 1 v 5 h -1 V 335 h -2 v 2.00001 h -1 z"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 571,332 c 0.55228,0 1,0.4477 1,1 0,0.5523 -0.44772,1 -1,1 -0.55228,0 -1,-0.4477 -1,-1 0,-0.5523 0.44772,-1 1,-1 z"/>
   <g transform="translate(1,301)">
@@ -785,7 +785,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-100-hsupa-locked" transform="translate(210,-461)">
-  <rect style="opacity:0.001" width="22" height="22" x="592" y="329"/>
+  <rect style="opacity:0.001" width="16" height="16" x="592" y="329"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 595,332.00001 h 1 V 334 h 2 v -1.99999 h 1 v 5 h -1 V 335 h -2 v 2.00001 h -1 z"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 601,332 c 0.55228,0 1,0.4477 1,1 0,0.5523 -0.44772,1 -1,1 -0.55228,0 -1,-0.4477 -1,-1 0,-0.5523 0.44772,-1 1,-1 z"/>
   <g transform="translate(1,301)">
@@ -794,7 +794,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-0-hsupa-locked" transform="translate(519.99999,-461)">
-  <rect style="opacity:0.001" width="22" height="22" x="442" y="329"/>
+  <rect style="opacity:0.001" width="16" height="16" x="442" y="329"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 445,332.00001 h 1 V 334 h 2 v -1.99999 h 1 v 5 h -1 V 335 h -2 v 2.00001 h -1 z"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 451,332 c 0.55228,0 1,0.4477 1,1 0,0.5523 -0.44772,1 -1,1 -0.55228,0 -1,-0.4477 -1,-1 0,-0.5523 0.44772,-1 1,-1 z"/>
   <g transform="translate(-29,301)">
@@ -805,12 +805,12 @@
   </g>
  </g>
  <g id="22-22-network-mobile-0-hspa" transform="translate(328,-581.00004)">
-  <rect style="opacity:0.001" width="22" height="22" x="442" y="359"/>
+  <rect style="opacity:0.001" width="16" height="16" x="442" y="359"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 446,361.99999 h 1 v 1.99999 h 2 v -1.99999 h 1 v 5 h -1 v -2.00001 h -2 v 2.00001 h -1 z"/>
   <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="m 460,362 v 16 h 1 1 v -16 h -1 z m -4,3 v 13 h 1 1 v -13 h -1 z m -4,3 v 10 h 1 1 v -10 h -1 z m -4,3 v 7 h 1 1 v -7 h -1 z m -4,3 v 4 h 1 1 v -4 h -1 z"/>
  </g>
  <g id="22-22-network-mobile-20-hspa" transform="translate(266,-581.00004)">
-  <rect style="opacity:0.001" width="22" height="22" x="472" y="359"/>
+  <rect style="opacity:0.001" width="16" height="16" x="472" y="359"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 476,361.99999 h 1 v 1.99999 h 2 v -1.99999 h 1 v 5 h -1 v -2.00001 h -2 v 2.00001 h -1 z"/>
   <g transform="translate(1,360)">
    <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="m 489,2 v 16 h 1 1 V 2 h -1 z m -4,3 v 13 h 1 1 V 5 h -1 z m -4,3 v 10 h 1 1 V 8 h -1 z m -4,3 v 7 h 1 1 v -7 h -1 z"/>
@@ -818,7 +818,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-40-hspa" transform="translate(204,-581.00004)">
-  <rect style="opacity:0.001" width="22" height="22" x="502" y="359"/>
+  <rect style="opacity:0.001" width="16" height="16" x="502" y="359"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 506,361.99999 h 1 v 1.99999 h 2 v -1.99999 h 1 v 5 h -1 v -2.00001 h -2 v 2.00001 h -1 z"/>
   <g transform="translate(1,360)">
    <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="m 519,2 v 16 h 1 1 V 2 h -1 z m -4,3 v 13 h 1 1 V 5 h -1 z m -4,3 v 10 h 1 1 V 8 h -1 z"/>
@@ -826,7 +826,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-60-hspa" transform="translate(142.0001,-581.00003)">
-  <rect style="opacity:0.001" width="22" height="22" x="532" y="359"/>
+  <rect style="opacity:0.001" width="16" height="16" x="532" y="359"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 536,361.99999 h 1 v 1.99999 h 2 v -1.99999 h 1 v 5 h -1 v -2.00001 h -2 v 2.00001 h -1 z"/>
   <g transform="translate(1,360)">
    <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="m 549,2 v 16 h 1 1 V 2 h -1 z m -4,3 v 13 h 1 1 V 5 h -1 z"/>
@@ -834,7 +834,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-80-hspa" transform="translate(80,-581)">
-  <rect style="opacity:0.001" width="22" height="22" x="562" y="359"/>
+  <rect style="opacity:0.001" width="16" height="16" x="562" y="359"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 566,361.99999 h 1 v 1.99999 h 2 v -1.99999 h 1 v 5 h -1 v -2.00001 h -2 v 2.00001 h -1 z"/>
   <g transform="translate(1,360)">
    <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="m 579,2 v 16 h 1 1 V 2 h -1 z"/>
@@ -842,12 +842,12 @@
   </g>
  </g>
  <g id="22-22-network-mobile-100-hspa" transform="translate(18,-580.99998)">
-  <rect style="opacity:0.001" width="22" height="22" x="592" y="359"/>
+  <rect style="opacity:0.001" width="16" height="16" x="592" y="359"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 596,361.99999 h 1 v 1.99999 h 2 v -1.99999 h 1 v 5 h -1 v -2.00001 h -2 v 2.00001 h -1 z"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 610,362 v 16 h 1 1 v -16 h -1 z m -4,3 v 13 h 1 1 v -13 h -1 z m -4,3 v 10 h 1 1 v -10 h -1 z m -4,3 v 7 h 1 1 v -7 h -1 z m -4,3 v 4 h 1 1 v -4 h -1 z"/>
  </g>
  <g id="22-22-network-mobile-20-hspa-locked" transform="translate(458.00003,-611)">
-  <rect style="opacity:0.001" width="22" height="22" x="472" y="389"/>
+  <rect style="opacity:0.001" width="16" height="16" x="472" y="389"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 476,392.00001 h 1 V 394 h 2 v -1.99999 h 1 v 5 h -1 V 395 h -2 v 2.00001 h -1 z"/>
   <g transform="translate(1,361)">
    <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m 489.5,41.0005 c -1.5,0 -2.5,1 -2.5,2 V 44 h -1 V 44.75 48 h 0.75 5.5 0.75 v -4 h -1 v -0.9995 c 0,-1 -1,-2 -2.5,-2 z m 0,1 c 0.5,0 1.5,0 1.5,1.375 V 44 h -3 v -0.6245 c 0,-1.375 1.01913,-1.375 1.5,-1.375 z"/>
@@ -858,7 +858,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-40-hspa-locked" transform="translate(396.00003,-611)">
-  <rect style="opacity:0.001" width="22" height="22" x="502" y="389"/>
+  <rect style="opacity:0.001" width="16" height="16" x="502" y="389"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 506,392.00001 h 1 V 394 h 2 v -1.99999 h 1 v 5 h -1 V 395 h -2 v 2.00001 h -1 z"/>
   <g transform="translate(1,361)">
    <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m 519.5,41.0005 c -1.5,0 -2.5,1 -2.5,2 V 44 h -1 V 44.75 48 h 0.75 5.5 0.75 v -4 h -1 v -0.9995 c 0,-1 -1,-2 -2.5,-2 z m 0,1 c 0.5,0 1.5,0 1.5,1.375 V 44 h -3 v -0.6245 c 0,-1.375 1.01913,-1.375 1.5,-1.375 z"/>
@@ -869,7 +869,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-60-hspa-locked" transform="translate(334.00003,-611)">
-  <rect style="opacity:0.001" width="22" height="22" x="532" y="389"/>
+  <rect style="opacity:0.001" width="16" height="16" x="532" y="389"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 536,392.00001 h 1 V 394 h 2 v -1.99999 h 1 v 5 h -1 V 395 h -2 v 2.00001 h -1 z"/>
   <g transform="translate(1,361)">
    <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m 549.5,41.0005 c -1.5,0 -2.5,1 -2.5,2 V 44 h -1 V 44.75 48 h 0.75 5.5 0.75 v -4 h -1 v -0.9995 c 0,-1 -1,-2 -2.5,-2 z m 0,1 c 0.5,0 1.5,0 1.5,1.375 V 44 h -3 v -0.6245 c 0,-1.375 1.01913,-1.375 1.5,-1.375 z"/>
@@ -880,7 +880,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-80-hspa-locked" transform="translate(272.00007,-611)">
-  <rect style="opacity:0.001" width="22" height="22" x="562" y="389"/>
+  <rect style="opacity:0.001" width="16" height="16" x="562" y="389"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 566,392.00001 h 1 V 394 h 2 v -1.99999 h 1 v 5 h -1 V 395 h -2 v 2.00001 h -1 z"/>
   <g transform="translate(1,361)">
    <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m 579.5,41.0005 c -1.5,0 -2.5,1 -2.5,2 V 44 h -1 V 44.75 48 h 0.75 5.5 0.75 v -4 h -1 v -0.9995 c 0,-1 -1,-2 -2.5,-2 z m 0,1 c 0.5,0 1.5,0 1.5,1.375 V 44 h -3 v -0.6245 c 0,-1.375 1.01913,-1.375 1.5,-1.375 z"/>
@@ -891,7 +891,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-100-hspa-locked" transform="translate(210.0001,-611)">
-  <rect style="opacity:0.001" width="22" height="22" x="592" y="389"/>
+  <rect style="opacity:0.001" width="16" height="16" x="592" y="389"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 596,392.00001 h 1 V 394 h 2 v -1.99999 h 1 v 5 h -1 V 395 h -2 v 2.00001 h -1 z"/>
   <g transform="translate(1,361)">
    <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m 609.5,41.0005 c -1.5,0 -2.5,1 -2.5,2 V 44 h -1 V 44.75 48 h 0.75 5.5 0.75 v -4 h -1 v -0.9995 c 0,-1 -1,-2 -2.5,-2 z m 0,1 c 0.5,0 1.5,0 1.5,1.375 V 44 h -3 v -0.6245 c 0,-1.375 1.01913,-1.375 1.5,-1.375 z"/>
@@ -899,7 +899,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-0-hspa-locked" transform="translate(520.00003,-611)">
-  <rect style="opacity:0.001" width="22" height="22" x="442" y="389"/>
+  <rect style="opacity:0.001" width="16" height="16" x="442" y="389"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 446,392.00001 h 1 V 394 h 2 v -1.99999 h 1 v 5 h -1 V 395 h -2 v 2.00001 h -1 z"/>
   <g transform="translate(-29,361)">
    <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m 489.5,41.0005 c -1.5,0 -2.5,1 -2.5,2 V 44 h -1 V 44.75 48 h 0.75 5.5 0.75 v -4 h -1 v -0.9995 c 0,-1 -1,-2 -2.5,-2 z m 0,1 c 0.5,0 1.5,0 1.5,1.375 V 44 h -3 v -0.6245 c 0,-1.375 1.01913,-1.375 1.5,-1.375 z"/>
@@ -909,18 +909,18 @@
   </g>
  </g>
  <g id="22-22-network-mobile-0-lte" transform="translate(327.99996,-725.00005)">
-  <rect style="opacity:0.001" width="22" height="22" x="442" y="419"/>
+  <rect style="opacity:0.001" width="16" height="16" x="442" y="419"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 446,422 h 1 v 4 h 2 v 0 h 1 v 1 h -1 v 0 h -2 v 0 h -1 z"/>
   <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="m 460,422 v 16 h 1 1 v -16 h -1 z m -4,3 v 13 h 1 1 v -13 h -1 z m -4,3 v 10 h 1 1 v -10 h -1 z m -4,3 v 7 h 1 1 v -7 h -1 z m -4,3 v 4 h 1 1 v -4 h -1 z"/>
  </g>
  <g id="22-22-network-mobile-20-lte" transform="translate(265.99996,-725.00005)">
-  <rect style="opacity:0.001" width="22" height="22" x="472" y="419"/>
+  <rect style="opacity:0.001" width="16" height="16" x="472" y="419"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 476,422 h 1 v 4 h 2 v 0 h 1 v 1 h -1 v 0 h -2 v 0 h -1 z"/>
   <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="m 490,422 v 16 h 1 1 v -16 h -1 z m -4,3 v 13 h 1 1 v -13 h -1 z m -4,3 v 10 h 1 1 v -10 h -1 z m -4,3 v 7 h 1 1 v -7 h -1 z"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 474,434 v 4 h 1 1 v -4 h -1 z"/>
  </g>
  <g id="22-22-network-mobile-40-lte" transform="translate(204,-725.00004)">
-  <rect style="opacity:0.001" width="22" height="22" x="502" y="419"/>
+  <rect style="opacity:0.001" width="16" height="16" x="502" y="419"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 506,422 h 1 v 4 h 2 v 0 h 1 v 1 h -1 v 0 h -2 v 0 h -1 z"/>
   <g transform="translate(1,420)">
    <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="m 519,2 v 16 h 1 1 V 2 h -1 z m -4,3 v 13 h 1 1 V 5 h -1 z m -4,3 v 10 h 1 1 V 8 h -1 z"/>
@@ -928,7 +928,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-60-lte" transform="translate(141.99998,-725)">
-  <rect style="opacity:0.001" width="22" height="22" x="532" y="419"/>
+  <rect style="opacity:0.001" width="16" height="16" x="532" y="419"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 536,422 h 1 v 4 h 2 v 0 h 1 v 1 h -1 v 0 h -2 v 0 h -1 z"/>
   <g transform="translate(1,420)">
    <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="m 549,2 v 16 h 1 1 V 2 h -1 z m -4,3 v 13 h 1 1 V 5 h -1 z"/>
@@ -936,7 +936,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-80-lte" transform="translate(79.99998,-725)">
-  <rect style="opacity:0.001" width="22" height="22" x="562" y="419"/>
+  <rect style="opacity:0.001" width="16" height="16" x="562" y="419"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 566,422 h 1 v 4 h 2 v 0 h 1 v 1 h -1 v 0 h -2 v 0 h -1 z"/>
   <g transform="translate(1,420)">
    <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="m 579,2 v 16 h 1 1 V 2 h -1 z"/>
@@ -944,12 +944,12 @@
   </g>
  </g>
  <g id="22-22-network-mobile-100-lte" transform="translate(18,-724.99999)">
-  <rect style="opacity:0.001" width="22" height="22" x="592" y="419"/>
+  <rect style="opacity:0.001" width="16" height="16" x="592" y="419"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 596,422 h 1 v 4 h 2 v 0 h 1 v 1 h -1 v 0 h -2 v 0 h -1 z"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 610,422 v 16 h 1 1 v -16 h -1 z m -4,3 v 13 h 1 1 v -13 h -1 z m -4,3 v 10 h 1 1 v -10 h -1 z m -4,3 v 7 h 1 1 v -7 h -1 z m -4,3 v 4 h 1 1 v -4 h -1 z"/>
  </g>
  <g id="22-22-network-mobile-20-lte-locked" transform="translate(457.99999,-755)">
-  <rect style="opacity:0.001" width="22" height="22" x="472" y="449"/>
+  <rect style="opacity:0.001" width="16" height="16" x="472" y="449"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 476,452 h 1 v 4 h 2 v 0 h 1 v 1 h -1 v 0 h -2 v 0 h -1 z"/>
   <g transform="translate(1,421)">
    <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m 489.5,41.0005 c -1.5,0 -2.5,1 -2.5,2 V 44 h -1 V 44.75 48 h 0.75 5.5 0.75 v -4 h -1 v -0.9995 c 0,-1 -1,-2 -2.5,-2 z m 0,1 c 0.5,0 1.5,0 1.5,1.375 V 44 h -3 v -0.6245 c 0,-1.375 1.01913,-1.375 1.5,-1.375 z"/>
@@ -960,7 +960,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-40-lte-locked" transform="translate(395.99999,-755)">
-  <rect style="opacity:0.001" width="22" height="22" x="502" y="449"/>
+  <rect style="opacity:0.001" width="16" height="16" x="502" y="449"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 506,452 h 1 v 4 h 2 v 0 h 1 v 1 h -1 v 0 h -2 v 0 h -1 z"/>
   <g transform="translate(1,421)">
    <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m 519.5,41.0005 c -1.5,0 -2.5,1 -2.5,2 V 44 h -1 V 44.75 48 h 0.75 5.5 0.75 v -4 h -1 v -0.9995 c 0,-1 -1,-2 -2.5,-2 z m 0,1 c 0.5,0 1.5,0 1.5,1.375 V 44 h -3 v -0.6245 c 0,-1.375 1.01913,-1.375 1.5,-1.375 z"/>
@@ -971,7 +971,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-60-lte-locked" transform="translate(334.00003,-755)">
-  <rect style="opacity:0.001" width="22" height="22" x="532" y="449"/>
+  <rect style="opacity:0.001" width="16" height="16" x="532" y="449"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 536,452 h 1 v 4 h 2 v 0 h 1 v 1 h -1 v 0 h -2 v 0 h -1 z"/>
   <g transform="translate(1,421)">
    <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m 549.5,41.0005 c -1.5,0 -2.5,1 -2.5,2 V 44 h -1 V 44.75 48 h 0.75 5.5 0.75 v -4 h -1 v -0.9995 c 0,-1 -1,-2 -2.5,-2 z m 0,1 c 0.5,0 1.5,0 1.5,1.375 V 44 h -3 v -0.6245 c 0,-1.375 1.01913,-1.375 1.5,-1.375 z"/>
@@ -982,7 +982,7 @@
   </g>
  </g>
  <g id="22-22-network-mobile-80-lte-locked" transform="translate(272.00003,-755)">
-  <rect style="opacity:0.001" width="22" height="22" x="562" y="449"/>
+  <rect style="opacity:0.001" width="16" height="16" x="562" y="449"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 566,452 h 1 v 4 h 2 v 0 h 1 v 1 h -1 v 0 h -2 v 0 h -1 z"/>
   <g transform="translate(1,421)">
    <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m 579.5,41.0005 c -1.5,0 -2.5,1 -2.5,2 V 44 h -1 V 44.75 48 h 0.75 5.5 0.75 v -4 h -1 v -0.9995 c 0,-1 -1,-2 -2.5,-2 z m 0,1 c 0.5,0 1.5,0 1.5,1.375 V 44 h -3 v -0.6245 c 0,-1.375 1.01913,-1.375 1.5,-1.375 z"/>
@@ -993,13 +993,13 @@
   </g>
  </g>
  <g id="22-22-network-mobile-100-lte-locked" transform="translate(210.00003,-755)">
-  <rect style="opacity:0.001" width="22" height="22" x="592" y="449"/>
+  <rect style="opacity:0.001" width="16" height="16" x="592" y="449"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 596,452 h 1 v 4 h 2 v 0 h 1 v 1 h -1 v 0 h -2 v 0 h -1 z"/>
   <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m 610.5,462.0005 c -1.5,0 -2.5,1 -2.5,2 V 465 h -1 v 0.75 3.25 h 0.75 5.5 0.75 v -4 h -1 v -0.9995 c 0,-1 -1,-2 -2.5,-2 z m 0,1 c 0.5,0 1.5,0 1.5,1.375 V 465 h -3 v -0.6245 c 0,-1.375 1.01913,-1.375 1.5,-1.375 z"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 610,452 v 9.04297 c 0.16451,-0.02 0.32865,-0.043 0.5,-0.043 0.26968,0 0.52964,0.0314 0.78125,0.0801 0.25259,0.0488 0.49065,0.12434 0.71875,0.2168 V 452 h -1 z m -4,3 v 9.99805 a 1.0001,1.0003167 0 0 1 0.006,-0.0977 1.0001,1.0003167 0 0 1 0.0117,-0.0918 1.0001,1.0001 0 0 1 0.0137,-0.0488 1.0001,1.0003167 0 0 1 0.01,-0.0371 1.0001,1.0001 0 0 1 0.0176,-0.0586 1.0001,1.0003167 0 0 1 0.0137,-0.0351 1.0001,1.0001 0 0 1 0.0215,-0.0469 1.0001,1.0003167 0 0 1 0.0293,-0.0605 1.0001,1.0003167 0 0 1 0.0449,-0.0762 1.0001,1.0001 0 0 1 0.0254,-0.0371 1.0001,1.0003167 0 0 1 0.0312,-0.041 1.0001,1.0001 0 0 1 0.041,-0.043 1.0001,1.0003167 0 0 1 0.0273,-0.0312 1.0001,1.0001 0 0 1 0.0234,-0.0215 1.0001,1.0003167 0 0 1 0.0625,-0.0547 1.0001,1.0001 0 0 1 0.0566,-0.043 1.0001,1.0003167 0 0 1 0.0137,-0.008 1.0001,1.0001 0 0 1 0.0312,-0.0195 1.0001,1.0003167 0 0 1 0.0664,-0.0371 1.0001,1.0003167 0 0 1 0.0918,-0.041 1.0001,1.0003167 0 0 1 0.0937,-0.0312 1.0001,1.0001 0 0 1 0.0684,-0.0176 1.0001,1.0003167 0 0 1 0.0137,-0.002 1.0001,1.0001 0 0 1 0.0488,-0.008 1.0001,1.0003167 0 0 1 0.0625,-0.008 1.0001,1.0003167 0 0 1 0.0117,0 1.0001,1.0003167 0 0 1 0.0625,-0.004 c 3e-5,-0.0436 0.0135,-0.0839 0.0156,-0.12696 0.008,-0.16116 0.0184,-0.32133 0.0547,-0.47461 0.0284,-0.12093 0.0784,-0.23261 0.12305,-0.34765 0.0271,-0.0696 0.0434,-0.14377 0.0762,-0.21094 0.0578,-0.11892 0.13652,-0.22747 0.21094,-0.33789 0.0369,-0.0546 0.0647,-0.11369 0.10547,-0.16602 0.10434,-0.13442 0.22582,-0.25724 0.35351,-0.375 0.0215,-0.0198 0.0384,-0.0432 0.0606,-0.0625 V 455 h -1 z m -4,3 v 10 h 1 1 v -10 h -1 z m -4,3 v 7 h 1 1 v -7 h -1 z m -4,3 v 4 h 1 1 v -4 h -1 z"/>
  </g>
  <g id="22-22-network-mobile-0-lte-locked" transform="translate(519.99998,-755)">
-  <rect style="opacity:0.001" width="22" height="22" x="442" y="449"/>
+  <rect style="opacity:0.001" width="16" height="16" x="442" y="449"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 446,452 h 1 v 4 h 2 v 0 h 1 v 1 h -1 v 0 h -2 v 0 h -1 z"/>
   <g transform="translate(-29,421)">
    <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m 489.5,41.0005 c -1.5,0 -2.5,1 -2.5,2 V 44 h -1 V 44.75 48 h 0.75 5.5 0.75 v -4 h -1 v -0.9995 c 0,-1 -1,-2 -2.5,-2 z m 0,1 c 0.5,0 1.5,0 1.5,1.375 V 44 h -3 v -0.6245 c 0,-1.375 1.01913,-1.375 1.5,-1.375 z"/>
@@ -1009,12 +1009,12 @@
   </g>
  </g>
  <g id="22-22-network-wireless-disconnected" transform="translate(-241,-201.9999)">
-  <rect style="opacity:0.001" width="22" height="22" x="369" y="-1"/>
+  <rect style="opacity:0.001" width="16" height="16" x="369" y="-1"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 370.64844,0.238281 -1.29688,1.523438 20,17 1.29688,-1.523438 z"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 380,2 c -1.27691,0 -2.49272,0.1692618 -3.66406,0.4472656 L 386.4082,11.007812 391,6 C 387.86037,3.699771 384.18929,2 380,2 Z m -5.93555,1.1425781 C 372.24984,3.8509518 370.5656,4.8445857 369,6 l 11,12 5.05664,-5.515625 z"/>
  </g>
  <g id="22-22-network-mobile-available" transform="translate(-31.999999,379)">
-  <rect style="opacity:0.001" width="22" height="22" x="674" y="-1"/>
+  <rect style="opacity:0.001" width="16" height="16" x="674" y="-1"/>
   <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="m 692,2 v 6.140625 c 0.18365,0.046299 0.36838,0.095024 0.55469,0.1738281 0.22295,0.094304 0.42979,0.2093776 0.62109,0.3339844 l 0.0195,0.00977 c 0.008,0.00497 0.0154,0.010595 0.0234,0.015625 0.007,0.00448 0.0131,0.00904 0.0195,0.013672 0.003,0.00178 0.009,0.00213 0.0117,0.00391 0.003,0.00259 0.005,0.00519 0.008,0.00781 0.20034,0.13725 0.38222,0.2889887 0.54688,0.4511718 0.002,0.00165 0.004,0.00226 0.006,0.00391 0.009,0.00894 0.0184,0.018054 0.0273,0.027344 0.0636,0.064124 0.10599,0.1300617 0.16211,0.1953125 V 2 h -1 z m -4,3 v 4.3789062 c 0.051,-0.057829 0.0952,-0.12551 0.14844,-0.1796874 10e-4,-9.901e-4 9.8e-4,-0.00292 0.002,-0.00391 0.002,-0.00204 0.004,-0.00382 0.006,-0.00586 0.008,-0.00927 0.0168,-0.018388 0.0254,-0.027344 0.16577,-0.1645513 0.33701,-0.3015078 0.50391,-0.4199219 0.004,-0.00245 0.007,-0.00537 0.01,-0.00781 0.002,-0.00126 0.004,-0.00266 0.006,-0.00391 0.0275,-0.019957 0.056,-0.039343 0.084,-0.058594 0.005,-0.0033 0.0104,-0.00656 0.0156,-0.00977 0.19425,-0.1281216 0.39606,-0.2352008 0.59961,-0.3242188 0.0188,-0.0085 0.0376,-0.017181 0.0566,-0.025391 0.005,-0.00199 0.009,-0.00394 0.0137,-0.00586 0.17253,-0.07146 0.35061,-0.1224 0.5293,-0.1679687 V 5 h -1 z m -4,3 v 10 h 1 1 V 8 h -1 z m -4,3 v 7 h 1 1 v -7 h -1 z m -4,3 v 4 h 1 1 v -4 h -1 z"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 691.00005,9.00008 c -0.19573,0 -0.38699,0.0208 -0.57227,0.0566 a 3,3 0 0 0 -0.082,0.0195 c -0.16986,0.0378 -0.33453,0.089 -0.49218,0.1543 a 3,3 0 0 0 -0.0527,0.0234 c -0.15709,0.0687 -0.30754,0.14873 -0.44922,0.24218 a 3,3 0 0 0 -0.0742,0.0527 c -0.13843,0.0975 -0.27079,0.20331 -0.39062,0.32226 a 3,3 0 0 0 -0.0234,0.0254 c -0.1246,0.12656 -0.23914,0.26317 -0.33984,0.41016 a 3,3 0 0 0 -0.004,0.006 3,3 0 0 0 -0.0254,0.041 c -0.0994,0.15098 -0.1866,0.31016 -0.25781,0.47851 -0.0701,0.16573 -0.12254,0.34017 -0.16211,0.51953 a 3,3 0 0 0 -0.0137,0.0527 c -10e-4,0.006 -7.3e-4,0.0132 -0.002,0.0195 C 688.0223,11.61033 688,11.80288 688,12 h 2 c 0,-0.55229 0.44772,-1 1,-1 0.55228,0 1,0.44771 1,1 0,0.552284 -0.44772,1.000004 -1,1.000004 h -1 v 3 h 2 v -1.17969 A 3,3 0 0 0 694,12 c 0,-0.19573 -0.0208,-0.38699 -0.0566,-0.57227 a 3,3 0 0 0 -0.0195,-0.082 c -0.0379,-0.16986 -0.089,-0.33453 -0.1543,-0.49219 a 3,3 0 0 0 -0.0235,-0.0527 c -0.0687,-0.15709 -0.14872,-0.30754 -0.24218,-0.44922 a 3,3 0 0 0 -0.0527,-0.0742 c -0.0975,-0.13843 -0.20335,-0.2708 -0.3223,-0.39063 a 3,3 0 0 0 -0.0254,-0.0234 C 692.97701,9.73878 692.8404,9.62424 692.69341,9.52354 a 3,3 0 0 0 -0.006,-0.004 3,3 0 0 0 -0.041,-0.0254 c -0.15098,-0.0994 -0.31016,-0.18661 -0.47851,-0.25782 -0.16573,-0.0701 -0.34017,-0.12253 -0.51953,-0.1621 a 3,3 0 0 0 -0.0527,-0.0137 3,3 0 0 0 -0.0195,-0.002 C 691.38967,9.02239 691.19712,9.00008 691,9.00008 Z m -1,8.000004 v 2 h 2 v -2 z"/>
  </g>
@@ -1024,29 +1024,29 @@
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 414.00005,8.9999985 c -0.19573,0 -0.38699,0.020799 -0.57227,0.056599 a 3,3 0 0 0 -0.082,0.0195 c -0.16986,0.0378 -0.33453,0.089 -0.49218,0.1543 a 3,3 0 0 0 -0.0527,0.0234 c -0.15709,0.0687 -0.30754,0.14873 -0.44922,0.24218 a 3,3 0 0 0 -0.0742,0.0527 c -0.13843,0.0975 -0.27079,0.20331 -0.39062,0.32226 a 3,3 0 0 0 -0.0234,0.0254 c -0.1246,0.1265595 -0.23914,0.2631705 -0.33984,0.4101595 a 3,3 0 0 0 -0.004,0.006 3,3 0 0 0 -0.0254,0.041 c -0.0994,0.15098 -0.1866,0.310159 -0.25781,0.47851 -0.0701,0.16573 -0.12254,0.34017 -0.16211,0.519529 a 3,3 0 0 0 -0.0137,0.0527 c -0.001,0.006 -7.3e-4,0.0132 -0.002,0.0195 -0.0363,0.18651 -0.0586,0.37906 -0.0586,0.57618 h 2 c 0,-0.55229 0.44772,-0.999999 1,-0.999999 0.55228,0 1,0.447709 1,0.999999 0,0.55228 -0.44772,1.000003 -1,1.000003 h -1 v 3 h 2 v -1.17969 a 3,3 0 0 0 2,-2.820314 c 0,-0.195729 -0.0208,-0.38699 -0.0566,-0.572269 a 3,3 0 0 0 -0.0195,-0.082 c -0.0379,-0.169859 -0.089,-0.334529 -0.1543,-0.492189 a 3,3 0 0 0 -0.0235,-0.0527 c -0.0687,-0.157091 -0.14872,-0.30754 -0.24218,-0.449221 a 3,3 0 0 0 -0.0527,-0.0742 c -0.0975,-0.13843 -0.20335,-0.2708 -0.3223,-0.3906305 a 3,3 0 0 0 -0.0254,-0.0234 c -0.12651,-0.12461 -0.26312,-0.23915 -0.41011,-0.33985 a 3,3 0 0 0 -0.006,-0.004 3,3 0 0 0 -0.041,-0.0254 c -0.15098,-0.0994 -0.31016,-0.186609 -0.47851,-0.25782 -0.16573,-0.0701 -0.34017,-0.122529 -0.51953,-0.1621 a 3,3 0 0 0 -0.0527,-0.0137 3,3 0 0 0 -0.0195,-0.002 c -0.1865,-0.03613 -0.37905,-0.05844 -0.57617,-0.05844 z m -1,8.0000015 v 2 h 2 v -2 z"/>
  </g>
  <g id="22-22-flightmode-off" transform="translate(31,-49.000005)">
-  <rect style="opacity:0.001" width="22" height="22" x="1" y="119"/>
+  <rect style="opacity:0.001" width="16" height="16" x="1" y="119"/>
   <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="M 16.269616,122.39631 14.676923,124 H 5.8153846 C 4.7076923,124 3.6,125.10769 3.6,125.10769 l 7.753846,2.21539 L 6.9235384,133 H 5.8158461 c -0.9206794,0 -2.2153846,1.06884 -2.2153846,1.06884 2.2153846,0 4.3306924,2.11578 4.3306924,4.33116 0,0 1.0365781,-1.29527 1.0688461,-2.21538 v -1.10769 l 5.676923,-4.43077 2.215385,7.75384 c 0,0 1.107692,-1.10769 1.107692,-2.21538 v -8.86154 l 1.592692,-1.6037 c 2.215384,-2.21538 1.107692,-4.43076 1.107692,-4.43076 0,0 -2.215385,-1.1077 -4.430768,1.10769 z"/>
  </g>
  <g id="22-22-network-flightmode-on" transform="translate(63,-49.000005)">
-  <rect style="opacity:0.001" width="22" height="22" x="1" y="119"/>
+  <rect style="opacity:0.001" width="16" height="16" x="1" y="119"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="M 16.269616,122.39631 14.676923,124 H 5.8153846 C 4.7076923,124 3.6,125.10769 3.6,125.10769 l 7.753846,2.21539 L 6.9235384,133 H 5.8158461 c -0.9206794,0 -2.2153846,1.06884 -2.2153846,1.06884 2.2153846,0 4.3306924,2.11578 4.3306924,4.33116 0,0 1.0365781,-1.29527 1.0688461,-2.21538 v -1.10769 l 5.676923,-4.43077 2.215385,7.75384 c 0,0 1.107692,-1.10769 1.107692,-2.21538 v -8.86154 l 1.592692,-1.6037 c 2.215384,-2.21538 1.107692,-4.43076 1.107692,-4.43076 0,0 -2.215385,-1.1077 -4.430768,1.10769 z"/>
  </g>
  <g id="22-22-network-flightmode-off" transform="translate(95,-49.000005)">
-  <rect style="opacity:0.001" width="22" height="22" x="1" y="119"/>
+  <rect style="opacity:0.001" width="16" height="16" x="1" y="119"/>
   <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="M 16.269616,122.39631 14.676923,124 H 5.8153846 C 4.7076923,124 3.6,125.10769 3.6,125.10769 l 7.753846,2.21539 L 6.9235384,133 H 5.8158461 c -0.9206794,0 -2.2153846,1.06884 -2.2153846,1.06884 2.2153846,0 4.3306924,2.11578 4.3306924,4.33116 0,0 1.0365781,-1.29527 1.0688461,-2.21538 v -1.10769 l 5.676923,-4.43077 2.215385,7.75384 c 0,0 1.107692,-1.10769 1.107692,-2.21538 v -8.86154 l 1.592692,-1.6037 c 2.215384,-2.21538 1.107692,-4.43076 1.107692,-4.43076 0,0 -2.215385,-1.1077 -4.430768,1.10769 z"/>
  </g>
  <g id="22-22-network-wireless-off" transform="translate(-305,-201.99987)">
-  <rect style="opacity:0.001" width="22" height="22" x="369" y="-1"/>
+  <rect style="opacity:0.001" width="16" height="16" x="369" y="-1"/>
   <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="m 380.00001,1.999995 c -4.2217,0 -7.84819,1.673934 -11.00001,3.999986 L 380.00001,17.999995 391.00003,5.999981 C 387.8604,3.699752 384.1893,1.999995 380.00001,1.999995 Z"/>
   <path style="fill:currentColor" class="ColorScheme-NegativeText" d="m 385,13 v 1.199219 c 0,0.0926 0.0311,0.176228 0.0488,0.263672 L 386.58591,16 385.0488,17.537109 C 385.0304,17.624699 385,17.709691 385,17.800781 V 19 h 1.19922 c 0.0904,0 0.17565,-0.03068 0.26367,-0.04883 L 388,17.41406 l 1.53711,1.53711 C 389.62511,18.96932 389.71042,19 389.80078,19 H 391 v -1.199219 c 0,-0.09109 -0.0304,-0.176081 -0.0488,-0.263672 L 389.41406,16 l 1.53711,-1.537109 c 0.0177,-0.08744 0.0488,-0.171072 0.0488,-0.263672 V 13 h -1.19922 c -0.0926,0 -0.17623,0.0311 -0.26367,0.04883 l -1.53711,1.53711 -1.53711,-1.53711 C 386.37546,13.0311 386.29178,13 386.19919,13 Z"/>
  </g>
  <g id="22-22-network-wireless-0-limited" transform="translate(186.99987,-183.99996)">
-  <rect style="opacity:0.001" width="22" height="22" x="172" y="55"/>
+  <rect style="opacity:0.001" width="16" height="16" x="172" y="55"/>
   <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="m 183.00001,58 c -4.2217,0 -7.84818,1.673948 -11,4 l 11,12 4,-4.363281 V 65 a 1.0001,1.0001 0 0 1 1,-1 h 2 a 1.0001,1.0001 0 0 1 1,1 v 0.273438 l 3,-3.273438 c -3.13963,-2.300229 -6.81071,-4 -11,-4 z"/>
   <path style="fill:currentColor" class="ColorScheme-NeutralText" d="M 188,65.000001 V 72 h 2 V 65.000001 Z M 188,73 v 2 h 2 v -2 z"/>
  </g>
  <g id="22-22-network-wireless-20-limited" transform="translate(125.9999,-183.99996)">
-  <rect style="opacity:0.001" width="22" height="22" x="201" y="55"/>
+  <rect style="opacity:0.001" width="16" height="16" x="201" y="55"/>
   <g style="opacity:0.35" transform="matrix(1.3913043,0,0,1.3913043,-278.95709,688.26552)">
    <path style="fill:currentColor" class="ColorScheme-Text" transform="matrix(0.71875002,0,0,0.71875002,200.50042,-494.69086)" d="m 212,58 c -4.2217,0 -7.84818,1.673948 -11,4 l 11,12 4,-4.363281 V 65 a 1.0001,1.0001 0 0 1 1,-1 h 2 a 1.0001,1.0001 0 0 1 1,1 v 0.273438 L 223,62 c -3.13963,-2.300229 -6.81071,-4 -11,-4 z"/>
   </g>
@@ -1054,7 +1054,7 @@
   <path style="fill:currentColor" class="ColorScheme-NeutralText" d="M 217,65.000001 V 72 h 2 V 65.000001 Z M 217,73 v 2 h 2 v -2 z"/>
  </g>
  <g id="22-22-network-wireless-40-limited" transform="translate(65.999943,-183.99996)">
-  <rect style="opacity:0.001" width="22" height="22" x="229" y="55"/>
+  <rect style="opacity:0.001" width="16" height="16" x="229" y="55"/>
   <g style="opacity:0.35" transform="matrix(1.3913043,0,0,1.3913043,-250.95709,688.26552)">
    <path style="fill:currentColor" class="ColorScheme-Text" transform="matrix(0.71875002,0,0,0.71875002,180.37541,-494.69086)" d="m 240,58 c -4.2217,0 -7.84818,1.673948 -11,4 l 11,12 4,-4.363281 V 65 a 1.0001,1.0001 0 0 1 1,-1 h 2 a 1.0001,1.0001 0 0 1 1,1 v 0.273438 L 251,62 c -3.13963,-2.300229 -6.81071,-4 -11,-4 z"/>
   </g>
@@ -1062,7 +1062,7 @@
   <path style="fill:currentColor" class="ColorScheme-NeutralText" d="M 245,65.000001 V 72 h 2 V 65.000001 Z M 245,73 v 2 h 2 v -2 z"/>
  </g>
  <g id="22-22-network-wireless-60-limited" transform="translate(5.9999727,-183.99996)">
-  <rect style="opacity:0.001" width="22" height="22" x="257" y="55"/>
+  <rect style="opacity:0.001" width="16" height="16" x="257" y="55"/>
   <g style="opacity:0.35" transform="matrix(1.3913043,0,0,1.3913043,-222.9571,688.26552)">
    <path style="fill:currentColor" class="ColorScheme-Text" transform="matrix(0.71875002,0,0,0.71875002,160.25042,-494.69086)" d="m 268,58 c -4.2217,0 -7.84818,1.673948 -11,4 l 11,12 4,-4.363281 V 65 a 1.0001,1.0001 0 0 1 1,-1 h 2 a 1.0001,1.0001 0 0 1 1,1 v 0.273438 L 279,62 c -3.13963,-2.300229 -6.81071,-4 -11,-4 z"/>
   </g>
@@ -1070,7 +1070,7 @@
   <path style="fill:currentColor" class="ColorScheme-NeutralText" d="m 273,65 v 6.999999 h 2 V 65 Z m 0,7.999999 v 2 h 2 v -2 z"/>
  </g>
  <g id="22-22-network-wireless-80-limited" transform="translate(-53.999997,-183.99996)">
-  <rect style="opacity:0.001" width="22" height="22" x="285" y="55"/>
+  <rect style="opacity:0.001" width="16" height="16" x="285" y="55"/>
   <g style="opacity:0.35" transform="matrix(1.3913043,0,0,1.3913043,-194.95709,688.26552)">
    <path style="fill:currentColor" class="ColorScheme-Text" transform="matrix(0.71875002,0,0,0.71875002,140.12541,-494.69086)" d="m 296,58 c -4.2217,0 -7.84818,1.673948 -11,4 l 11,12 4,-4.363281 V 65 a 1.0001,1.0001 0 0 1 1,-1 h 2 a 1.0001,1.0001 0 0 1 1,1 v 0.273438 L 307,62 c -3.13963,-2.300229 -6.81071,-4 -11,-4 z"/>
   </g>
@@ -1083,7 +1083,7 @@
   <path style="fill:currentColor" class="ColorScheme-NeutralText" d="m 329,65 v 6.999999 h 2 V 65 Z m 0,7.999999 v 2 h 2 v -2 z"/>
  </g>
  <g id="22-22-network-mobile-off" transform="translate(28.000001,379)">
-  <rect style="opacity:0.001" width="22" height="22" x="646" y="-1"/>
+  <rect style="opacity:0.001" width="16" height="16" x="646" y="-1"/>
   <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="m 664,2 v 11.171875 l 0.83008,-0.830078 a 1.0001,1.0001 0 0 1 0.50781,-0.273438 C 665.32383,12.071209 665.48428,12 665.80078,12 H 666 V 2 h -1 z m -4,3 v 8 a 1.0001,1.0001 0 0 1 1,-1 h 1 V 5 h -1 z m -4,3 v 10 h 1 1 V 8 h -1 z m -4,3 v 7 h 1 1 v -7 h -1 z m -4,3 v 4 h 1 1 v -4 h -1 z m 12,0.199219 v 3.601562 c 0,-0.31358 0.0707,-0.47065 0.0703,-0.46875 a 1.0001,1.0001 0 0 1 0.27149,-0.501953 L 661.17188,16 660.3418,15.169922 a 1.0001,1.0001 0 0 1 -0.27344,-0.507813 C 660.07116,14.676399 660,14.515721 660,14.199219 Z"/>
   <path style="fill:currentColor" class="ColorScheme-NegativeText" d="m 661,13 v 1.199219 c 0,0.0926 0.0311,0.176228 0.0488,0.263672 L 662.58591,16 661.0488,17.537109 C 661.0304,17.624699 661,17.709691 661,17.800781 V 19 h 1.19922 c 0.0904,0 0.17565,-0.03068 0.26367,-0.04883 L 664,17.41406 l 1.53711,1.53711 C 665.62511,18.96932 665.71042,19 665.80078,19 H 667 v -1.199219 c 0,-0.09109 -0.0304,-0.176081 -0.0488,-0.263672 L 665.41406,16 l 1.53711,-1.537109 c 0.0177,-0.08744 0.0488,-0.171072 0.0488,-0.263672 V 13 h -1.19922 c -0.0926,0 -0.17623,0.0311 -0.26367,0.04883 l -1.53711,1.53711 -1.53711,-1.53711 C 662.37546,13.0311 662.29178,13 662.19919,13 Z"/>
  </g>
@@ -1870,7 +1870,7 @@
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 6,4 v 6 2 h 2 4 V 10 H 8 V 4 Z"/>
  </g>
  <g id="22-22-network-vpn" transform="translate(30,-28.00001)">
-  <rect style="opacity:0.001" width="22" height="22" x="226" y="98"/>
+  <rect style="opacity:0.001" width="16" height="16" x="226" y="98"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 237,101 a 3,3 0 0 0 -3,3 v 2 h -1 c -0.554,0 -1,0.446 -1,1 v 4 c 0,0.554 0.446,1 1,1 h 8 c 0.554,0 1,-0.446 1,-1 v -4 c 0,-0.554 -0.446,-1 -1,-1 h -1 v -2 a 3,3 0 0 0 -3,-3 z m 0,2 c 0.57598,0 1,0.42403 1,1 v 2 h -2 v -2 c 0,-0.57597 0.42403,-1 1,-1 z m -1,10 v 1 h -2 v 1 2 h 6 v -2 -1 h -2 v -1 z m -6,2 c -0.554,0 -1,0.446 -1,1 0,0.554 0.446,1 1,1 h 3 v -2 z m 11,0 v 2 h 3 c 0.554,0 1,-0.446 1,-1 0,-0.554 -0.446,-1 -1,-1 z"/>
  </g>
  <g id="network-vpn">
@@ -1913,44 +1913,44 @@
   <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m 279,19 c -2.14286,2e-6 -4.03587,1.429406 -4,2.857422 V 24 h -1 V 24.357422 30 h 1.07227 7.85546 H 284 v -6 h -1 V 21.857422 C 283,20.428955 281.14286,18.999998 279,19 Z m 0,2 c 1,0 2,0.462304 2,1.527344 V 24 h -4 V 22.527344 C 277,21.390928 278,21 279,21 Z"/>
  </g>
  <g id="22-22-network-wired-activated-locked">
-  <rect style="opacity:0.001" width="22" height="22" x="64" y="-22"/>
+  <rect style="opacity:0.001" width="16" height="16" x="64" y="-22"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 67,-19 c 0,0 -1,0 -1,1 v 12 c 0,1 1,1 1,1 h 3 l 1,1 h 5 v -2 h -4 l -1,-1 h -3 v -10 h 2 v 2 h 1 v -2 h 1 v 2 h 1 v -2 h 1 v 2 h 1 v -2 h 1 v 2 h 1 v -2 h 1 v 2 h 1 v -2 h 2 v 6.03125 c 0.781161,0.0944 1.476048,0.406089 2,0.863281 V -18 c 0,-1 -1,-1 -1,-1 z"/>
   <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m 80.5,-10.000503 c -1.5,2e-6 -2.499998,1.000002 -2.499998,2 v 1.000496 H 77 v 0.75 3.250003 h 0.75 5.499996 0.75 V -7.000007 H 83 v -1.000496 c 0,-0.999998 -1,-2.000001 -2.5,-2 z m 0,1.000002 c 0.5,0 1.5,0 1.5,1.374997 v 0.625497 h -2.999998 l -10e-7,-0.625497 c -3e-6,-1.374997 1.019124,-1.374997 1.499999,-1.374997 z"/>
  </g>
  <g id="22-22-network-unavailable">
-  <rect style="opacity:0.001" width="22" height="22" x="96" y="-22"/>
+  <rect style="opacity:0.001" width="16" height="16" x="96" y="-22"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 99,-19 c 0,0 -1,0 -1,1 v 12 c 0,1 1,1 1,1 h 3 l 1,1 h 6 v -2 h -5 l -1,-1 h -3 v -10 h 2 v 2 h 1 v -2 h 1 v 2 h 1 v -2 h 1 v 2 h 1 v -2 h 1 v 2 h 1 v -2 h 1 v 2 h 1 v -2 h 2 v 7 h 2 v -8 c 0,-1 -1,-1 -1,-1 z"/>
   <path style="fill:currentColor" class="ColorScheme-NegativeText" d="m 109.99997,-9 v 1.199219 c 0,0.0926 0.0311,0.176228 0.0488,0.263672 L 111.58591,-6 110.0488,-4.462891 C 110.0304,-4.3753 110,-4.290309 110,-4.199219 V -3 h 1.19922 c 0.0904,0 0.17566,-0.03068 0.26367,-0.04883 l 1.53708,-1.537108 1.53711,1.53711 C 114.6251,-3.030682 114.71039,-3 114.80075,-3 h 1.19922 v -1.199219 c 0,-0.09109 -0.0304,-0.176081 -0.0488,-0.263672 L 114.41403,-6 l 1.53711,-1.537109 c 0.0177,-0.087444 0.0488,-0.171072 0.0488,-0.263672 V -9 h -1.19922 c -0.0926,0 -0.17623,0.0311 -0.26367,0.04883 l -1.53711,1.537108 -1.53711,-1.53711 C 111.37542,-8.968897 111.29179,-9 111.19919,-9 Z"/>
  </g>
  <g id="22-22-network-wired-available">
-  <rect style="opacity:0.001" width="22" height="22" x="128" y="-22"/>
+  <rect style="opacity:0.001" width="16" height="16" x="128" y="-22"/>
   <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="m 131,-19 c 0,0 -1,0 -1,1 v 12 c 0,1 1,1 1,1 h 3 l 1,1 h 7 l 1,-1 v -1 -1 h -1 l -1,1 h -5 l -1,-1 h -3 v -10 h 2 v 2 h 1 v -2 h 1 v 2 h 1 v -2 h 1 v 2 h 1 v -2 h 1 v 2 h 1 v -2 h 1 v 2 h 1 v -2 h 2 v 3 c 0.24894,0 0.48297,0.02701 0.70117,0.06641 l 0.0684,0.0078 0.0664,0.01563 c 0.008,0.0021 0.0164,0.0056 0.0254,0.0078 0.22763,0.05022 0.46052,0.118307 0.69336,0.216797 0.15677,0.06631 0.30441,0.142088 0.44531,0.224609 V -18 c 0,-1 -1,-1 -1,-1 z"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 145,-13.000002 c -0.19573,0 -0.38699,0.0208 -0.57227,0.0566 a 3,3 0 0 0 -0.082,0.0195 c -0.16986,0.0378 -0.33453,0.089 -0.49218,0.1543 a 3,3 0 0 0 -0.0527,0.0234 c -0.15709,0.0687 -0.30754,0.14873 -0.44922,0.24218 a 3,3 0 0 0 -0.0742,0.0527 c -0.13843,0.0975 -0.27079,0.20331 -0.39062,0.32226 a 3,3 0 0 0 -0.0234,0.0254 c -0.1246,0.12656 -0.23914,0.26317 -0.33984,0.41016 a 3,3 0 0 0 -0.004,0.006 3,3 0 0 0 -0.0254,0.041 c -0.0994,0.15098 -0.1866,0.31016 -0.25781,0.47851 -0.0701,0.16573 -0.12254,0.34017 -0.16211,0.51953 a 3,3 0 0 0 -0.0137,0.0527 c -0.001,0.006 -7.3e-4,0.0132 -0.002,0.0195 -0.0363,0.18651 -0.0586,0.37906 -0.0586,0.57618 h 2 c 0,-0.55229 0.44772,-1 1,-1 0.55228,0 1,0.44771 1,1 0,0.55228 -0.44772,1 -1,1 h -1 v 3.000002 h 2 v -1.179692 a 3,3 0 0 0 2,-2.82031 c 0,-0.19573 -0.0208,-0.38699 -0.0566,-0.57227 a 3,3 0 0 0 -0.0195,-0.082 c -0.0379,-0.16986 -0.089,-0.33453 -0.1543,-0.49219 a 3,3 0 0 0 -0.0235,-0.0527 c -0.0687,-0.15709 -0.14872,-0.30754 -0.24218,-0.44922 a 3,3 0 0 0 -0.0527,-0.0742 c -0.0975,-0.13843 -0.20335,-0.2708 -0.3223,-0.39063 a 3,3 0 0 0 -0.0254,-0.0234 c -0.12651,-0.12461 -0.26312,-0.23915 -0.41011,-0.33985 a 3,3 0 0 0 -0.006,-0.004 3,3 0 0 0 -0.041,-0.0254 c -0.15098,-0.0994 -0.31016,-0.18661 -0.47851,-0.25782 -0.16573,-0.0701 -0.34017,-0.12253 -0.51953,-0.1621 a 3,3 0 0 0 -0.0527,-0.0137 3,3 0 0 0 -0.0195,-0.002 c -0.1865,-0.03613 -0.37905,-0.05844 -0.57617,-0.05844 z M 144,-5 v 2 h 2 v -2 z"/>
  </g>
  <g id="22-22-network-wired-activated-limited">
-  <rect style="opacity:0.001" width="22" height="22" x="160" y="-22"/>
+  <rect style="opacity:0.001" width="16" height="16" x="160" y="-22"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 163,-19 c 0,0 -1,0 -1,1 v 12 c 0,1 1,1 1,1 h 3 l 1,1 h 7 l 1,-1 v -2 h -1 l -1,1 h -5 l -1,-1 h -3 v -10 h 2 v 2 h 1 v -2 h 1 v 2 h 1 v -2 h 1 v 2 h 1 v -2 h 1 v 2 h 1 v -2 h 1 v 2 h 1 v -2 h 2 v 3 h 2 v -4 c 0,-1 -1,-1 -1,-1 z"/>
   <path style="fill:currentColor" class="ColorScheme-NeutralText" d="m 176,-13.00001 v 7 h 2 v -7 z m 0,8 v 2 h 2 v -2 z"/>
  </g>
  <g id="22-22-network-bluetooth-activated-locked">
-  <rect style="opacity:0.001" width="22" height="22" x="256" y="-22"/>
+  <rect style="opacity:0.001" width="16" height="16" x="256" y="-22"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 265.92578,-18.998047 a 1.0001,1.0001 0 0 0 -0.35937,0.09766 A 1.0001,1.0001 0 0 0 265,-18 v 4.066406 l -2.38672,-1.855468 a 1,1 0 0 0 -1.40234,0.175781 1,1 0 0 0 0.17578,1.402343 L 265,-11.400391 v 0.800782 l -3.61328,2.8105465 a 1,1 0 0 0 -0.17578,1.4023437 1,1 0 0 0 1.40234,0.1757813 L 265,-8.0664062 V -4 a 1.0001,1.0001 0 0 0 1.625,0.78125 L 267,-3.5195312 V -5.25 -6.0820312 -7 -9.6230469 l 0.14258,-0.1113281 1.41601,1.1015625 c 0.40773,-0.5414588 1.0134,-0.9611168 1.73243,-1.1855469 L 268.77148,-11 l 2.8418,-2.210938 a 1.0001,1.0001 0 0 0 0.0117,-1.570312 l -5,-4 a 1.0001,1.0001 0 0 0 -0.69922,-0.216797 z m 1.07422,3.080078 2.38477,1.908203 -2.24219,1.744141 L 267,-12.376953 Z M 261,-12 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z m 12,0 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z"/>
   <path style="fill:currentColor" class="ColorScheme-PositiveText" d="m 271.5,-8.99951 c -1.5,0 -2.5,1 -2.5,2 v 0.9995 h -1 v 0.75 3.25 h 0.75 5.49999 0.75 v -4 H 274 v -0.9995 c 0,-1 -1,-2 -2.5,-2 z m 0,1 c 0.5,0 1.5,0 1.5,1.375 v 0.6245 h -3 v -0.6245 c 0,-1.375 1.01912,-1.375 1.5,-1.375 z"/>
  </g>
  <g id="22-22-network-wired">
-  <rect style="opacity:0.001" width="22" height="22" x="0" y="-22"/>
+  <rect style="opacity:0.001" width="16" height="16" x="0" y="-22"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 3,-18.999995 c 0,0 -1,0 -1,1 V -6 c 0,1 1,1 1,1 h 3 l 1,1 h 7 l 1.000001,-1 H 18 c 0,0 1,0.13 1,-1 v -11.999995 c 0,-1 -1,-1 -1,-1 z m 1,2 h 2 v 2 h 1 v -2 h 1 v 2 h 1 v -2 h 1 v 2 h 1 v -2 h 1 v 2 h 1 v -2 h 1 v 2 h 1.000001 v -2 H 17 V -7 h -3 l -1,1 H 8 L 7,-7 H 4 Z"/>
  </g>
  <g id="22-22-network-wired-activated">
-  <rect style="opacity:0.001" width="22" height="22" x="32" y="-22"/>
+  <rect style="opacity:0.001" width="16" height="16" x="32" y="-22"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 35,-18.999995 c 0,0 -1,0 -1,1 V -6 c 0,1 1,1 1,1 h 3 l 1,1 h 7 l 1.000001,-1 H 50 c 0,0 1,0.13 1,-1 v -11.999995 c 0,-1 -1,-1 -1,-1 z m 1,2 h 2 v 2 h 1 v -2 h 1 v 2 h 1 v -2 h 1 v 2 h 1 v -2 h 1 v 2 h 1 v -2 h 1 v 2 h 1.000001 v -2 H 49 V -7 h -3 l -1,1 h -5 l -1,-1 h -3 z"/>
  </g>
  <g id="22-22-network-bluetooth">
-  <rect style="opacity:0.001" width="22" height="22" x="192" y="-22"/>
+  <rect style="opacity:0.001" width="16" height="16" x="192" y="-22"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 201.56552,-18.900774 a 1.0001,1.0001 0 0 0 -0.5664,0.900391 v 4.066406 l -2.38672,-1.855468 a 1,1 0 0 0 -1.40235,0.175781 1,1 0 0 0 0.17579,1.402344 l 3.61328,2.810546 v 0.800782 l -3.61328,2.8105474 a 1,1 0 0 0 -0.17579,1.402343 1,1 0 0 0 1.40235,0.175782 l 2.38672,-1.855469 v 4.066406 a 1.0001,1.0001 0 0 0 1.625,0.78125 l 5,-4 a 1.0001,1.0001 0 0 0 -0.0117,-1.570312 l -2.8418,-2.2109384 2.8418,-2.210937 a 1.0001,1.0001 0 0 0 0.0117,-1.570313 l -5,-4 a 1.0001,1.0001 0 0 0 -1.0586,-0.119141 z m 1.4336,2.982422 2.38476,1.908203 -2.24219,1.744141 -0.14257,-0.111328 z m 0.14257,6.1835944 2.24219,1.744141 -2.38476,1.908203 v -3.541016 z"/>
  </g>
  <g id="22-22-network-bluetooth-activated">
-  <rect style="opacity:0.001" width="22" height="22" x="224" y="-22"/>
+  <rect style="opacity:0.001" width="16" height="16" x="224" y="-22"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 233.92578,-18.998047 a 1.0001,1.0001 0 0 0 -0.35937,0.09766 A 1.0001,1.0001 0 0 0 233,-18 v 4.066406 l -2.38672,-1.855468 a 1,1 0 0 0 -1.40234,0.175781 1,1 0 0 0 0.17578,1.402343 L 233,-11.400391 v 0.800782 l -3.61328,2.8105465 a 1,1 0 0 0 -0.17578,1.4023437 1,1 0 0 0 1.40234,0.1757813 L 233,-8.0664062 V -4 a 1.0001,1.0001 0 0 0 1.625,0.78125 l 5,-4 a 1.0001,1.0001 0 0 0 -0.0117,-1.5703125 L 236.77148,-11 l 2.8418,-2.210938 a 1.0001,1.0001 0 0 0 0.0117,-1.570312 l -5,-4 a 1.0001,1.0001 0 0 0 -0.69922,-0.216797 z m 1.07422,3.080078 2.38477,1.908203 -2.24219,1.744141 L 235,-12.376953 Z M 229,-12 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z m 12,0 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z m -5.85742,2.265625 2.24219,1.7441406 L 235,-6.0820312 v -3.5410157 z"/>
  </g>
  <g id="network-bluetooth">
