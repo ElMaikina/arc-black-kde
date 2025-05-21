@@ -25,14 +25,14 @@
   <path style="opacity:0.2" d="m 15,10 c -2.77,0 -5,2.23 -5,5 v 2 h 1 v -2 c 0,-2.233297 1.766703,-4 4,-4 h 2 v -1 z"/>
  </g>
  <g id="footer-topleft" transform="matrix(1,0,0,-1,65,153.939)">
-  <rect style="fill:#2f343f" width="7" height="6" x="0" y="101.94"/>
-  <rect style="opacity:0.2" width="7" height="1" x="0" y="107.94"/>
-  <rect style="opacity:0.2" width="1" height="6" x="0" y="101.94"/>
+  <rect style="fill:#2f343f" width="2" height="2" x="0" y="101.94"/>
+  <rect style="opacity:0.2" width="2" height="2" x="0" y="107.94"/>
+  <rect style="opacity:0.2" width="2" height="2" x="0" y="101.94"/>
  </g>
  <g id="footer-topright" transform="rotate(180,64.5,76.969008)">
-  <rect style="fill:#2f343f" width="7" height="6" x="0" y="101.94"/>
-  <rect style="opacity:0.2" width="7" height="1" x="0" y="107.94"/>
-  <rect style="opacity:0.2" width="1" height="6" x="0" y="101.94"/>
+  <rect style="fill:#2f343f" width="2" height="2" x="0" y="101.94"/>
+  <rect style="opacity:0.2" width="2" height="2" x="0" y="107.94"/>
+  <rect style="opacity:0.2" width="2" height="2" x="0" y="101.94"/>
  </g>
  <rect id="header-center" style="fill:#2f343f" width="50" height="50" x="7" y="52"/>
  <g id="header-left" transform="translate(-10,34.998925)">
@@ -59,19 +59,19 @@
   <path style="fill:#2f343f" d="m 17.000005,9.999935 v 7 h -7 v -2 c 0,-2.77 2.23,-5 5,-5 z"/>
   <path style="opacity:0.2" d="m 15,10 c -2.77,0 -5,2.23 -5,5 v 2 h 1 v -2 c 0,-2.233297 1.766703,-4 4,-4 h 2 v -1 z"/>
  </g>
- <rect id="hint-top-margin" style="fill:#ff0000" width="4" height="7" x="29" y="52"/>
- <rect id="hint-bottom-margin" style="fill:#ff0000" width="4" height="7" x="29" y="95"/>
- <rect id="hint-left-margin" style="fill:#ff0000" width="7" height="4" x="7" y="74"/>
- <rect id="hint-right-margin" style="fill:#ff0000" width="7" height="4" x="50" y="74"/>
- <rect id="hint-tile-center" style="fill:#ff0000" width="5" height="5" x="0" y="0"/>
+ <rect id="hint-top-margin" style="fill:#ff0000" width="2" height="2" x="29" y="52"/>
+ <rect id="hint-bottom-margin" style="fill:#ff0000" width="2" height="2" x="29" y="95"/>
+ <rect id="hint-left-margin" style="fill:#ff0000" width="2" height="2" x="7" y="74"/>
+ <rect id="hint-right-margin" style="fill:#ff0000" width="2" height="2" x="50" y="74"/>
+ <rect id="hint-tile-center" style="fill:#ff0000" width="2" height="2" x="0" y="0"/>
  <g id="header-bottomleft" transform="translate(0,0.05999464)">
-  <rect style="fill:#2f343f" width="7" height="6" x="0" y="101.94"/>
-  <rect style="opacity:0.2" width="7" height="1" x="0" y="107.94"/>
-  <rect style="opacity:0.2" width="1" height="6" x="0" y="101.94"/>
+  <rect style="fill:#2f343f" width="2" height="2" x="0" y="101.94"/>
+  <rect style="opacity:0.2" width="2" height="2" x="0" y="107.94"/>
+  <rect style="opacity:0.2" width="2" height="2" x="0" y="101.94"/>
  </g>
  <g id="header-bottomright" transform="matrix(-1,0,0,1,64,0.06099464)">
-  <rect style="fill:#2f343f" width="7" height="6" x="0" y="101.94"/>
-  <rect style="opacity:0.2" width="7" height="1" x="0" y="107.94"/>
-  <rect style="opacity:0.2" width="1" height="6" x="0" y="101.94"/>
+  <rect style="fill:#2f343f" width="2" height="2" x="0" y="101.94"/>
+  <rect style="opacity:0.2" width="2" height="2" x="0" y="107.94"/>
+  <rect style="opacity:0.2" width="2" height="2" x="0" y="101.94"/>
  </g>
 </svg>

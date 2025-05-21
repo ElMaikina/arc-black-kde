@@ -36,7 +36,7 @@
  <rect id="hint-bottom-margin" style="fill:#ff00ff" width="4" height="10" x="29" y="54"/>
  <rect id="hint-left-margin" style="fill:#ff00ff" width="10" height="4" x="7" y="36"/>
  <rect id="hint-right-margin" style="fill:#ff00ff" width="10" height="4" x="47" y="36"/>
- <rect id="hint-tile-center" style="fill:#ff6600" width="5" height="5" x="0" y="0"/>
+ <rect id="hint-tile-center" style="fill:#ff6600" width="2" height="2" x="0" y="0"/>
  <rect id="mask-center" width="50" height="50" x="7" y="80"/>
  <path id="mask-topleft" d="m 7,72.999875 v 7 H 0 v -2 c 0,-2.77 2.23,-5 5,-5 z"/>
  <path id="mask-left" d="m 1e-5,79.999865 v 49.999995 l 7,10e-6 V 79.999875 Z"/>

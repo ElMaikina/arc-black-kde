@@ -4,8 +4,8 @@
    .ColorScheme-Background {color:#2f343f; } .ColorScheme-ButtonBackground { color:#444a58; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-Text { color:#d3dae3; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }
   </style>
  </defs>
- <rect id="hint-tile-center" width="4" height="4" x="0" y="0" style="fill:#ff2a2a"/>
- <rect id="hint-bar-size" width="6" height="6" x="6" y="0" style="fill:#ff2a2a"/>
+ <rect id="hint-tile-center" width="2" height="2" x="0" y="0" style="fill:#ff2a2a"/>
+ <rect id="hint-bar-size" width="2" height="2" x="6" y="0" style="fill:#ff2a2a"/>
  <path id="bar-inactive-bottomright" d="m 17,15 v 3 c 1.661989,0 3,-1.338011 3,-3 z" style="opacity:0.2"/>
  <path id="bar-inactive-right" d="m 17,12 v 2 h 3 v -2 z" style="opacity:0.2"/>
  <path id="bar-inactive-topright" d="m 17,8 v 3 h 3 C 20,9.3380111 18.661989,8 17,8 Z" style="opacity:0.2"/>
@@ -24,6 +24,6 @@
  <path id="bar-active-bottom" d="m 14,27 v 3 h 2 v -3 z" style="fill:currentColor" class="ColorScheme-Highlight"/>
  <path id="bar-active-center" d="m 16,24 h -2 v 2 h 2 z" style="fill:currentColor" class="ColorScheme-Highlight"/>
  <path id="bar-active-top" d="m 14,20 v 3 h 2 v -3 z" style="fill:currentColor" class="ColorScheme-Highlight"/>
- <rect id="hint-stretch-borders" width="3" height="3" x="0" y="6" style="fill:#ff2a2a"/>
- <rect id="hint-bar-stretch" width="3" height="3" x="0" y="11" style="fill:#ff2a2a"/>
+ <rect id="hint-stretch-borders" width="2" height="2" x="0" y="6" style="fill:#ff2a2a"/>
+ <rect id="hint-bar-stretch" width="2" height="2" x="0" y="11" style="fill:#ff2a2a"/>
 </svg>

@@ -56,7 +56,7 @@
  <rect id="hint-bottom-margin" style="fill:#ff00ff" width="4" height="10" x="29" y="91.94"/>
  <rect id="hint-left-margin" style="fill:#ff00ff" width="10" height="4" x="7" y="73.94"/>
  <rect id="hint-right-margin" style="fill:#ff00ff" width="10" height="4" x="47" y="73.94"/>
- <rect id="hint-tile-center" style="fill:#ff6600" width="5" height="5" x="0" y="-.06"/>
+ <rect id="hint-tile-center" style="fill:#ff6600" width="2" height="2" x="0" y="-.06"/>
  <path id="shadow-topleft" style="fill:url(#radialGradient4275)" d="m 121,49.93897 10,0 0,-2 c 0,-2.77 2.23,-5 5,-5 l 2,0 0,-10 -17,0 z"/>
  <path id="shadow-bottomright" style="fill:url(#radialGradient3382)" d="m 205,99.93897 -10,0 0,2 c 0,2.77 -2.23,5 -5,5 l -2,0 0,10 17,0 z"/>
  <path id="shadow-topright" style="fill:url(#radialGradient4255)" d="m 188,32.93897 0,10 2,0 c 2.77,0 5,2.23 5,5 l 0,2 10,0 0,-17 z"/>

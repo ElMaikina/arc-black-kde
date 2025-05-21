@@ -35,28 +35,28 @@
  <rect id="south-active-tab-bottomright" width="10" height="4" x="156" y="236" style="opacity:0.001"/>
  <rect id="south-active-tab-bottom" width="80" height="4" x="76" y="236" style="opacity:0.001"/>
  <rect id="south-active-tab-bottomleft" width="10" height="4" x="66" y="236" style="opacity:0.001"/>
- <rect id="south-active-tab-hint-left-margin" width="6" height="5" x="66" y="227" style="fill:#4e9a06"/>
- <rect id="south-active-tab-hint-right-margin" width="6" height="5" x="160" y="227" style="fill:#4e9a06"/>
- <rect id="south-active-tab-hint-top-margin" width="5" height="8" x="114" y="221" style="fill:#4e9a06"/>
- <rect id="south-active-tab-hint-bottom-margin" width="5" height="4" x="114" y="236" style="fill:#4e9a06"/>
+ <rect id="south-active-tab-hint-left-margin" width="2" height="2" x="66" y="227" style="fill:#4e9a06"/>
+ <rect id="south-active-tab-hint-right-margin" width="2" height="2" x="160" y="227" style="fill:#4e9a06"/>
+ <rect id="south-active-tab-hint-top-margin" width="2" height="2" x="114" y="221" style="fill:#4e9a06"/>
+ <rect id="south-active-tab-hint-bottom-margin" width="2" height="2" x="114" y="236" style="fill:#4e9a06"/>
  <rect id="east-active-tab-bottom" width="10" height="12" x="-155.7" y="209" transform="rotate(-90)" style="opacity:0.001"/>
  <rect id="east-active-tab-center" width="80" height="12" x="-145.7" y="209" transform="rotate(-90)" style="opacity:0.001"/>
  <rect id="east-active-tab-top" width="10" height="12" x="-65.7" y="209" transform="rotate(-90)" style="opacity:0.001"/>
  <rect id="east-active-tab-topright" width="10" height="4" x="-65.7" y="221" transform="rotate(-90)" style="opacity:0.001"/>
  <rect id="east-active-tab-right" width="80" height="4" x="-145.7" y="221" transform="rotate(-90)" style="opacity:0.001"/>
  <rect id="east-active-tab-bottomright" width="10" height="4" x="-155.7" y="221" transform="rotate(-90)" style="opacity:0.001"/>
- <rect id="east-active-tab-hint-bottom-margin" width="6" height="5" x="-156" y="212" transform="rotate(-90)" style="fill:#4e9a06"/>
- <rect id="east-active-tab-hint-top-margin" width="6" height="5" x="-62" y="212" transform="rotate(-90)" style="fill:#4e9a06"/>
- <rect id="east-active-tab-hint-left-margin" width="5" height="8" x="-102" y="205" transform="rotate(-90)" style="fill:#4e9a06"/>
- <rect id="east-active-tab-hint-right-margin" width="5" height="4" x="-102" y="221" transform="rotate(-90)" style="fill:#4e9a06"/>
+ <rect id="east-active-tab-hint-bottom-margin" width="2" height="2" x="-156" y="212" transform="rotate(-90)" style="fill:#4e9a06"/>
+ <rect id="east-active-tab-hint-top-margin" width="2" height="2" x="-62" y="212" transform="rotate(-90)" style="fill:#4e9a06"/>
+ <rect id="east-active-tab-hint-left-margin" width="2" height="2" x="-102" y="205" transform="rotate(-90)" style="fill:#4e9a06"/>
+ <rect id="east-active-tab-hint-right-margin" width="2" height="2" x="-102" y="221" transform="rotate(-90)" style="fill:#4e9a06"/>
  <rect id="west-active-tab-top" width="10" height="12" x="56" y="-16" transform="rotate(90)" style="opacity:0.001"/>
  <rect id="west-active-tab-center" width="80" height="12" x="66" y="-16" transform="rotate(90)" style="opacity:0.001"/>
  <rect id="west-active-tab-bottom" width="10" height="12" x="146" y="-16" transform="rotate(90)" style="opacity:0.001"/>
  <rect id="west-active-tab-bottomleft" width="10" height="4" x="146" y="-4" transform="rotate(90)" style="opacity:0.001"/>
  <rect id="west-active-tab-left" width="80" height="4" x="66" y="-4" transform="rotate(90)" style="opacity:0.001"/>
  <rect id="west-active-tab-topleft" width="10" height="4" x="56" y="-4" transform="rotate(90)" style="opacity:0.001"/>
- <rect id="west-active-tab-hint-top-margin" width="6" height="5" x="56" y="-13" transform="rotate(90)" style="fill:#4e9a06"/>
- <rect id="west-active-tab-hint-bottom-margin" width="6" height="5" x="150" y="-13" transform="rotate(90)" style="fill:#4e9a06"/>
+ <rect id="west-active-tab-hint-top-margin" width="2" height="2" x="56" y="-13" transform="rotate(90)" style="fill:#4e9a06"/>
+ <rect id="west-active-tab-hint-bottom-margin" width="2" height="2" x="150" y="-13" transform="rotate(90)" style="fill:#4e9a06"/>
  <g id="west-active-tab-topright" transform="rotate(90,176.68,202.6822)">
   <path  style="opacity:0.00100002" d="m 30,358.3622 h 10 v 3.99779 H 30 Z"/>
   <path d="m 39.999989,359.36221 v 2.99998 c -5.999986,0 -6.999986,0 -7,-1.5 1.4e-5,-1.5 1.000014,-1.5 7,-1.49998 z" style="fill:currentColor" class="ColorScheme-Highlight" />
@@ -65,18 +65,18 @@
   <path  style="opacity:0.00100002" d="m 120,358.3622 h 10 v 3.99779 h -10 z"/>
   <path d="m 119.99999,359.36221 c 6.00001,-2e-5 7.00001,-2e-5 7,1.49998 1e-5,1.5 -0.99999,1.5 -7,1.5 z" style="fill:currentColor" class="ColorScheme-Highlight" />
  </g>
- <rect id="west-active-tab-hint-right-margin" width="5" height="8" x="97" y="-20" transform="rotate(90)" style="fill:#4e9a06"/>
- <rect id="west-active-tab-hint-left-margin" width="5" height="4" x="97" y="-4" transform="rotate(90)" style="fill:#4e9a06"/>
+ <rect id="west-active-tab-hint-right-margin" width="2" height="2" x="97" y="-20" transform="rotate(90)" style="fill:#4e9a06"/>
+ <rect id="west-active-tab-hint-left-margin" width="2" height="2" x="97" y="-4" transform="rotate(90)" style="fill:#4e9a06"/>
  <rect id="north-active-tab-right" width="10" height="12" x="-173" y="-16" transform="scale(-1)" style="opacity:0.001"/>
  <rect id="north-active-tab-center" width="80" height="12" x="-163" y="-16" transform="scale(-1)" style="opacity:0.001"/>
  <rect id="north-active-tab-left" width="10" height="12" x="-83" y="-16" transform="scale(-1)" style="opacity:0.001"/>
  <rect id="north-active-tab-topleft" width="10" height="4" x="-83" y="-4" transform="scale(-1)" style="opacity:0.001"/>
  <rect id="north-active-tab-top" width="80" height="4" x="-163" y="-4" transform="scale(-1)" style="opacity:0.001"/>
  <rect id="north-active-tab-topright" width="10" height="4" x="-173" y="-4" transform="scale(-1)" style="opacity:0.001"/>
- <rect id="north-focus-hint-right-margin" width="6" height="5" x="-173" y="-13" transform="scale(-1)" style="fill:#4e9a06"/>
- <rect id="north-focus-hint-left-margin" width="6" height="5" x="-79" y="-13" transform="scale(-1)" style="fill:#4e9a06"/>
- <rect id="north-focus-hint-bottom-margin" width="5" height="8" x="-119" y="-20" transform="scale(-1)" style="fill:#4e9a06"/>
- <rect id="north-focus-hint-top-margin" width="5" height="4" x="-119" y="-4" transform="scale(-1)" style="fill:#4e9a06"/>
+ <rect id="north-focus-hint-right-margin" width="2" height="2" x="-173" y="-13" transform="scale(-1)" style="fill:#4e9a06"/>
+ <rect id="north-focus-hint-left-margin" width="2" height="2" x="-79" y="-13" transform="scale(-1)" style="fill:#4e9a06"/>
+ <rect id="north-focus-hint-bottom-margin" width="2" height="2" x="-119" y="-20" transform="scale(-1)" style="fill:#4e9a06"/>
+ <rect id="north-focus-hint-top-margin" width="2" height="2" x="-119" y="-4" transform="scale(-1)" style="fill:#4e9a06"/>
  <g id="north-active-tab-bottomleft" transform="translate(43,-342.35999)">
   <path  style="opacity:0.00100002" d="m 30,359.35999 h 10 v 3.99999 H 30 Z"/>
   <path d="m 39.999989,359.36221 v 2.99998 c -5.999989,0 -6.999989,0 -7,-1.5 1.1e-5,-1.5 1.000011,-1.5 7,-1.49998 z" style="fill:currentColor" class="ColorScheme-Highlight" />

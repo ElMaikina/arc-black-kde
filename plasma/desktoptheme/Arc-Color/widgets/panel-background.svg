@@ -60,19 +60,19 @@
  <rect id="shadow-hint-bottom-margin" style="fill:#ff00ff" width="4" height="10" x="161" y="106.94"/>
  <rect id="shadow-hint-left-margin" style="fill:#ff00ff" width="10" height="4" x="121" y="72.94"/>
  <rect id="shadow-hint-top-margin" style="fill:#ff00ff" width="4" height="10" x="162" y="32.94"/>
- <rect id="thick-hint-top-margin" style="fill:#ff0000" width="4" height="7" x="29" y="44.94"/>
- <rect id="hint-top-margin" style="fill:#ff00ff" width="4" height="2" x="29" y="44.94"/>
+ <rect id="thick-hint-top-margin" style="fill:#ff0000" width="2" height="2" x="29" y="44.94"/>
+ <rect id="hint-top-margin" style="fill:#ff00ff" width="2" height="2" x="29" y="44.94"/>
  <rect id="shadow-hint-top-inset" style="fill:#00ff00" width="4" height="10" x="157" y="106.94"/>
  <rect id="shadow-hint-bottom-inset" style="fill:#00ff00" width="4" height="10" x="158" y="32.94"/>
  <rect id="shadow-hint-right-inset" style="fill:#00ff00" width="4" height="10" x="68.94" y="-205" transform="rotate(90)"/>
  <rect id="shadow-hint-left-inset" style="fill:#00ff00" width="4" height="10" x="68.94" y="-131" transform="rotate(90)"/>
- <rect id="thick-hint-bottom-margin" style="fill:#ff0000" width="4" height="7" x="29" y="101.94"/>
- <rect id="hint-bottom-margin" style="fill:#ff00ff" width="4" height="2" x="29" y="106.94"/>
- <rect id="thick-hint-left-margin" style="fill:#ff0000" width="4" height="7" x="72.94" y="-7" transform="rotate(90)"/>
- <rect id="hint-left-margin" style="fill:#ff00ff" width="2" height="4" x="0" y="72.94"/>
- <rect id="thick-hint-right-margin" style="fill:#ff0000" width="4" height="7" x="72.94" y="-64" transform="rotate(90)"/>
- <rect id="hint-right-margin" style="fill:#ff00ff" width="2" height="4" x="62" y="72.94"/>
- <rect id="hint-tile-center" style="fill:#ff6600" width="5" height="5" x="0" y="-.06"/>
+ <rect id="thick-hint-bottom-margin" style="fill:#ff0000" width="2" height="2" x="29" y="101.94"/>
+ <rect id="hint-bottom-margin" style="fill:#ff00ff" width="2" height="2" x="29" y="106.94"/>
+ <rect id="thick-hint-left-margin" style="fill:#ff0000" width="2" height="2" x="72.94" y="-7" transform="rotate(90)"/>
+ <rect id="hint-left-margin" style="fill:#ff00ff" width="2" height="2" x="0" y="72.94"/>
+ <rect id="thick-hint-right-margin" style="fill:#ff0000" width="2" height="2" x="72.94" y="-64" transform="rotate(90)"/>
+ <rect id="hint-right-margin" style="fill:#ff00ff" width="2" height="2" x="62" y="72.94"/>
+ <rect id="hint-tile-center" style="fill:#ff6600" width="2" height="2" x="0" y="-.06"/>
  <rect id="mask-center" width="50" height="50" x="70" y="144.94"/>
  <path id="mask-topleft" d="m 70,137.93887 v 7 h -7 v -2 c 0,-2.77 2.23,-5 5,-5 z"/>
  <path id="mask-left" d="m 63.00001,144.93886 v 50 l 7,1e-5 v -50 z"/>
@@ -82,7 +82,7 @@
  <path id="mask-bottomright" d="m 119.99999,201.93896 v -7 h 7 v 2 c 0,2.77 -2.23,5 -5,5 z"/>
  <path id="mask-topright" d="m 119.99999,137.93887 v 7 h 7 v -2 c 0,-2.77 -2.23,-5 -5,-5 z"/>
  <path id="mask-top" d="m 69.99997,137.93887 h 50.00002 v 7 H 69.99998 Z"/>
- <rect id="thick-center" style="fill:#800080" width="5" height="5" x="5" y="-.06"/>
+ <rect id="thick-center" style="fill:#800080" width="2" height="2" x="5" y="-.06"/>
  <g id="shadow-left">
   <rect style="fill:url(#linearGradient4385)" width="50" height="10" x="-99.94" y="-131" transform="matrix(0,-1,-1,0,0,0)"/>
   <rect style="opacity:0.001" width="7" height="50" x="131" y="49.94"/>

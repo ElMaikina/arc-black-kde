@@ -20,20 +20,20 @@
   <path id="shadow-topleft" style="opacity:1;fill:url(#radialGradient4275);fill-opacity:1;stroke:none" d="m -6.9999998,946.10026 16.904762,0 0,-3.38095 c 0,-4.68262 3.7697618,-8.45238 8.4523808,-8.45238 l 3.380953,0 0,-16.90477 -28.7380958,0 z"/>
   <g id="shadow-left" transform="matrix(-1.6904762,0,0,1.6904762,496.76191,511.64788)">
    <rect id="rect4267" style="opacity:1;fill:url(#linearGradient5162);fill-opacity:1;stroke:none" width="50" height="10" x="-307" y="288" transform="matrix(0,-1,1,0,0,0)"/>
-   <rect id="rect4269" style="fill:#3498db;fill-opacity:0" width="7" height="1" x="278" y="257" transform="translate(3,2)"/>
+   <rect id="rect4269" style="fill:#3498db;fill-opacity:0" width="2" height="2" x="278" y="257" transform="translate(3,2)"/>
   </g>
   <path id="shadow-bottomright" style="opacity:1;fill:url(#radialGradient3382);fill-opacity:1;stroke:none" d="m 135,1030.6241 -16.90476,0 0,3.3809 c 0,4.6826 -3.76976,8.4524 -8.45238,8.4524 l -3.38095,0 0,16.9048 28.73809,0 z"/>
   <g id="shadow-bottom" transform="matrix(0,1.6904762,-1.6904762,0,540.71429,555.60026)">
    <rect id="rect3389" style="opacity:1;fill:url(#linearGradient5164);fill-opacity:1;stroke:none" width="50" height="10" x="-307" y="288" transform="matrix(0,-1,1,0,0,0)"/>
-   <rect id="rect4241" style="fill:#3498db;fill-opacity:0" width="7" height="1" x="278" y="257" transform="translate(3,2)"/>
+   <rect id="rect4241" style="fill:#3498db;fill-opacity:0" width="2" height="2" x="278" y="257" transform="translate(3,2)"/>
   </g>
   <g id="shadow-right" transform="matrix(1.6904762,0,0,1.6904762,-368.76191,511.64788)">
    <rect id="rect4251" style="opacity:1;fill:url(#linearGradient4452);fill-opacity:1;stroke:none" width="50" height="10" x="-307" y="288" transform="matrix(0,-1,1,0,0,0)"/>
-   <rect id="rect4253" style="fill:#3498db;fill-opacity:0" width="7" height="1" x="278" y="257" transform="translate(3,2)"/>
+   <rect id="rect4253" style="fill:#3498db;fill-opacity:0" width="2" height="2" x="278" y="257" transform="translate(3,2)"/>
   </g>
   <g id="shadow-top" transform="matrix(0,-1.6904762,-1.6904762,0,540.71429,1421.1241)">
    <rect id="rect4279" style="opacity:1;fill:url(#linearGradient4385);fill-opacity:1;stroke:none" width="50" height="10" x="-307" y="288" transform="matrix(0,-1,1,0,0,0)"/>
-   <rect id="rect4281" style="fill:#3498db;fill-opacity:0" width="7" height="1" x="278" y="257" transform="translate(3,2)"/>
+   <rect id="rect4281" style="fill:#3498db;fill-opacity:0" width="2" height="2" x="278" y="257" transform="translate(3,2)"/>
   </g>
   <path id="shadow-topright" style="opacity:1;fill:url(#radialGradient4255);fill-opacity:1;stroke:none" d="m 106.26191,917.36216 0,16.90477 3.38095,0 c 4.68262,0 8.45238,3.76976 8.45238,8.45238 l 0,3.38095 16.90476,0 0,-28.7381 z"/>
   <path id="shadow-bottomleft" style="opacity:1;fill:url(#radialGradient4263);fill-opacity:1;stroke:none" d="m 21.738096,1059.3622 0,-16.9048 -3.380953,0 c -4.682619,0 -8.4523808,-3.7698 -8.4523808,-8.4524 l 0,-3.3809 -16.904762,0 0,28.7381 z"/>

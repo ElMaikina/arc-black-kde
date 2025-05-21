@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="128" height="115" version="1">
  <rect id="hint-tile-center" width="2.033" height="2.077" x="0" y="2" rx="0" ry="2.077" style="fill:#ff0000"/>
- <rect id="pressed-hint-top-margin" width="2" height="4" x="34" y="18" style="fill:#ff0000"/>
- <rect id="pressed-hint-bottom-margin" width="2" height="4" x="35" y="33" style="fill:#ff0000"/>
- <rect id="pressed-hint-left-margin" width="4" height="2" x="26" y="28" style="fill:#ff0000"/>
- <rect id="pressed-hint-right-margin" width="4" height="2" x="41" y="27" style="fill:#ff0000"/>
- <rect id="normal-hint-left-margin" width="4" height="2" x="30" y="70" style="fill:#ff0000"/>
- <rect id="normal-hint-top-margin" width="2" height="4" x="39" y="61" style="fill:#ff0000"/>
- <rect id="normal-hint-bottom-margin" width="2" height="4" x="39" y="76" style="fill:#ff0000"/>
- <rect id="normal-hint-right-margin" width="4" height="2" x="45" y="70" style="fill:#ff0000"/>
+ <rect id="pressed-hint-top-margin" width="2" height="2" x="34" y="18" style="fill:#ff0000"/>
+ <rect id="pressed-hint-bottom-margin" width="2" height="2" x="35" y="33" style="fill:#ff0000"/>
+ <rect id="pressed-hint-left-margin" width="2" height="2" x="26" y="28" style="fill:#ff0000"/>
+ <rect id="pressed-hint-right-margin" width="2" height="2" x="41" y="27" style="fill:#ff0000"/>
+ <rect id="normal-hint-left-margin" width="2" height="2" x="30" y="70" style="fill:#ff0000"/>
+ <rect id="normal-hint-top-margin" width="2" height="2" x="39" y="61" style="fill:#ff0000"/>
+ <rect id="normal-hint-bottom-margin" width="2" height="2" x="39" y="76" style="fill:#ff0000"/>
+ <rect id="normal-hint-right-margin" width="2" height="2" x="45" y="70" style="fill:#ff0000"/>
  <path id="normal-center" d="m 34,65.00034 0,11.00001 10.999999,0 0,-11.00001 -10.999999,0 z" style="opacity:0.001"/>
  <path id="normal-right" d="m 45,65.00034 0,11.00001 2,0 c 6.68e-4,-0.0184 0,-0.0344 0,-0.0529 l 0,-10.89424 c 0,-0.0185 6.68e-4,-0.0345 0,-0.0529 l -2,0 z" style="opacity:0.001"/>
  <path id="normal-top" d="m 34,63.0003 0,2.00004 10.999999,0 0,-2.00004 c -0.0041,-6.7e-4 0.0042,0 10e-7,0 l -10.98814,0 c -0.004,0 -0.008,-6.7e-4 -0.0119,0 z" style="opacity:0.001"/>
@@ -68,8 +68,8 @@
   <path d="m 189.99998,251.99982 50.00002,0 0,7 -50.00001,0 z" style="opacity:0.5;fill:#000000"/>
   <path d="m 190,251.99988 0,1 50,0 0,-1 -50,0 z" style="opacity:0.2"/>
  </g>
- <rect id="section-hint-bottom-margin" width="2" height="7" x="91" y="102" style="fill:#ff0000"/>
- <rect id="section-hint-left-margin" width="7" height="2" x="60" y="78" style="fill:#ff0000"/>
- <rect id="section-hint-top-margin" width="2" height="7" x="91" y="45" style="fill:#ff0000"/>
- <rect id="section-hint-right-margin" width="7" height="2" x="117" y="79" style="fill:#ff0000"/>
+ <rect id="section-hint-bottom-margin" width="2" height="2" x="91" y="102" style="fill:#ff0000"/>
+ <rect id="section-hint-left-margin" width="2" height="2" x="60" y="78" style="fill:#ff0000"/>
+ <rect id="section-hint-top-margin" width="2" height="2" x="91" y="45" style="fill:#ff0000"/>
+ <rect id="section-hint-right-margin" width="2" height="2" x="117" y="79" style="fill:#ff0000"/>
 </svg>
