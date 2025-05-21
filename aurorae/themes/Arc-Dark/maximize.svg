@@ -11,7 +11,7 @@
  </g>
  <g id="pressed-center">
   <rect style="opacity:0.001" width="16" height="16" x="36" y="0"/>
-  <circle style="fill:#333333" cx="44" cy="8" r="7"/>
+  <circle style="fill:#111810" cx="44" cy="8" r="7"/>
   <path style="fill:#ffffff" d="m 42.799505,5 h 3.381737 C 46.631539,5 46.997469,5.36847 47,5.8188 v 3.3817 z m 2.407413,6.00692 H 41.81184 c -0.450346,0 -0.818758,-0.36842 -0.818758,-0.81875 V 6.79308 l 4.213836,4.21384"/>
  </g>
  <g id="inactive-center">

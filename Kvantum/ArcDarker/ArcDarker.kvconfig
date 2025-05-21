@@ -30,7 +30,7 @@ fill_rubberband=false
 spread_progressbar=true
 merge_menubar_with_toolbar=true
 small_icon_size=16
-large_icon_size=32
+large_icon_size=16
 button_icon_size=16
 scroll_arrows=false
 iconless_pushbutton=true
@@ -79,13 +79,13 @@ light.color=#ffffff
 mid.light.color=#ffffff
 dark.color=#e7e8eb
 mid.color=#e7e8eb
-highlight.color=#333333
+highlight.color=#111810
 inactive.highlight.color=#4877b1
-text.color=#333333
-window.text.color=#333333
-button.text.color=#333333
+text.color=#111810
+window.text.color=#111810
+button.text.color=#111810
 disabled.text.color=#a3a5ac
-tooltip.text.color=#333333
+tooltip.text.color=#111810
 highlight.text.color=#ffffff
 link.color=#4877B1
 link.visited.color=#7247b1
@@ -126,8 +126,8 @@ frame=true
 inherits=PanelButtonCommand
 interior.element=button
 frame.element=button
-text.normal.color=#333333
-text.focus.color=#333333
+text.normal.color=#111810
+text.focus.color=#111810
 text.press.color=#ffffff 
 text.toggle.color=#ffffff
 
@@ -240,10 +240,10 @@ frame.bottom=3
 frame.left=3
 frame.right=3
 indicator.size=10
-text.normal.color=#33333395
-text.focus.color=#333333
-text.press.color=#333333
-text.toggle.color=#333333
+text.normal.color=#11181095
+text.focus.color=#111810
+text.press.color=#111810
+text.toggle.color=#111810
 focusFrame=true
 
 [TabBarFrame]
@@ -280,10 +280,10 @@ frame.bottom=1
 frame.left=1
 frame.right=1
 frame.expansion=0
-text.normal.color=#333333
-text.focus.color=#333333
-text.press.color=#333333
-text.toggle.color=#333333
+text.normal.color=#111810
+text.focus.color=#111810
+text.press.color=#111810
+text.toggle.color=#111810
 indicator.element=harrow
 
 [SizeGrip]
@@ -416,7 +416,7 @@ text.bold=false
 inherits=Toolbar
 frame.element=toolbar
 font.bold=true
-text.normal.color=#333333
+text.normal.color=#111810
 frame=true
 frame.top=1
 frame.bottom=1
@@ -441,7 +441,7 @@ text.margin.top=1
 text.margin.bottom=1
 text.margin.left=3
 text.margin.right=3
-text.toggle.color=#333333
+text.toggle.color=#111810
 
 [ToolbarComboBox]
 frame.element=tcombo
@@ -463,9 +463,9 @@ indicator.element=tarrow-down
 
 [ToolboxTab]
 inherits=PanelButtonCommand
-text.normal.color=#333333
-text.press.color=#333333
-text.focus.color=#333333
+text.normal.color=#111810
+text.press.color=#111810
+text.focus.color=#111810
 
 [Hacks]
 transparent_dolphin_view=false
