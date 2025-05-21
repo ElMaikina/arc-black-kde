@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="129" height="71" version="1">
- <rect id="center" style="fill:#000000" width="50" height="50" x="7" y="13"/>
- <rect id="hint-top-margin" style="fill:#ff0000" width="2" height="2" x="29" y="11"/>
- <rect id="hint-bottom-margin" style="fill:#ff0000" width="2" height="2" x="29" y="63"/>
- <rect id="hint-left-margin" style="fill:#ff0000" width="2" height="2" x="5" y="35"/>
- <rect id="hint-right-margin" style="fill:#ff0000" width="2" height="2" x="57" y="35"/>
- <rect id="hint-tile-center" style="fill:#ff0000" width="2" height="2" x="0" y="-1"/>
- <rect id="mask-center" width="50" height="50" x="72" y="13"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="24" version="1">
+ <rect id="center" style="fill:#000000" width="24" height="24" x="0" y="0"/>
+ <rect id="mask-center" style="fill:#000000" width="24" height="24" x="24" y="0"/>
+ <rect id="hint-top-margin" style="fill:#ff0000" width="2" height="2" x="11" y="-2"/>
+ <rect id="hint-right-margin" style="fill:#ff0000" width="2" height="2" x="24" y="11"/>
+ <rect id="hint-left-margin" style="fill:#ff0000" width="2" height="2" x="-2" y="11"/>
+ <rect id="hint-bottom-margin" style="fill:#ff0000" width="2" height="2" x="11" y="24"/>
+ <rect id="hint-tile-center" style="fill:#ff0000" width="2" height="2" x="0" y="0"/>
 </svg>

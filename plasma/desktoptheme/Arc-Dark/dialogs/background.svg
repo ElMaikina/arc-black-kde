@@ -1,23 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="214" height="110" version="1">
- <defs>
-  <radialGradient id="radialGradient4263" cx="984" cy="905.362" r="8.5" fx="984" fy="905.362" gradientTransform="matrix(-1.411767,-9.899721e-6,9.8996845e-6,-1.4117618,1536.1698,1371.1646)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4465"/>
-  <linearGradient id="linearGradient4465">
-   <stop style="stop-color:#000000;stop-opacity:1.0" offset="0"/>
-   <stop style="stop-color:#000000;stop-opacity:1.0" offset="1"/>
-  </linearGradient>
-  <radialGradient id="radialGradient4255" cx="982.909" cy="906.453" r="8.5" fx="982.909" fy="906.453" gradientTransform="matrix(1.4117577,5.5406049e-6,-5.5406032e-6,1.4117573,-1190.6245,-1236.6983)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4465"/>
-  <linearGradient id="linearGradient4259" x1="83.6" x2="83.6" y1="-969.362" y2="-957.362" gradientTransform="matrix(0.71428571,0,0,1,127.28571,919.42323)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4465"/>
-  <linearGradient id="linearGradient4452" x1="-260" x2="-260" y1="281" y2="293" gradientTransform="translate(207.06102,-93)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4465"/>
-  <radialGradient id="radialGradient3382" cx="984" cy="905.362" r="8.5" fx="984" fy="905.362" gradientTransform="matrix(7.8257357e-6,1.411771,-1.4117668,7.8257123e-6,1475.1525,-1296.1908)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4465"/>
-  <radialGradient id="radialGradient4275" cx="984" cy="905.362" r="8.5" fx="984" fy="905.362" gradientTransform="matrix(-1.6187099e-5,-1.4117565,1.4117775,-1.618734e-5,-1131.1539,1432.1821)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4465"/>
-  <linearGradient id="linearGradient4315" x1="83.6" x2="83.6" y1="-969.362" y2="-957.362" gradientTransform="matrix(0.71428571,0,0,1,-110.65327,831.3622)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4465"/>
-  <linearGradient id="linearGradient4317" x1="83.6" x2="83.6" y1="-969.362" y2="-957.362" gradientTransform="matrix(0.71428571,0,0,1,127.28571,1069.3012)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4465"/>
- </defs>
- <rect id="center" style="fill:#000000" width="50" height="50" x="7" y="52"/>
- <rect id="hint-top-margin" style="fill:#ff0000" width="2" height="2" x="29" y="50"/>
- <rect id="hint-bottom-margin" style="fill:#ff0000" width="2" height="2" x="29" y="102"/>
- <rect id="hint-left-margin" style="fill:#ff0000" width="2" height="2" x="5" y="74"/>
- <rect id="hint-right-margin" style="fill:#ff0000" width="2" height="2" x="57" y="74"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="24" version="1">
+ <rect id="center" style="fill:#000000" width="24" height="24" x="0" y="0"/>
+ <rect id="mask-center" style="fill:#000000" width="24" height="24" x="24" y="0"/>
+ <rect id="hint-top-margin" style="fill:#ff0000" width="2" height="2" x="11" y="-2"/>
+ <rect id="hint-right-margin" style="fill:#ff0000" width="2" height="2" x="24" y="11"/>
+ <rect id="hint-left-margin" style="fill:#ff0000" width="2" height="2" x="-2" y="11"/>
+ <rect id="hint-bottom-margin" style="fill:#ff0000" width="2" height="2" x="11" y="24"/>
  <rect id="hint-tile-center" style="fill:#ff0000" width="2" height="2" x="0" y="0"/>
- <rect id="mask-center" width="50" height="50" x="72" y="52"/>
 </svg>
