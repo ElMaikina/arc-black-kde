@@ -1,7 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="enable-background:new" width="120" height="24" version="1">
-  <rect id="normal-top" style="fill:#111810" width="24" height="4" x="0" y="0"/>
-  <rect id="focus-top" style="fill:#222222" width="24" height="4" x="24" y="0"/>
-  <rect id="hover-top" style="fill:#161616" width="24" height="4" x="48" y="0"/>
-  <rect id="minimized-top" style="fill:#0f0f0f" width="24" height="4" x="72" y="0"/>
-  <rect id="attention-top" style="fill:#330000" width="24" height="4" x="96" y="0"/>
+
+  <rect id="north-normal-top" style="fill:#111810" width="24" height="4" x="0" y="0"/>
+  <rect id="north-focus-top" style="fill:#222222" width="24" height="4" x="24" y="0"/>
+  <rect id="north-hover-top" style="fill:#161616" width="24" height="4" x="48" y="0"/>
+  <rect id="north-minimized-top" style="fill:#0f0f0f" width="24" height="4" x="72" y="0"/>
+  <rect id="north-attention-top" style="fill:#330000" width="24" height="4" x="96" y="0"/>
+
+  <rect id="north-normal-center" style="fill:#000000" width="16" height="16" x="4" y="4"/>
+  <rect id="north-normal-topleft" style="fill:#660000" width="4" height="4" x="0" y="0"/>
+  <rect id="north-normal-top" style="fill:#000066" width="24" height="4" x="4" y="0"/>
+  <rect id="north-normal-topright" style="fill:#660000" width="4" height="4" x="20" y="0"/>
+  <rect id="north-normal-right" style="fill:#000066" width="4" height="24" x="20" y="4"/>
+  <rect id="north-normal-left" style="fill:#000066" width="4" height="24" x="0" y="4"/>
+  <rect id="north-normal-bottomleft" style="fill:#660000" width="4" height="4" x="0" y="20"/>
+  <rect id="north-normal-bottom" style="fill:#000066" width="24" height="4" x="4" y="20"/>
+  <rect id="north-normal-bottomright" style="fill:#660000" width="4" height="4" x="20" y="20"/>
+  
 </svg>
