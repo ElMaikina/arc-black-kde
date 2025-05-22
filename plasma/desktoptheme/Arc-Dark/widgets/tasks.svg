@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="enable-background:new" width="120" height="24" version="1">
-  <rect id="minimized-top" style="fill:#080808" width="24" height="2" x="0" y="0"/>
-  <rect id="hover-top" style="fill:#111111" width="24" height="2" x="24" y="0"/>
-  <rect id="progress-top" style="fill:#002233" width="24" height="2" x="48" y="0"/>
-  <rect id="attention-top" style="fill:#330000" width="24" height="2" x="72" y="0"/>
-  <rect id="normal-top" style="fill:#111810" width="24" height="2" x="96" y="0"/>
+  <rect id="normal-top" style="fill:#111810" width="24" height="4" x="0" y="0"/>
+  <rect id="focus-top" style="fill:#222222" width="24" height="4" x="24" y="0"/>
+  <rect id="hover-top" style="fill:#161616" width="24" height="4" x="48" y="0"/>
+  <rect id="minimized-top" style="fill:#0f0f0f" width="24" height="4" x="72" y="0"/>
+  <rect id="attention-top" style="fill:#330000" width="24" height="4" x="96" y="0"/>
 </svg>
