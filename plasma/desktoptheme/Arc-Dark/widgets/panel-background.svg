@@ -1,18 +1,26 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="48" version="1">
 
-  <rect id="center" style="fill:#000000" width="24" height="24" x="0" y="0"/>
-  <rect id="mask-center" style="fill:#000000" width="24" height="24" x="0" y="0"/>
-  <rect id="thick-center" style="fill:#000000" width="24" height="24" x="0" y="24"/>
-  <rect id="hint-tile-center" style="fill:#000000" width="4" height="4" x="10" y="10"/>
+  <rect id="center" style="fill:#000000" width="16" height="16" x="4" y="4"/>
+  <rect id="topleft" style="fill:#660000" width="4" height="4" x="0" y="0"/>
+  <rect id="top" style="fill:#000066" width="24" height="4" x="4" y="0"/>
+  <rect id="topright" style="fill:#660000" width="4" height="4" x="20" y="0"/>
+  <rect id="right" style="fill:#000066" width="4" height="24" x="20" y="4"/>
+  <rect id="left" style="fill:#000066" width="4" height="24" x="0" y="4"/>
+  <rect id="bottomleft" style="fill:#660000" width="4" height="4" x="0" y="20"/>
+  <rect id="bottom" style="fill:#000066" width="24" height="4" x="4" y="20"/>
+  <rect id="bottomright" style="fill:#660000" width="4" height="4" x="20" y="20"/>
   
+  <rect id="hint-tile-center" style="fill:#000000" width="4" height="4" x="10" y="10"/>
   <rect id="hint-top-margin" style="fill:#ff00ff" width="4" height="4" x="10" y="0"/>
   <rect id="hint-right-margin" style="fill:#ff00ff" width="4" height="4" x="20" y="10"/>
   <rect id="hint-left-margin" style="fill:#ff00ff" width="4" height="4" x="0" y="10"/>
   <rect id="hint-bottom-margin" style="fill:#ff00ff" width="4" height="4" x="10" y="20"/>
   
+  <rect id="thick-center" style="fill:#000000" width="24" height="24" x="0" y="24"/>
   <rect id="thick-hint-top-margin" style="fill:#ff0000" width="4" height="4" x="10" y="24"/>
   <rect id="thick-hint-right-margin" style="fill:#ff0000" width="4" height="4" x="20" y="34"/>
   <rect id="thick-hint-left-margin" style="fill:#ff0000" width="4" height="4" x="0" y="34"/>
   <rect id="thick-hint-bottom-margin" style="fill:#ff0000" width="4" height="4" x="10" y="44"/>
  
+  <rect id="mask-center" style="fill:#000000" width="2" height="2" x="11" y="11"/>
  </svg>
