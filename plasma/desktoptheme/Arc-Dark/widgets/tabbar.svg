@@ -2,25 +2,25 @@
  
  <rect id="hint-tile-center" width="24" height="24" x="240" y="200" style="fill:#008000"/>
  
- <rect id="south-active-tab-center" width="64" height="8" x="76" y="224" style="opacity:0.5"/>
+ <rect id="south-active-tab-center" width="160" height="8" x="76" y="224" style="opacity:0.5"/>
  <rect id="south-active-tab-hint-top-margin" width="2" height="2" x="114" y="221" style="fill:#111810"/>
  <rect id="south-active-tab-hint-right-margin" width="2" height="2" x="160" y="227" style="fill:#111810"/>
  <rect id="south-active-tab-hint-left-margin" width="2" height="2" x="66" y="227" style="fill:#111810"/>
  <rect id="south-active-tab-hint-bottom-margin" width="2" height="2" x="114" y="236" style="fill:#111810"/>
 
- <rect id="east-active-tab-center" width="64" height="8" x="-145.7" y="209" transform="rotate(-90)" style="opacity:0.5"/>
+ <rect id="east-active-tab-center" width="160" height="8" x="-145.7" y="209" transform="rotate(-90)" style="opacity:0.5"/>
  <rect id="east-active-tab-hint-top-margin" width="2" height="2" x="-62" y="212" transform="rotate(-90)" style="fill:#111810"/>
  <rect id="east-active-tab-hint-right-margin" width="2" height="2" x="-102" y="221" transform="rotate(-90)" style="fill:#111810"/>
  <rect id="east-active-tab-hint-left-margin" width="2" height="2" x="-102" y="205" transform="rotate(-90)" style="fill:#111810"/>
  <rect id="east-active-tab-hint-bottom-margin" width="2" height="2" x="-156" y="212" transform="rotate(-90)" style="fill:#111810"/>
  
- <rect id="west-active-tab-center" width="64" height="8" x="66" y="-16" transform="rotate(90)" style="opacity:0.5"/>
+ <rect id="west-active-tab-center" width="160" height="8" x="66" y="-16" transform="rotate(90)" style="opacity:0.5"/>
  <rect id="west-active-tab-hint-top-margin" width="2" height="2" x="56" y="-13" transform="rotate(90)" style="fill:#111810"/>
  <rect id="west-active-tab-hint-right-margin" width="2" height="2" x="97" y="-20" transform="rotate(90)" style="fill:#111810"/>
  <rect id="west-active-tab-hint-left-margin" width="2" height="2" x="97" y="-4" transform="rotate(90)" style="fill:#111810"/>
  <rect id="west-active-tab-hint-bottom-margin" width="2" height="2" x="150" y="-13" transform="rotate(90)" style="fill:#111810"/>
 
- <rect id="north-active-tab-center" width="64" height="8" x="-163" y="-16" transform="scale(-1)" style="opacity:0.5"/>
+ <rect id="north-active-tab-center" width="160" height="8" x="-163" y="-16" transform="scale(-1)" style="opacity:0.5"/>
  <rect id="north-focus-hint-top-margin" width="2" height="2" x="-119" y="-4" transform="scale(-1)" style="fill:#111810"/>
  <rect id="north-focus-hint-right-margin" width="2" height="2" x="-173" y="-13" transform="scale(-1)" style="fill:#111810"/>
  <rect id="north-focus-hint-left-margin" width="2" height="2" x="-79" y="-13" transform="scale(-1)" style="fill:#111810"/>

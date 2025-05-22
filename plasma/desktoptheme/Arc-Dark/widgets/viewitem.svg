@@ -1,9 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="257" height="161" version="1">
- <g id="layer1" transform="translate(297,-432)">
-  <rect id="hint-tile-center" width="40" height="40" x="-247.07" y="341.68" style="fill:#008000"/>
-  <path id="selected-center" d="m -267,447.01572 0,48 48,0 0,-48 -48,0 z" style="opacity:0.8;fill:#111810"/>
-  <path id="normal-center" d="m -167.00001,449.01572 0,48 48,0 0,-48 -48,0 z" style="opacity:0.001"/>
-  <path id="hover-center" d="m -252,525.46828 0,48 48,0 0,-48 -48,0 z" style="opacity:0.9;fill:#111810"/>
-  <path id="selected+hover-center" d="m -147,525.26324 0,48 48,0 0,-48 -48,0 z" style="fill:#111810"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg"  width="128" height="128" version="1">
+  <rect id="hint-tile-center" style="fill:#000000"  width="128" height="24" x="0" y="0"/>
+  <rect id="selected-center" style="fill:#111810"  width="128" height="24" x="0" y="24"/>
+  <rect id="normal-center" style="fill:#080808"  width="128" height="24" x="0" y="48"/>
+  <rect id="hover-center" style="fill:#080808"  width="128" height="24" x="0" y="72"/>
+  <rect id="selected+hover-center" style="fill:#080808"  width="128" height="24" x="0" y="96"/>
 </svg>

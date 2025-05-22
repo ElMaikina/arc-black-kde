@@ -13,27 +13,11 @@
   <linearGradient id="linearGradient4315" x1="83.6" x2="83.6" y1="-969.362" y2="-957.362" gradientTransform="matrix(0.71428571,0,0,1,-110.65327,831.3622)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4465"/>
   <linearGradient id="linearGradient4317" x1="83.6" x2="83.6" y1="-969.362" y2="-957.362" gradientTransform="matrix(0.71428571,0,0,1,127.28571,1069.3012)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4465"/>
  </defs>
- <rect id="center" style="opacity:0.90;fill:#000000" width="50" height="50" x="7" y="51.94"/>
+ <rect id="center" style="fill:#000000" width="50" height="50" x="7" y="51.94"/>
+ <rect id="mask-center" width="50" height="50" x="70" y="144.94"/>
  <rect id="hint-top-margin" style="fill:#ff00ff" width="4" height="10" x="29" y="51.94"/>
  <rect id="hint-bottom-margin" style="fill:#ff00ff" width="4" height="10" x="29" y="91.94"/>
  <rect id="hint-left-margin" style="fill:#ff00ff" width="10" height="4" x="7" y="73.94"/>
  <rect id="hint-right-margin" style="fill:#ff00ff" width="10" height="4" x="47" y="73.94"/>
  <rect id="hint-tile-center" style="fill:#ff6600" width="2" height="2" x="0" y="-.06"/>
- <path id="shadow-topleft" style="fill:url(#radialGradient4275)" d="m 121,49.93897 10,0 0,-2 c 0,-2.77 2.23,-5 5,-5 l 2,0 0,-10 -17,0 z"/>
- <path id="shadow-bottomright" style="fill:url(#radialGradient3382)" d="m 205,99.93897 -10,0 0,2 c 0,2.77 -2.23,5 -5,5 l -2,0 0,10 17,0 z"/>
- <path id="shadow-topright" style="fill:url(#radialGradient4255)" d="m 188,32.93897 0,10 2,0 c 2.77,0 5,2.23 5,5 l 0,2 10,0 0,-17 z"/>
- <path id="shadow-bottomleft" style="fill:url(#radialGradient4263)" d="m 138,116.93897 0,-10 -2,0 c -2.77,0 -5,-2.23 -5,-5 l 0,-2 -10,0 0,17 z"/>
- <rect id="shadow-hint-right-margin" style="fill:#ff00ff" width="10" height="4" x="195" y="72.94"/>
- <rect id="shadow-hint-bottom-margin" style="fill:#ff00ff" width="4" height="10" x="161" y="106.94"/>
- <rect id="shadow-hint-left-margin" style="fill:#ff00ff" width="10" height="4" x="121" y="72.94"/>
- <rect id="shadow-hint-top-margin" style="fill:#ff00ff" width="4" height="10" x="162" y="32.94"/>
- <rect id="mask-center" width="50" height="50" x="70" y="144.94"/>
- <path id="mask-topleft" d="m 70,137.93887 v 7 h -7 v -2 c 0,-2.77 2.23,-5 5,-5 z"/>
- <path id="mask-left" d="m 63.00001,144.93886 v 50 l 7,1e-5 v -50 z"/>
- <path id="mask-right" d="m 126.99999,144.93887 v 50 l -7,1e-5 v -50 z"/>
- <path id="mask-bottomleft" d="m 70,201.93896 v -7 h -7 v 2 c 0,2.77 2.23,5 5,5 z"/>
- <path id="mask-bottom" d="m 69.99997,201.939 h 50.00002 v -7 H 69.99998 Z"/>
- <path id="mask-bottomright" d="m 119.99999,201.93896 v -7 h 7 v 2 c 0,2.77 -2.23,5 -5,5 z"/>
- <path id="mask-topright" d="m 119.99999,137.93887 v 7 h 7 v -2 c 0,-2.77 -2.23,-5 -5,-5 z"/>
- <path id="mask-top" d="m 69.99997,137.93887 h 50.00002 v 7 H 69.99998 Z"/>
 </svg>
