@@ -1,20 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="72" version="1">
- <rect id="normal-center" style="fill:#000000" width="32" height="24" x="0" y="0"/>
- <rect id="hover-center" style="fill:#000000" width="32" height="24" x="0" y="24"/>
- <rect id="pressed-center" style="fill:#111810" width="32" height="24" x="0" y="48"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="60" version="1">
+ <rect id="normal-center" style="fill:#000000" width="20" height="20" x="0" y="0"/>
+ <rect id="hover-center" style="fill:#000000" width="20" height="20" x="0" y="20"/>
+ <rect id="pressed-center" style="fill:#111810" width="20" height="20" x="0" y="40"/>
  
- <rect id="normal-hint-top-margin" style="fill:#4e9a06" width="4" height="4" x="14" y="0"/>
- <rect id="normal-hint-right-margin" style="fill:#4e9a06" width="4" height="4" x="28" y="11"/>
- <rect id="normal-hint-left-margin" style="fill:#4e9a06" width="4" height="4" x="0" y="11"/>
- <rect id="normal-hint-bottom-margin" style="fill:#4e9a06" width="4" height="4" x="14" y="20"/>
+ <rect id="normal-hint-top-margin" style="fill:#4e9a06" width="2" height="2" x="9" y="0"/>
+ <rect id="normal-hint-right-margin" style="fill:#4e9a06" width="2" height="2" x="18" y="10"/>
+ <rect id="normal-hint-left-margin" style="fill:#4e9a06" width="2" height="2" x="0" y="10"/>
+ <rect id="normal-hint-bottom-margin" style="fill:#4e9a06" width="2" height="2" x="9" y="18"/>
 
- <rect id="hover-hint-top-margin" style="fill:#4e9a06" width="4" height="4" x="14" y="24"/>
- <rect id="hover-hint-right-margin" style="fill:#4e9a06" width="4" height="4" x="28" y="35"/>
- <rect id="hover-hint-left-margin" style="fill:#4e9a06" width="4" height="4" x="0" y="35"/>
- <rect id="hover-hint-bottom-margin" style="fill:#4e9a06" width="4" height="4" x="14" y="44"/>
+ <rect id="hover-hint-top-margin" style="fill:#4e9a06" width="2" height="2" x="9" y="20"/>
+ <rect id="hover-hint-right-margin" style="fill:#4e9a06" width="2" height="2" x="18" y="30"/>
+ <rect id="hover-hint-left-margin" style="fill:#4e9a06" width="2" height="2" x="0" y="30"/>
+ <rect id="hover-hint-bottom-margin" style="fill:#4e9a06" width="2" height="2" x="9" y="38"/>
 
- <rect id="pressed-hint-top-margin" style="fill:#4e9a06" width="4" height="4" x="14" y="48"/>
- <rect id="pressed-hint-right-margin" style="fill:#4e9a06" width="4" height="4" x="28" y="59"/>
- <rect id="pressed-hint-left-margin" style="fill:#4e9a06" width="4" height="4" x="0" y="59"/>
- <rect id="pressed-hint-bottom-margin" style="fill:#4e9a06" width="4" height="4" x="14" y="68"/>
+ <rect id="pressed-hint-top-margin" style="fill:#4e9a06" width="2" height="2" x="9" y="40"/>
+ <rect id="pressed-hint-right-margin" style="fill:#4e9a06" width="2" height="2" x="18" y="50"/>
+ <rect id="pressed-hint-left-margin" style="fill:#4e9a06" width="2" height="2" x="0" y="50"/>
+ <rect id="pressed-hint-bottom-margin" style="fill:#4e9a06" width="2" height="2" x="9" y="58"/>
 </svg>
