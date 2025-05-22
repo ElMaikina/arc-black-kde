@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" version="1">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" version="1">
  <defs>
   <linearGradient id="linearGradient4465">
    <stop style="stop-color:#000000;stop-opacity:0.50980395" offset="0"/>
@@ -21,10 +21,10 @@
   <linearGradient id="linearGradient4405" x1="83.6" x2="83.6" y1="-969.362" y2="-957.362" gradientTransform="matrix(0.71428571,0,0,1,-317.71429,1250.3622)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4465"/>
   <linearGradient id="linearGradient4407" x1="83.6" x2="83.6" y1="-969.362" y2="-957.362" gradientTransform="matrix(0.71428571,0,0,1,-317.71429,1250.3622)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4465"/>
  </defs>
- <rect id="center" style="fill:#000000" width="32" height="32" x="0" y="0"/>
- <rect id="hint-tile-center" style="fill:#ff6600" width="2" height="2" x="-2" y="-2"/>
- <rect id="hint-top-margin" style="fill:#ff00ff" width="2" height="2" x="14" y="-2"/>
- <rect id="hint-right-margin" style="fill:#ff00ff" width="2" height="2" x="32" y="16"/>
- <rect id="hint-left-margin" style="fill:#ff00ff" width="2" height="2" x="-2" y="16"/>
- <rect id="hint-bottom-margin" style="fill:#ff00ff" width="2" height="2" x="16" y="32"/>
+ <rect id="center" style="fill:#000000" width="24" height="24" x="0" y="0"/>
+ <rect id="hint-tile-center" style="fill:#ff6600" width="4" height="4" x="0" y="0"/>
+ <rect id="hint-top-margin" style="fill:#ff00ff" width="4" height="4" x="10" y="0"/>
+ <rect id="hint-right-margin" style="fill:#ff00ff" width="4" height="4" x="20" y="10"/>
+ <rect id="hint-left-margin" style="fill:#ff00ff" width="4" height="4" x="0" y="10"/>
+ <rect id="hint-bottom-margin" style="fill:#ff00ff" width="4" height="4" x="10" y="20"/>
 </svg>
