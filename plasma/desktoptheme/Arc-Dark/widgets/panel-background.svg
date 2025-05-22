@@ -1,18 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="48" version="1">
- <defs>
-  <radialGradient id="radialGradient4263" cx="984" cy="905.362" r="8.5" fx="984" fy="905.362" gradientTransform="matrix(-1.411767,-9.899721e-6,9.8996845e-6,-1.4117618,1527.1698,1378.1046)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4465"/>
-  <linearGradient id="linearGradient4465">
-   <stop style="stop-color:#000000;stop-opacity:0.50980395" offset="0"/>
-   <stop style="stop-color:#000000;stop-opacity:0" offset="1"/>
-  </linearGradient>
-  <linearGradient id="linearGradient4259" x1="83.6" x2="83.6" y1="-969.362" y2="-957.362" gradientTransform="matrix(0.71428571,0,0,1,127.28571,919.42316)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4465"/>
-  <radialGradient id="radialGradient3382" cx="984" cy="905.362" r="8.5" fx="984" fy="905.362" gradientTransform="matrix(7.8257357e-6,1.411771,-1.4117668,7.8257123e-6,1466.1525,-1289.2507)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4465"/>
-  <linearGradient id="linearGradient4452" x1="-260" x2="-260" y1="281" y2="293" gradientTransform="translate(207.06096,-93)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4465"/>
-  <radialGradient id="radialGradient4255" cx="982.909" cy="906.453" r="8.5" fx="982.909" fy="906.453" gradientTransform="matrix(1.4117577,5.5406049e-6,-5.5406032e-6,1.4117573,-1199.6245,-1229.7582)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4465"/>
-  <radialGradient id="radialGradient4275" cx="984" cy="905.362" r="8.5" fx="984" fy="905.362" gradientTransform="matrix(-1.6187099e-5,-1.4117565,1.4117775,-1.618734e-5,-1140.1539,1439.1221)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4465"/>
-  <linearGradient id="linearGradient4385" x1="83.6" x2="83.6" y1="-969.362" y2="-957.362" gradientTransform="matrix(0.71428571,0,0,1,-110.65333,831.3622)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4465"/>
-  <linearGradient id="linearGradient4387" x1="83.6" x2="83.6" y1="-969.362" y2="-957.362" gradientTransform="matrix(0.71428571,0,0,1,127.28571,1069.3012)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4465"/>
- </defs>
 
   <rect id="center" style="fill:#000000" width="24" height="24" x="0" y="0"/>
   <rect id="mask-center" style="fill:#000000" width="24" height="24" x="0" y="0"/>
