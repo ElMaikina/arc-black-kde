@@ -12,9 +12,9 @@ tooltip_shadow_depth=0
 splitter_width=7
 check_size=16
 slider_width=4
-slider_handle_width=4
-slider_handle_length=4
-textless_progressbar=false
+slider_handle_width=8
+slider_handle_length=8
+textless_progressbar=true
 menubar_mouse_tracking=true
 slim_toolbars=true
 toolbutton_style=1
@@ -27,7 +27,7 @@ opaque=kaffeine,kmplayer,subtitlecomposer,kdenlive,vlc,smplayer,smplayer2,avidem
 group_toolbar_buttons=false
 vertical_spin_indicators=false
 fill_rubberband=false
-spread_progressbar=true
+spread_progressbar=false
 merge_menubar_with_toolbar=true
 small_icon_size=16
 large_icon_size=16
@@ -72,6 +72,7 @@ transient_groove=false
 text.shadow=false
 text.italic=false
 text.bold=false
+remove_extra_frames=true
 
 [GeneralColors]
 window.color=#000000
@@ -184,7 +185,7 @@ frame.top=0
 frame.bottom=0
 frame.left=0
 frame.right=0
-focusFrame=true
+focusFrame=false
 
 [SliderCursor]
 inherits=PanelButtonCommand
