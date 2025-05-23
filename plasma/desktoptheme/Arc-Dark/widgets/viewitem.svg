@@ -1,7 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg"  width="80" height="100" version="1">
-  <rect id="hint-tile-center" style="fill:#ff0000"  width="80" height="20" x="0" y="0"/>
-  <rect id="selected-center" style="fill:#00ff00"  width="80" height="20" x="0" y="20"/>
-  <rect id="normal-center" style="fill:#0000ff"  width="80" height="20" x="0" y="40"/>
-  <rect id="hover-center" style="fill:#ff00ff"  width="80" height="20" x="0" y="60"/>
-  <rect id="selected+hover-center" style="fill:#ffff00"  width="80" height="20" x="0" y="80"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="96" version="1">
+
+  <rect id="normal-center" style="fill:#0000ff" width="16" height="16" x="4" y="4"/>
+  <rect id="normal-topleft" style="fill:#ffffff" width="4" height="4" x="0" y="0"/>
+  <rect id="normal-top" style="fill:#ffffff" width="4" height="4" x="10" y="0"/>
+  <rect id="normal-topright" style="fill:#ffffff" width="4" height="4" x="20" y="0"/>
+  <rect id="normal-right" style="fill:#ffffff" width="4" height="4" x="20" y="10"/>
+  <rect id="normal-left" style="fill:#ffffff" width="4" height="4" x="0" y="10"/>
+  <rect id="normal-bottomleft" style="fill:#ffffff" width="4" height="4" x="0" y="20"/>
+  <rect id="normal-bottom" style="fill:#ffffff" width="4" height="4" x="10" y="20"/>
+  <rect id="normal-bottomright" style="fill:#ffffff" width="4" height="4" x="20" y="20"/>
+  
+  <rect id="selected-center" style="fill:#00ff00" width="16" height="16" x="4" y="28"/>
+  <rect id="selected-topleft" style="fill:#eeeeee" width="4" height="4" x="0" y="24"/>
+  <rect id="selected-top" style="fill:#eeeeee" width="4" height="4" x="10" y="24"/>
+  <rect id="selected-topright" style="fill:#eeeeee" width="4" height="4" x="20" y="24"/>
+  <rect id="selected-right" style="fill:#eeeeee" width="4" height="4" x="20" y="34"/>
+  <rect id="selected-left" style="fill:#eeeeee" width="4" height="4" x="0" y="34"/>
+  <rect id="selected-bottomleft" style="fill:#eeeeee" width="4" height="4" x="0" y="44"/>
+  <rect id="selected-bottom" style="fill:#eeeeee" width="4" height="4" x="10" y="44"/>
+  <rect id="selected-bottomright" style="fill:#eeeeee" width="4" height="4" x="20" y="44"/>
+ 
+  <rect id="selected-center" style="fill:#ffff00" width="16" height="16" x="4" y="52"/>
+  <rect id="selected-topleft" style="fill:#dddddd" width="4" height="4" x="0" y="48"/>
+  <rect id="selected-top" style="fill:#dddddd" width="4" height="4" x="10" y="48"/>
+  <rect id="selected-topright" style="fill:#dddddd" width="4" height="4" x="20" y="48"/>
+  <rect id="selected-right" style="fill:#dddddd" width="4" height="4" x="20" y="58"/>
+  <rect id="selected-left" style="fill:#dddddd" width="4" height="4" x="0" y="58"/>
+  <rect id="selected-bottomleft" style="fill:#dddddd" width="4" height="4" x="0" y="68"/>
+  <rect id="selected-bottom" style="fill:#dddddd" width="4" height="4" x="10" y="68"/>
+  <rect id="selected-bottomright" style="fill:#dddddd" width="4" height="4" x="20" y="68"/>
+  
+  <rect id="hover-center" style="fill:#ff00ff" width="16" height="16" x="4" y="76"/>
+  <rect id="selected-topleft" style="fill:#cccccc" width="4" height="4" x="0" y="72"/>
+  <rect id="selected-top" style="fill:#cccccc" width="4" height="4" x="10" y="72"/>
+  <rect id="selected-topright" style="fill:#cccccc" width="4" height="4" x="20" y="72"/>
+  <rect id="selected-right" style="fill:#cccccc" width="4" height="4" x="20" y="82"/>
+  <rect id="selected-left" style="fill:#cccccc" width="4" height="4" x="0" y="82"/>
+  <rect id="selected-bottomleft" style="fill:#cccccc" width="4" height="4" x="0" y="92"/>
+  <rect id="selected-bottom" style="fill:#cccccc" width="4" height="4" x="10" y="92"/>
+  <rect id="selected-bottomright" style="fill:#cccccc" width="4" height="4" x="20" y="92"/>
+  
+ </svg>
