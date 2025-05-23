@@ -10,15 +10,15 @@
   <rect id="normal-bottom" style="fill:#ffffff" width="4" height="4" x="10" y="20"/>
   <rect id="normal-bottomright" style="fill:#ffffff" width="4" height="4" x="20" y="20"/>
   
-  <rect id="selected-center" style="fill:#00ff00" width="16" height="16" x="4" y="28"/>
-  <rect id="selected-topleft" style="fill:#eeeeee" width="4" height="4" x="0" y="24"/>
-  <rect id="selected-top" style="fill:#eeeeee" width="4" height="4" x="10" y="24"/>
-  <rect id="selected-topright" style="fill:#eeeeee" width="4" height="4" x="20" y="24"/>
-  <rect id="selected-right" style="fill:#eeeeee" width="4" height="4" x="20" y="34"/>
-  <rect id="selected-left" style="fill:#eeeeee" width="4" height="4" x="0" y="34"/>
-  <rect id="selected-bottomleft" style="fill:#eeeeee" width="4" height="4" x="0" y="44"/>
-  <rect id="selected-bottom" style="fill:#eeeeee" width="4" height="4" x="10" y="44"/>
-  <rect id="selected-bottomright" style="fill:#eeeeee" width="4" height="4" x="20" y="44"/>
+  <rect id="hover-center" style="fill:#00ff00" width="16" height="16" x="4" y="28"/>
+  <rect id="hover-topleft" style="fill:#eeeeee" width="4" height="4" x="0" y="24"/>
+  <rect id="hover-top" style="fill:#eeeeee" width="4" height="4" x="10" y="24"/>
+  <rect id="hover-topright" style="fill:#eeeeee" width="4" height="4" x="20" y="24"/>
+  <rect id="hover-right" style="fill:#eeeeee" width="4" height="4" x="20" y="34"/>
+  <rect id="hover-left" style="fill:#eeeeee" width="4" height="4" x="0" y="34"/>
+  <rect id="hover-bottomleft" style="fill:#eeeeee" width="4" height="4" x="0" y="44"/>
+  <rect id="hover-bottom" style="fill:#eeeeee" width="4" height="4" x="10" y="44"/>
+  <rect id="hover-bottomright" style="fill:#eeeeee" width="4" height="4" x="20" y="44"/>
  
   <rect id="selected-center" style="fill:#ffff00" width="16" height="16" x="4" y="52"/>
   <rect id="selected-topleft" style="fill:#dddddd" width="4" height="4" x="0" y="48"/>
@@ -30,14 +30,14 @@
   <rect id="selected-bottom" style="fill:#dddddd" width="4" height="4" x="10" y="68"/>
   <rect id="selected-bottomright" style="fill:#dddddd" width="4" height="4" x="20" y="68"/>
   
-  <rect id="hover-center" style="fill:#ff00ff" width="16" height="16" x="4" y="76"/>
-  <rect id="selected-topleft" style="fill:#cccccc" width="4" height="4" x="0" y="72"/>
-  <rect id="selected-top" style="fill:#cccccc" width="4" height="4" x="10" y="72"/>
-  <rect id="selected-topright" style="fill:#cccccc" width="4" height="4" x="20" y="72"/>
-  <rect id="selected-right" style="fill:#cccccc" width="4" height="4" x="20" y="82"/>
-  <rect id="selected-left" style="fill:#cccccc" width="4" height="4" x="0" y="82"/>
-  <rect id="selected-bottomleft" style="fill:#cccccc" width="4" height="4" x="0" y="92"/>
-  <rect id="selected-bottom" style="fill:#cccccc" width="4" height="4" x="10" y="92"/>
-  <rect id="selected-bottomright" style="fill:#cccccc" width="4" height="4" x="20" y="92"/>
+  <rect id="selected+hover-center" style="fill:#ff00ff" width="16" height="16" x="4" y="76"/>
+  <rect id="selected+hover-topleft" style="fill:#cccccc" width="4" height="4" x="0" y="72"/>
+  <rect id="selected+hover-top" style="fill:#cccccc" width="4" height="4" x="10" y="72"/>
+  <rect id="selected+hover-topright" style="fill:#cccccc" width="4" height="4" x="20" y="72"/>
+  <rect id="selected+hover-right" style="fill:#cccccc" width="4" height="4" x="20" y="82"/>
+  <rect id="selected+hover-left" style="fill:#cccccc" width="4" height="4" x="0" y="82"/>
+  <rect id="selected+hover-bottomleft" style="fill:#cccccc" width="4" height="4" x="0" y="92"/>
+  <rect id="selected+hover-bottom" style="fill:#cccccc" width="4" height="4" x="10" y="92"/>
+  <rect id="selected+hover-bottomright" style="fill:#cccccc" width="4" height="4" x="20" y="92"/>
   
  </svg>
