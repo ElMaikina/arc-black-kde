@@ -2,7 +2,7 @@
 #   gmake PREFIX=/usr/local install
 
 PREFIX ?= /usr
-PREFIX2 ?= ~/.local/
+PREFIX2 ?= ~/.local
 IGNORE ?=
 THEMES ?= aurorae color-schemes konsole konversation Kvantum plasma wallpapers yakuake icons
 
