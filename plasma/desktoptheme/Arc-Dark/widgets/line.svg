@@ -1,10 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="43" height="40" version="1">
- <g id="vertical-line" transform="translate(-32.96875,-13.59375)">
-  <path d="m 32.96875,13.59375 v 40 h 3 v -40 z" style="opacity:0.001"/>
-  <path d="m 33.96875,13.59375 v 40 h 1 v -40 z" style="fill-opacity:0.2"/>
- </g>
- <g id="horizontal-line" transform="translate(-32.690972,-18.529)">
-  <path d="m 75.690972,55.529 h -40 v 3 h 40 z" style="opacity:0.001"/>
-  <path d="m 75.690972,56.529 h -40 v 1 h 40 z" style="fill-opacity:0.2"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" version="1">
+  <rect id="vertical-line" style="fill:#ff0000" width="2" height="20" x="0" y="0"/>
+  <rect id="horizontal-line" style="fill:#0000ff" width="20" height="2" x="2" y="18"/>
 </svg>
