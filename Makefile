@@ -2,6 +2,7 @@
 #   gmake PREFIX=/usr/local install
 
 PREFIX ?= /usr
+PREFIX2 ?= ~/.local/
 IGNORE ?=
 THEMES ?= aurorae color-schemes konsole konversation Kvantum plasma wallpapers yakuake icons
 
@@ -12,7 +13,9 @@ all:
 
 install:
 	mkdir -p $(DESTDIR)$(PREFIX)/share
+	mkdir -p $(DESTDIR)$(PREFIX2)/share
 	cp -R $(THEMES) $(DESTDIR)$(PREFIX)/share
+	cp -R $(THEMES) $(DESTDIR)$(PREFIX2)/share
 
 uninstall:
 	-rm -rf $(DESTDIR)$(PREFIX)/share/aurorae/themes/Arc
