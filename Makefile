@@ -3,7 +3,7 @@
 
 PREFIX ?= /usr
 IGNORE ?=
-THEMES ?= aurorae color-schemes konsole konversation Kvantum plasma wallpapers yakuake
+THEMES ?= aurorae color-schemes konsole konversation Kvantum plasma wallpapers yakuake icons
 
 # excludes IGNORE from THEMES list
 THEMES := $(filter-out $(IGNORE), $(THEMES))
